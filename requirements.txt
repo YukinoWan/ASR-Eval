@@ -1,0 +1,10 @@
+datasets
+google-generativeai
+torch
+soundfile
+regex
+safetensors
+tokenizers=0.20.0
+librosa
+numpy==1.26.4
+accelerate
