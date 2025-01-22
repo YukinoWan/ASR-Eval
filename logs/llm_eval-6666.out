@@ -1,0 +1,15 @@
+Current directory: /mnt/home/zhenwan.nlp/ASR-Eval
+Available Python: /mnt/home/zhenwan.nlp/miniconda3/bin/python
+Conda environment: # conda environments:
+#
+base                  *  /mnt/home/zhenwan.nlp/miniconda3
+audio                    /mnt/home/zhenwan.nlp/miniconda3/envs/audio
+test                     /mnt/home/zhenwan.nlp/miniconda3/envs/test
+test2                    /mnt/home/zhenwan.nlp/miniconda3/envs/test2
+test3                    /mnt/home/zhenwan.nlp/miniconda3/envs/test3
+why                      /mnt/home/zhenwan.nlp/miniconda3/envs/why
+PROBLEM!!! The correct transcription is: Chronic disease of hair follicles and sebaceous glands.
+AVG whisper loss:  8.088091477597374
+AVG whisper kl:  551.8381315679183
+AVG neko loss:  8.565277121555088
+AVG neko kl:  586.0562344825444

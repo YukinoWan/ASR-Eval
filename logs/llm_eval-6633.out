@@ -1,0 +1,10 @@
+Current directory: /mnt/home/zhenwan.nlp/ASR-Eval
+Available Python: /mnt/home/zhenwan.nlp/miniconda3/envs/audio/bin/python
+Conda environment: # conda environments:
+#
+base                     /mnt/home/zhenwan.nlp/miniconda3
+audio                 *  /mnt/home/zhenwan.nlp/miniconda3/envs/audio
+test                     /mnt/home/zhenwan.nlp/miniconda3/envs/test
+test2                    /mnt/home/zhenwan.nlp/miniconda3/envs/test2
+test3                    /mnt/home/zhenwan.nlp/miniconda3/envs/test3
+why                      /mnt/home/zhenwan.nlp/miniconda3/envs/why

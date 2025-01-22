@@ -1,0 +1,3002 @@
+[
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time, and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is constant all the time and there's this glee secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down."
+  ]
+ },
+ {
+  "gold": "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.",
+  "canary_1best": [
+   "My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap, sitting down."
+  ]
+ },
+ {
+  "gold": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",
+  "canary_1best": [
+   "There is a time when I feel crushed under the huge weight and no air passing through my lungs, it actually scared the hell out of me when it happens."
+  ]
+ },
+ {
+  "gold": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",
+  "canary_1best": [
+   "There are times when I feel crushed under a huge weight and low air passing through my lungs, it actually scares the hell out of me, then it happens."
+  ]
+ },
+ {
+  "gold": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",
+  "canary_1best": [
+   "There are times when I feel pressed under a huge weight and no air passing on my lungs. I actually scares the hell out of my me when it happens."
+  ]
+ },
+ {
+  "gold": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",
+  "canary_1best": [
+   "There are times when I feel crushed under a huge weight and no air passing through my lungs. It actually scares the hell out of me when it happens."
+  ]
+ },
+ {
+  "gold": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",
+  "canary_1best": [
+   "There are times when I feel crushed under a huge weight and no air passing through my lungs, it actually scares the hell out of me when it happens."
+  ]
+ },
+ {
+  "gold": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",
+  "canary_1best": [
+   "There are times when I feel crushed under a huge weight and no air passing through my lungs it actually scares the hell out of me when it happens."
+  ]
+ },
+ {
+  "gold": "There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",
+  "canary_1best": [
+   "There are times when I feel crushed under a huge weight and no air coming to my lungs. It actually scares the hell out of me when it happens."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye. I think it is very serious. Please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye. I think it is pretty serious, please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it, and I have a shard of glass stuck in my left eye. I think it is pretty serious. Please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye. I think it's pretty serious, please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it and I have a shower of glass stuck in my left eye. I think it is pretty serious. Please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye. I think it is pretty serious. Please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye. I think it is pretty serious. Please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it, and I have a shard of glass stuck in my left eye. I think it is pretty serious, please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it, and I have a shard of glass stuck in my left eye. I think it is pretty serious. Please help."
+  ]
+ },
+ {
+  "gold": "I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye, I think it is pretty serious, please help!",
+  "canary_1best": [
+   "I fell through a window while I was cleaning it, and I have a shard of glass stuck in my left eye. I think it is pretty serious. Please help."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because the sinitis is killing me now."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because this sinusitis is killing me now."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because the cyanitis is killing me now."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because this sinusitis is killing me now."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because this sinus sinus is killing me now."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad as if it hurts. The way I feel in my head is awful and when I think about my breakup I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad, as if it hurts. The way I feel in my head is awful, and when I think about my breakup I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad, as if it hurts. The way I feel in my head is awful and when I think about my breakup, I cry with sadness."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because the sinsuit is killing me over."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad, as if it hurts. The way I feel in my head is awful. When I think about my breakup, I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad as if it hurts. The way I feel in my head is awful and when I think about my breakup I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad as if it hurts. The way I feel in my head is a fool and when I think about my breakup I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad, as if it hurts. The way I feel in my head is awful, and when I think about my breakup, I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad, as if it hurts. The way I feel in my head is awful, and when I think about my breakup I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad, as if it hurts. The way I feel in my head is awful, and when I think about my breakup, I cry with sadness."
+  ]
+ },
+ {
+  "gold": "My mind feels very sad, as if it hurts.  The way I feel in my head is awful and when I think about my break-up, I cry with sadness.",
+  "canary_1best": [
+   "My mind feels very sad as if it hurts. The way I feel in my head is awful and when I think about my breakup, I cry with sadness."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because this synesthesis is killing me now."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming lessons and I guess I swallowed too much water through my nose because this sinusitis is killing me now."
+  ]
+ },
+ {
+  "gold": "I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",
+  "canary_1best": [
+   "I started taking swimming relations and I guess I swallowed too much water through my nose because this sinusitis is killing me now."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks even on the hottest days, my toes are frozen."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks even on the hottest day my toes are frozen"
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks even on the hottest days my toes are frozen."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I clean, my face doesn't seem to be going away."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks even on the hottest days. My toes are frozen."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face is broken out in painful red spots and lumps that no matter how much I clean my face don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I clean my face don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks, even on the hottest days my toes are frozen."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks. Even on the hottest days my toes are frozen."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I claim my face don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks even on the hottest days. My toes are frozen."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I clean my face, don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out into painful red spots and lumps that no matter how much I clean my face, don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks, even on the hottest days. My toes are frozen."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I clean my face, don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I clean my face don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I clean my face don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen."
+  ]
+ },
+ {
+  "gold": "My face has broken out in painful red spots and lumps, that no matter how much I clean my face don't seem to be going away.",
+  "canary_1best": [
+   "My face has broken out in painful red spots and lumps that no matter how much I clean my face don't seem to be going away."
+  ]
+ },
+ {
+  "gold": "There must be something wrong with my blood circulation, I have to wear socks even on the hottest days, my toes are frozen!",
+  "canary_1best": [
+   "There must be something wrong with my blood circulation. I have to wear socks even on the hottest days. My toes are frozen."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube. My sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube. My sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube, my sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel thrilled like an ice cube. My sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube. My sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube. My sister says that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly, like an ice cube. My sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube, my sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube. My sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "I feel chilly, like an ice cube.  My sister said that she needs several blankets to cover her so that she is warm enough.",
+  "canary_1best": [
+   "I feel chilly like an ice cube. My sister said that she needs several blankets to cover her so that she is warm enough."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now finely oozing."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded, and it pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The worst headache was during a hangover in my twenties. I sincerely thought I was on going to die from pain inflammation."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The worst headache was during a hangover in my twenties, I sincerely thought I was going to die when brain inflammation."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and had pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The word said that was during a hamburger in my twenties. I sincerely thought I was going to die from brain inflammation."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows straight and it pulled an opening of skin in one of her brows that is snow puffy and oozing."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The first headache was during a hangover in twenties. I sincerely thought I was going to die from brain inflammation."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The worst headache was during a hangover in my twenties. I sincerely thought I was going to die from brain inflammation."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The worst headache was during a hangover in my twenties, I sincerely thought I was going to die from brain inflammation."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "Ost headache was during hangover in my twenties, I sincerely thought I was going to die from brain inflammation."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The worst headache was during a hangover in my twenties. I sincerely thought I was going to die from brain formation."
+  ]
+ },
+ {
+  "gold": "The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.",
+  "canary_1best": [
+   "The worst headache was during a hangover in my twenties. I sincerely thought I was going to die from brain inflammation."
+  ]
+ },
+ {
+  "gold": "My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.",
+  "canary_1best": [
+   "My daughter had her age brown three D and it followed on opening of skin in one of her browns that is no buffy and easy."
+  ]
+ },
+ {
+  "gold": "I have a wound between my toes that gets better overnight and then reopens ever day when I wear dress shoes to work.",
+  "canary_1best": [
+   "I have a wound between my toes that gets wetter overnight and then reopens every day when I wear dress shoes to work."
+  ]
+ },
+ {
+  "gold": "I have a wound between my toes that gets better overnight and then reopens ever day when I wear dress shoes to work.",
+  "canary_1best": [
+   "I have a window between my toes that gets better overnight and then reopens every day when I used to."
+  ]
+ },
+ {
+  "gold": "I have a wound between my toes that gets better overnight and then reopens ever day when I wear dress shoes to work.",
+  "canary_1best": [
+   "I have a wound between my toes that gets better overnight and then reopens every day when I give better shoes to work."
+  ]
+ },
+ {
+  "gold": "I have a wound between my toes that gets better overnight and then reopens ever day when I wear dress shoes to work.",
+  "canary_1best": [
+   "I have a wound between my toes that gets better overnight and then reopens every day when I wear dress shoes to work."
+  ]
+ },
+ {
+  "gold": "I have a wound between my toes that gets better overnight and then reopens ever day when I wear dress shoes to work.",
+  "canary_1best": [
+   "I have a wound between my toes that gets better overnight and then reopens every day when I wear dress shoes to work."
+  ]
+ },
+ {
+  "gold": "I have a wound between my toes that gets better overnight and then reopens ever day when I wear dress shoes to work.",
+  "canary_1best": [
+   "I have a wound between my toys that gets better overnight and then reopens every day when I wear dress shoes to work."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave way the other day at the top of the stairs. Luckily there was a rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave way to other day at the top of the stairs. Luckily there was a rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knees feel weak and it gave way the other day at the top of the stairs, luckily there was a rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave away the other day at the top of the stairs. Luckily there was a rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave way the other day at the top of the stairs, luckily there was a rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak, and it gave away the other day at the top of the stairs. Luckily there was a rail to hold on to."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave way the other day at the top of the stairs. Luckily there was rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave way the other day at the top of the stairs. Luckily there was a rail to hold down to."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave away the other day at the top of the stairs. Luckily there was a rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My knee feels weak and it gave way the other day at the top of the stairs.  Luckily there was a rail to hold on to.",
+  "canary_1best": [
+   "My knee feels weak and it gave way the other day at the top of the cereal. Luckily there was a rail to hold onto."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he thought was cold sore but now it has broken open and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he thought was cold sore, but now it has broken open and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he thought was cold sore, but now it has broken open and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he thought was a cold saw, but now it's broken open, and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he though was cold sore, but now it has broken open and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he thought was a cold sore, but now it has broken open and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "My husband has a spot on his lip that he though was cold sore but now it has broken open and leaks fluid all day.",
+  "canary_1best": [
+   "My husband has a spot on his lip that he thought was cold sore, but now it has broken open and leaks fluid all day."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or headache or any other symptoms, just an earache."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or headache or any other symptoms, just an earache."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or headache or any other symptoms, just an earache."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or a headache or any other symptoms, just an earache."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or headache or any other symptoms, just an earache."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or headache or any other symptoms just a headache."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or a headache or any other symptoms, just an earache."
+  ]
+ },
+ {
+  "gold": "I have an ear ache that won't go away.  I don't have a cold or headache or any other symptoms.  Just an earache.",
+  "canary_1best": [
+   "I have an earache that won't go away. I don't have a cold or headache or any other symptoms, just an earache."
+  ]
+ },
+ {
+  "gold": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+  "canary_1best": [
+   "I used to be out of breath after going up a dozen of stairs, but now I struggle to breathe even when I sit down."
+  ]
+ },
+ {
+  "gold": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+  "canary_1best": [
+   "I used to be out of breath after going up a dozen of stairs, but now I struggle to breathe even when I sit down."
+  ]
+ },
+ {
+  "gold": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+  "canary_1best": [
+   "I used to be out of breath after one of a dozen of stairs, but now I struggle to brain even when I sit down."
+  ]
+ },
+ {
+  "gold": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+  "canary_1best": [
+   "I used to be out of breath after going up a dozen of stairs but now I struggle to breathe even when I sit down."
+  ]
+ },
+ {
+  "gold": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+  "canary_1best": [
+   "I used to be out of breath after going up a dozen of stairs, but now I struggle to breathe even when I sit down."
+  ]
+ },
+ {
+  "gold": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+  "canary_1best": [
+   "I feel a sharp pain in my stomach."
+  ]
+ },
+ {
+  "gold": "I used to be out of breath after going up a dozen of stairs, but now I struggle to breath even when I sit down.",
+  "canary_1best": [
+   "I used to be out of breath after going up a dozen of stairs but now I struggle to breathe even when I sit down."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple weeks ago and even though I keep using an antibiotic cream, it's not getting bitter."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream, it's not getting better."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream, it is not getting better."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs. It feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago, and even though I keep using an antibiotic cream, it's not getting better."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body, between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs, it feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs. It feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "discomfort or pain that is felt at some point along the front of the body, between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs. It feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs, it feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream, it's not getting better."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream, it's not getting better."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago, and even though I keep using an antibiotic cream, it's not getting better."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream, it's not getting better."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs. It feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs, it feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body, between the neck and the upper abdomen."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream, it's not getting better."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs, it feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "The pain is intense especially when I go down the stairs, it feels like something has snapped inside my knee.",
+  "canary_1best": [
+   "The pain is intense, especially when I go down the stairs. It feels like something has snapped inside my knee."
+  ]
+ },
+ {
+  "gold": "discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.",
+  "canary_1best": [
+   "Discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.",
+  "canary_1best": [
+   "I cut my head a couple of weeks ago and even though I keep using an athletic tip, it's not getting better."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When I get up, I found that I have a stomachache and I tried to take my medicine but my stomach still hurting me."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When Get Up I found that I have a stomach ache and I tried to take medicine but my stomach still hurting me."
+  ]
+ },
+ {
+  "gold": "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a jog.",
+  "canary_1best": [
+   "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a jog."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When get up I found that I have stomach ache and I tried to take medicine but my stomach still hurting me."
+  ]
+ },
+ {
+  "gold": "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a jog.",
+  "canary_1best": [
+   "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a jog."
+  ]
+ },
+ {
+  "gold": "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a jog.",
+  "canary_1best": [
+   "There is extreme pressure below my belly button on the right, which I felt every time I got all for a joke."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When I got up I found I have a stomach and tried to make medicine but my stomach still hurt me."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When get up I found that I have a stomach ache and I tried to take medicine but my stomach still hurting me."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When I get up I found that I have a stomach ache and I try to take medicine but my stomach's still hurting me."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When get up I found that I have a stomach ache and I tried to take medicine but my stomach still hurting me."
+  ]
+ },
+ {
+  "gold": "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a jog.",
+  "canary_1best": [
+   "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a job."
+  ]
+ },
+ {
+  "gold": "When get up I found that I have a stomach ache  and I tried to take medecine but my stomach still hurting me",
+  "canary_1best": [
+   "When get up, I found that I have a stomachache and I tried to take medicine but my stomach's still hurting me."
+  ]
+ },
+ {
+  "gold": "There is an extreme pressure below my belly button at the right, which I feel every time I go out for a jog.",
+  "canary_1best": [
+   "There is an extreme pressure below my belly button at the right which I feel every time I go out for a jog."
+  ]
+ },
+ {
+  "gold": "I have cut my finger because of playing football and I have to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I have to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.",
+  "canary_1best": [
+   "I can't really jump on my left foot because my triple fracture of the ankle left me with never ending pains."
+  ]
+ },
+ {
+  "gold": "I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.",
+  "canary_1best": [
+   "I can't rejump on my left foot because my triple fracture of the ankle left me with never ending pains."
+  ]
+ },
+ {
+  "gold": "I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.",
+  "canary_1best": [
+   "I can't really jump on my left foot because my triple fracture of the ankle left me with never ending pains."
+  ]
+ },
+ {
+  "gold": "I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.",
+  "canary_1best": [
+   "I can rarely jump on my left foot because my triple fracture on the ankle left me with nerding pains."
+  ]
+ },
+ {
+  "gold": "I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.",
+  "canary_1best": [
+   "I can't really jump on my left foot because my triple fracture of the ankle left me with never ending pains."
+  ]
+ },
+ {
+  "gold": "I can't really jump on my left foot because my triple fracture of the ankle left me with neverending pains.",
+  "canary_1best": [
+   "I can't really jump on my left foot because my triple fracture of the ankle left me with never ending pains."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get a stomach ache after I eke. I haven't been able to pinpoint which foods might be the trigger."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again"
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I've always been very active but now I just don't have the strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a route canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I've always been very active, but now I just don't have the strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were self damaged during the operations and my ankle tonic constant being touched on the scar."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I have always been very active but now just don't have strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get a stomachache after I eat, I haven't been able to pinpoint which foods might be the trigger."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get a stomach ache after I eat. I haven't been able to pinpoint which foods might be the trigger."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get stomachache after I eat. I haven't been able to pinpoint which food might be the trigger."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get a stomachache after I eat. I haven't been able to pinpoint which foods might be the trigger."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the skull."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get a stomach ache after I eat. I haven't been able to pinpoint which foods might be the trigger."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I've always been very active but now I just don't have the strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff nape every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I have always been very active but now I just don't have the strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get a stomach ache after I eat. I haven't been able to pinpoint which foods might be the trigger."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I have always been very active but now I just don't have the strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get the stomachache after I eat, I haven't been able to pinpoint which foods might be the trigger."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning. Massage helps, but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the aberration on my ankle that I cannot stand being touched on the scar."
+  ]
+ },
+ {
+  "gold": "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.",
+  "canary_1best": [
+   "The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar."
+  ]
+ },
+ {
+  "gold": "I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.",
+  "canary_1best": [
+   "I often get a stomach ache after I eat. I haven't been able to pinpoint which foods may be the trigger."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root kennel and the dentist accidentally cut the inside of his cheek and now it would not heal."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I've always been very active but now I just don't have the strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.",
+  "canary_1best": [
+   "My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal."
+  ]
+ },
+ {
+  "gold": "I wake up with a stiff neck every morning.  Massage helps but then a couple of days later it's back again.",
+  "canary_1best": [
+   "I wake up with a stiff neck every morning massage helps but then a couple of days later it's back again."
+  ]
+ },
+ {
+  "gold": "I've always been very active but now I just don't have the strength or energy to go for even a short walk.",
+  "canary_1best": [
+   "I've always been very active but now I just don't have the strength or energy to go for even a short walk."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "Doctor, it feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside of one of my nostrils that has become infected and is now filled with busts."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer I feel pain on the top of my head and it throbs"
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son nicked his neck with an old razor and the spot has become inflamed and look like it is infected."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head. It stops."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son nipped his neck with an old razor and that spot has become inflamed and looks like it is infected."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer, I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer, I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son naked his neck with an old razor and that spot has become inflamed and looks like it is infected."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus."
+  ]
+ },
+ {
+  "gold": "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus.",
+  "canary_1best": [
+   "I have a break in the skin inside one of my nostrils that has become infected and is now filled with pus."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son Nick is married to be there. That's how he becomes content with life."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son Nick, my snake with an old razor that spot has become inflamed and looks like an insect."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "It feels like someone is hitting my head with a hammer.  I feel pain on the top of my head and it throbs.",
+  "canary_1best": [
+   "It feels like someone is hitting my head with a hammer. I feel pain on the top of my head and it throbs."
+  ]
+ },
+ {
+  "gold": "My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.",
+  "canary_1best": [
+   "My son nested his neck with an old roger and that spot has become inflamed and looks like it is infested."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple days ago and although I didn't think I needed it stitches it hasn't closed up"
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was beat by her cat, and now her hand is sore, red, swollen, and the wound is oozing liquid."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was bit by her cat and now her hand is sore red and swollen and the wound is oozing liquid"
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago and although I didn't think I needed it stitches, it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple days ago and although I don't think it needs stitches, it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago and although I didn't think it needed stitches, it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was bit by her cat and now her hand is sore, wet and swollen and the wound is oozing liquid."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple days ago. And although I didn't think it needed speeches, it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was bit by her kate and now her hand is sore, red and swollen and the wound is oozing liquid."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I caught my hand a couple of days ago and although I didn't think I needed it stitching, it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was bit by her cat and now her hand is so red and swollen and the wound is using liquid."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is losing liquid."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was bit by her cat, and now her hand is sore, red and swollen, and the wound is oozing liquid."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago and although I didn't think it needed stitches it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago, and although I didn't think I needed it stitches, it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago and although I didn't think I needed it, stitches, it hasn't closed up."
+  ]
+ },
+ {
+  "gold": "My daughter was bit by her cat and now her hand is sore, red and swollen and the wound is oozing liquid.",
+  "canary_1best": [
+   "My daughter was beat by her cat and now her hand is sore, red and swollen and her wound is losing liquid."
+  ]
+ },
+ {
+  "gold": "I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.",
+  "canary_1best": [
+   "I cut my hand a couple of days ago and although I didn't think I needed it, it has been closed up."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected"
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside on his lip is gray and looks infected."
+  ]
+ },
+ {
+  "gold": "I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",
+  "canary_1best": [
+   "I never had any acne problems until my last pregnancy and all of a sudden my back got covered in jets"
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the weightlifting because I am afraid I may have torn a muscle on my back."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My tongue's lip pierced, he needed a swing in his skin side on his lip. I mean, looks infected."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected."
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the weight lifting because I'm afraid I may have torn a muscle on my back."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside his lip is gray and looks infected."
+  ]
+ },
+ {
+  "gold": "I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",
+  "canary_1best": [
+   "I never had any acne problem until my last pregnancy when all of a sudden my back got covered in jits."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it's swollen and the skin inside of his lip is grey and looks infected."
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the wearing weight lifting because I am afraid I may have torn a muscle on my back."
+  ]
+ },
+ {
+  "gold": "I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",
+  "canary_1best": [
+   "I never had any acne problems until my last band. All of the time my band got sober."
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the weightlifting because I'm afraid I may have torn a muscle on my back."
+  ]
+ },
+ {
+  "gold": "I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",
+  "canary_1best": [
+   "I never had any acne problems until my last pregnancy, when all of a sudden my back got covered in zits."
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected."
+  ]
+ },
+ {
+  "gold": "I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",
+  "canary_1best": [
+   "I never had any acne problems until my last pregnancy, when all of a sudden my back got covered in jets."
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the weightlifting because I'm afraid I may have turned a muscle on my back."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside of his lip is grey and looks infected."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected."
+  ]
+ },
+ {
+  "gold": "I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",
+  "canary_1best": [
+   "I never had any acne problems until my last pregnancy, when all of a sudden my back got covered in jets."
+  ]
+ },
+ {
+  "gold": "My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.",
+  "canary_1best": [
+   "My son had his lip pressure, and it is soaring, and the skin is irony, his leg is grey, and looks infected."
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the weight lifting because I am afraid I may have torn a muscle on my back."
+  ]
+ },
+ {
+  "gold": "I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",
+  "canary_1best": [
+   "I may have overdone it with the weightlifting because I am afraid I may have torn a muscle on my back."
+  ]
+ },
+ {
+  "gold": "I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",
+  "canary_1best": [
+   "I never had any asthma problems even till my last pregnancy, when all of a sudden my back got covered in jets."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes when it's cold outside my face hurts, especially around the pimples that are ready to pop."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes when it's cold outside my face hurts, especially around the pimples that are ready to pop."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago, and this time during landing my ears remained clogged and painful."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago and this time during landing my ears remained clogged and painful."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes when it's cold outside, my face hurts, especially around the pimples that are ready to pop."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago and this time during landing my ears remained clogged and painful."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago, and this time during landing my ears remained clogged and painful."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I too apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago and this time during landing my ears remained clogged and painful."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I am struggling to bear weight on my knee. When I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I to apply a pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I too apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I am struggling to bear weight on my knee. When I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes when it is cold outside my face hurts, especially around the pimples that are ready to pop."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I am struggling to bear weight on my knee. When I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago and this time during landing my ears remained clogged and painful."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I'm struggling to bear weight on my knee. When I stand straight, I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I am struggling to bear weight on my knee, when I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I'm struggling to bear weight on my knee, when I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I too apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I'm struggling to bear weight on my knee. When I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I'm struggling to bear weight on my knee when I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago, and this time during landing my ears remained clogged and painful."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I'm struggling to bear weight on my knee. When I stand straight, I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I am struggling to bear weight on my knee. When I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I am struggling to bear weight on my knee, when i stand straight I feel and hear a loud popping noise.",
+  "canary_1best": [
+   "I am struggling to bear weight on my knee. When I stand straight I feel and hear a loud popping noise."
+  ]
+ },
+ {
+  "gold": "I hve cut my finger because of playing football and I  to apply pain relief cream but it does not help",
+  "canary_1best": [
+   "I have cut my finger because of playing football and I to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.",
+  "canary_1best": [
+   "I traveled by plane a few days ago, and this time during landing my hair remained closed and painful."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes when it's cold outside my face hurts, especially around the pimples that are ready to pop."
+  ]
+ },
+ {
+  "gold": "Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",
+  "canary_1best": [
+   "Sometimes, when it is cold outside, my face hurts, especially around the pimples that are ready to burp."
+  ]
+ },
+ {
+  "gold": "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.",
+  "canary_1best": [
+   "I chopped off the tip of my finger when I was cutting some cardboard and I cannot stop the bleeding."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me but the infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.",
+  "canary_1best": [
+   "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding."
+  ]
+ },
+ {
+  "gold": "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.",
+  "canary_1best": [
+   "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding."
+  ]
+ },
+ {
+  "gold": "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.",
+  "canary_1best": [
+   "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe it but this infected wound on my hand is from a paper cut I didn't take seriously"
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.",
+  "canary_1best": [
+   "I chopped off the thing my fingers while I was cutting some carburettes and can't stop the blending."
+  ]
+ },
+ {
+  "gold": "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.",
+  "canary_1best": [
+   "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a pain that radiates from my right hip to my ribcage. It is at its worst when I urinate."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a pain that radiates up from my right hip to my ribcage. It is at its worst when I urinate."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a pen that radiates up from my right hip to my rigging. It is at its post when I unit it."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a burp pain that radiates up and from my left right to my ribcage. It is at its worst when I urinate."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a pain that radiates up from my right hip to my cage, it is at its worst when I urinate."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a pain that radiates up from my right hip to my rib cage, it is at its worst when I urinate."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a pain that radiates up from my right hip to my rib cage. It is at the worst when I urinate."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My son got it towards seven o'clock and the skin around it is really hot."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My sun got attached to several weeks ago and the skin around it is leased and hot and it looks infected."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a beam that radiates up from my right hip to my rib cage. It is that it was my urine."
+  ]
+ },
+ {
+  "gold": "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.",
+  "canary_1best": [
+   "I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding."
+  ]
+ },
+ {
+  "gold": "I have a pain that radiates up from my right hip to my rib cage.  It is at it's worst when I urinate.",
+  "canary_1best": [
+   "I have a pain that radiates up from my right hip to my rib cage. It is at its worst when I urinate."
+  ]
+ },
+ {
+  "gold": "My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.",
+  "canary_1best": [
+   "My son got a tattoo several weeks ago and the skin around is reside and hot and it looks infested."
+  ]
+ },
+ {
+  "gold": "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously.",
+  "canary_1best": [
+   "You won't believe me, but this infected wound on my hand is from a paper cut I didn't take seriously."
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I set in front of my laptop for an hour or two. What possibly could be the reason?"
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I set in front of my laptop for an hour or two what possibly could be the reason."
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I set in front of my laptop for an hour or two what possibly could be the reason."
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I set in front of my laptop for an hour or two what possibly could be the reason."
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I sit in front of my laptop for an hour or two. What possibly could be the reason"
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I set in front of my laptop for an hour or two what possibly could be the reason."
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I sit in front of my laptop for an hour or two, what possibly could be the reason."
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I sit in front of my laptop for an hour or two what possibly could be the reason."
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I feel dizzy when I step in front of my laptop for an hour or two. What possibly could be the reason?"
+  ]
+ },
+ {
+  "gold": "I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",
+  "canary_1best": [
+   "I felt dizzy when I sat in front of my laptop for an hour or two. What possibly could be the reason?"
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my legs muscles after I ran yesterday I took some painkillers but it doesn't help"
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my leg muscles after I ran yesterday. I took some painkillers but it doesn't help."
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my leg muscles after I ran yesterday. I took some painkillers but it doesn't help."
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my legs muscles after I ran yesterday, I took some painkillers but it doesn't help."
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my legs muscle after I ran yesterday. I took some painkillers but it doesn't help."
+  ]
+ },
+ {
+  "gold": "I am worried for my driving, because I can barely focus when I am at the wheel, my eyes feel teary.",
+  "canary_1best": [
+   "I'm worried from a driving because I can barely focus when I'm out of the way. My eyes feel terrible."
+  ]
+ },
+ {
+  "gold": "I am worried for my driving, because I can barely focus when I am at the wheel, my eyes feel teary.",
+  "canary_1best": [
+   "I am worried for my driving because I can barely focus when I'm at the wheel, my eyes feel teary."
+  ]
+ },
+ {
+  "gold": "I am worried for my driving, because I can barely focus when I am at the wheel, my eyes feel teary.",
+  "canary_1best": [
+   "I am worried for my driving because I can barely focus when I am at the wheel, my eyes feel tearly."
+  ]
+ },
+ {
+  "gold": "I am worried for my driving, because I can barely focus when I am at the wheel, my eyes feel teary.",
+  "canary_1best": [
+   "I am worried for my driving because I can barely focus when I am at the wheel my eyes feel teary."
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my legs muscles after I ran yesterday. I took some painkillers but it doesn't help."
+  ]
+ },
+ {
+  "gold": "I am worried for my driving, because I can barely focus when I am at the wheel, my eyes feel teary.",
+  "canary_1best": [
+   "I am worried for my driving because I can barely focus when I am at the wheel, my field theory."
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my leg muscles after I ran yesterday, I took some painkillers but it doesn't help."
+  ]
+ },
+ {
+  "gold": "I am worried for my driving, because I can barely focus when I am at the wheel, my eyes feel teary.",
+  "canary_1best": [
+   "I am worried for my driving because I can barely focus my eyes at the wheel my eyes feel teary."
+  ]
+ },
+ {
+  "gold": "I feel pain in my legs muscles after I ran yesterday, I took some pain killers but it doesn't help.",
+  "canary_1best": [
+   "I feel pain in my legs muscles after I ran yesterday. I took some painkillers but it doesn't help."
+  ]
+ },
+ {
+  "gold": "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy.",
+  "canary_1best": [
+   "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy."
+  ]
+ },
+ {
+  "gold": "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy.",
+  "canary_1best": [
+   "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy."
+  ]
+ },
+ {
+  "gold": "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy.",
+  "canary_1best": [
+   "My grandson cut his foot on a seashell in the ocean and now the foot is turning grey and is puffy."
+  ]
+ },
+ {
+  "gold": "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy.",
+  "canary_1best": [
+   "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy."
+  ]
+ },
+ {
+  "gold": "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy.",
+  "canary_1best": [
+   "My grandson got an arm's shell in the ocean and now it's turning green and it's up the east."
+  ]
+ },
+ {
+  "gold": "My grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy.",
+  "canary_1best": [
+   "My grandson cut his foot on a seashell in the ocean, and now the foot is turning gray and is puffy."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a card that was this together, but it is not healing. It is oozing green parts and burns."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often got a sharp pain in my chest, and can tell when I alone to might be trigger it."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing but might be triggering it."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cup that was stitched together but it is not healing, it is using green pus and bumps."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cut that was stitched together but it is not healing it is oozing green bursts and burns"
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I have a pain in my head."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cut that was stitched together but it is not healing, it is oozing green ooze and burns."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cut that was stitched together but it is not healing, it is using green pores and bones."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had I cut the vestige together but it is not healing, it is oozing green pus and burns."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cut that was stitched together but it is not healing, it is oozing green pus and burns."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cut that was stitched together but it is not healing. It is losing green pus and burns."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cut that was stitched together, but it is not healing. It is boozing green bursts and burns."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I had a cut that was stitched together but it is not healing.  It is oozing green puss and burns.",
+  "canary_1best": [
+   "I had a cut that was stitched together but it is not healing. It is using green pus and buns."
+  ]
+ },
+ {
+  "gold": "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.",
+  "canary_1best": [
+   "I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There's a sharp pain in my bicep. I've tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain on my bicep. I've tried to apply pain relief cream but it doesn't help."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I died last year and I stopped dwelling on county over then my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my pista. I had tried to able pain relief dream, but I don't see no help."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling over how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my reservoir. I have tried to apply pain relief but it does not help."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep, I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point I cannot eat or sleep."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There's a sharp pain in my biceps, I've tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got divorced last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my biceps. I have tried to apply pain relief but it does not help."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point that I can eat or sleep."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep, I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "I feel a sharp pain in my stomach."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep, I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point that I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is sarp in my bicep. I have tried to apply pain relief cream, but this does not help."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurt so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "My husband left me for another woman, my heart hurts so badly to the point I can't eat or sleep.",
+  "canary_1best": [
+   "My husband left me from another woman, my heart hurts so badly to the point I can't eat or sleep."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "I got a divorce last year and I just can't stop dwelling on how to get revenge on my ex husband.",
+  "canary_1best": [
+   "I got a divorce last year and I just can't stop dwelling on how to get a bench on my ex husband."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.",
+  "canary_1best": [
+   "There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help."
+  ]
+ },
+ {
+  "gold": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+  "canary_1best": [
+   "My son squeezed a pimple and it broke open only to scab over and now it looks like it's infected."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all the lumber from the yard. My lower back is killing me."
+  ]
+ },
+ {
+  "gold": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+  "canary_1best": [
+   "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected."
+  ]
+ },
+ {
+  "gold": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+  "canary_1best": [
+   "My son squeezed a pimple and it broke open, only to scab over and now looks like it is infected."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried the lada lumber from the yard. My lower back is killing me."
+  ]
+ },
+ {
+  "gold": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+  "canary_1best": [
+   "My son squeezes a pimple and I broke open only to scalp or annul it like infects."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I need everybody when I cut it all over from New York. My thoughts are skating me."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all that lumber from the yard, my lower back is killing me."
+  ]
+ },
+ {
+  "gold": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+  "canary_1best": [
+   "It's hard to stand up and I am moving very slowly."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all that lumber from the yard my lower back is killing me."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all that lumber from the yard, my lower back is killing me."
+  ]
+ },
+ {
+  "gold": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+  "canary_1best": [
+   "My son squeezed a pimple and it broke open only to scab over and now it looks like it is infected."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me."
+  ]
+ },
+ {
+  "gold": "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected.",
+  "canary_1best": [
+   "My son squeezed a pimple and it broke open only to scab over and now looks like it is infected."
+  ]
+ },
+ {
+  "gold": "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me.",
+  "canary_1best": [
+   "I think I overdid it when I carried all that lumber from the yard. My lower back is killing me."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it works when I swallow. My ear is very painful and Tylenol has not helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it works when I swallow my ear is very painful and Tylenol hasn't helped"
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it is worse when I swallow, my ear is very painful and Tylenol hasn't helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it works when I swallow my ear is very painful and tiny gnaw hasn't helped"
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it's worse than I swallow. My ear is very painful and Tylenol has not helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it's worse when I swallow. My ear is very painful and tanol hasn't helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it's worse when I swallow. My ear is very painful and Tylenol hasn't helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it's worse when I swallow, my ear is very painful and tylenol hasn't helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it's worse when I swallow my ear is very painful and tylenol hasn't helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it's worse when I swallow. My ear is very painful and Tylenol hasn't helped."
+  ]
+ },
+ {
+  "gold": "My ear hurts and it's worse when I swallow.  My ear is very painful and Tylenol hasn't helped.",
+  "canary_1best": [
+   "My ear hurts and it's worse when I swallow. My ear is very painful and Tylenol hasn't helped."
+  ]
+ },
+ {
+  "gold": "I can't hear out of my ear properly, I feel like there is something in it causing irritation.",
+  "canary_1best": [
+   "I can't hear out of my ear properly. I feel like there is something in it causing irritation."
+  ]
+ },
+ {
+  "gold": "I can't hear out of my ear properly, I feel like there is something in it causing irritation.",
+  "canary_1best": [
+   "I cannot hear out of my ear properly. I feel like there is something in it causing irritation."
+  ]
+ },
+ {
+  "gold": "I can't hear out of my ear properly, I feel like there is something in it causing irritation.",
+  "canary_1best": [
+   "I can't hear out of my ear properly, I feel like there is something in it causing irritation."
+  ]
+ },
+ {
+  "gold": "I can't hear out of my ear properly, I feel like there is something in it causing irritation.",
+  "canary_1best": [
+   "I can hear out my ear properly. I feel like there is something in it causing irritation."
+  ]
+ },
+ {
+  "gold": "I can't hear out of my ear properly, I feel like there is something in it causing irritation.",
+  "canary_1best": [
+   "I can't hear out of my ear properly. I feel like there is something in it causing irritation."
+  ]
+ },
+ {
+  "gold": "I can't hear out of my ear properly, I feel like there is something in it causing irritation.",
+  "canary_1best": [
+   "I can't hear out of my ear properly. I feel like there is something in it causing irritation."
+  ]
+ }
+]

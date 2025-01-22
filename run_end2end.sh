@@ -1,0 +1,1 @@
+python end2end_asr.py "medasr" "desta2"
