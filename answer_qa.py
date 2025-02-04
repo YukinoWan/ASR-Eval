@@ -85,14 +85,20 @@ def get_model(model_id):
 def genenerate_n_answer_vllm(question, context, llm, tokenizer, n):
     question = f"Question: {question['question']}\n{question['options']}"
     prompt = get_answer_prompt(question, context)
-    prompts = [tokenizer.apply_chat_template([{'role': 'user', 'content': f"{prompt}"}],
+    try:
+        prompts = [tokenizer.apply_chat_template([{'role': 'user', 'content': f"{prompt}"}],
         tokenize=False, 
         add_generation_prompt=True 
         )]
+        sampling_params = SamplingParams(n=5, temperature=0.4, max_tokens=512)
+    except:
+
+        prompts = ['<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n' + prompt + '<|im_end|>\n<|im_start|>assistant\n']
+        sampling_params = SamplingParams(n=5, temperature=0.4, max_tokens=512, stop=["<|im_end|>", "<|im_start|>",])
 
     # for i in range(n):
 
-    sampling_params = SamplingParams(n=5, temperature=0.4, max_tokens=512)
+    
     outputs = llm.generate(prompts, sampling_params)
     contents = [outputs[0].outputs[i].text for i in range(n)]
         # print(outputs[0].outputs[0].text)
