@@ -1,0 +1,2002 @@
+[
+ {
+  "gold": "making it can you see yes good this is actually me making the i 'm not good at life face this is a piece of graffiti in my old neighborhood in berkeley california where i did my phd on why we 're better in games than we are in real life and this is a problem that a lot of gamers have we feel that we are not as good in reality as we are in games and i don 't mean just good as in successful although that 's part of it we do achieve more in game worlds but i also mean good as in motivated to do something that matters inspired to collaborate and to cooperate and when we 're in game worlds",
+  "whisper_v2_nbest_gpt4o": [
+   "This is me making the \"I'm not good at life\" face. This is a piece of graffiti in my old neighborhood in Berkeley, California, where I did my Ph.D. on why we're better in games than we are in real life. This is a problem that a lot of gamers have. We feel that we are not as good in reality as we are in games. And I don't mean just good as in successful, although that's part of it. We do achieve more in game worlds. But I also mean good as in motivated to do something that matters, to collaborate and to cooperate. And when we're in game worlds."
+  ],
+  "back_layer_mid": 0.9899802803993225,
+  "summarize_layer_mid": 0.8361082077026367,
+  "back_layer_last": 0.9848869442939758,
+  "summarize_layer_last": 0.6063178777694702
+ },
+ {
+  "gold": "we think it changes the way information can be used so i want to extrapolate on this idea a bit with something that 's a little bit crazy what we 're done here is we 've taken every single wikipedia page and we 've reduced it down to a little summary so the summary consisted of just little synopsis and an icon to indicate the topical area that it comes from i 'm only showing the top five hundred most popular wikipedia pages right here but even in this limited view",
+  "whisper_v2_nbest_gpt4o": [
+   "We think it changes the way information can be used. So I want to extrapolate on this idea a bit with something that's a little bit crazy. What we've done here is we've taken every single Wikipedia page and we've reduced it down to a little summary. The summary consists of just a little synopsis and an icon to indicate the topical area that it comes from. I'm only showing the top 500 most popular Wikipedia pages right here. But even in this limited view."
+  ],
+  "back_layer_mid": 0.9950228929519653,
+  "summarize_layer_mid": 0.9657419919967651,
+  "back_layer_last": 0.9943628907203674,
+  "summarize_layer_last": 0.9676055312156677
+ },
+ {
+  "gold": "i met mister ayers in two thousand eight two years ago at walt disney concert hall he had just heard a performance of beethoven 's first and fourth symphonies and came backstage and introduced himself he was speaking in a very jovial and gregarious way about yo yo ma and hillary clinton and how the dodgers were never going to make the world series all because of the treacherous first violin passage work in the last movement in beethoven 's fourth symphony",
+  "whisper_v2_nbest_gpt4o": [
+   "I met Mr. Ayers in 2008 at Walt Disney Concert Hall. He had just heard a performance of Beethoven's First and Fourth Symphonies and came backstage, introducing himself while speaking in a very jovial and gregarious way about Yo-Yo Ma, Hillary Clinton, and how the Dodgers were never going to make the World Series, all because of the treacherous first violin passage work in the last movement of Beethoven's Fourth Symphony."
+  ],
+  "back_layer_mid": 0.9836944341659546,
+  "summarize_layer_mid": 0.9903399348258972,
+  "back_layer_last": 0.9396195411682129,
+  "summarize_layer_last": 0.9712913632392883
+ },
+ {
+  "gold": "several years ago here at ted peter skillman introduced a design challenge called the marshmallow challenge and the idea 's pretty simple teams of four have to build the tallest free standing structure out of twenty sticks of spaghetti one yard of tape one yard of string and a marshmallow the marshmallow has to be on top and though it seems really simple it 's actually pretty hard because it forces people to collaborate very quickly",
+  "whisper_v2_nbest_gpt4o": [
+   "Several years ago here at TED, Peter Skillman introduced a design challenge called the Marshmallow Challenge. The idea is pretty simple: Teams of four have to build the tallest freestanding structure out of 20 sticks of spaghetti, one yard of tape, one yard of string, and a marshmallow. The marshmallow has to be on top. And though it seems really simple, it's actually pretty hard because it forces people to collaborate very quickly."
+  ],
+  "back_layer_mid": 0.9873716235160828,
+  "summarize_layer_mid": 0.9955304265022278,
+  "back_layer_last": 0.9862756133079529,
+  "summarize_layer_last": 0.9947632551193237
+ },
+ {
+  "gold": "every project has its own marshmallow doesn 't it the challenge provides a shared experience a common language a common stance to build the right prototype and so this is the value of the experience of this so simple exercise and those of you who are interested may want to go to marshmallowchallenge dot com it 's a blog that you can look at how to build the marshmallows there 's step by step instructions on this there are",
+  "whisper_v2_nbest_gpt4o": [
+   "Every project has its own marshmallow, doesn't it? The challenge provides a shared experience, a common language, and a common stance to build the right prototype. And so this is the value of the experience of this so simple exercise. Those of you who are interested may want to go to marshmallowchallenge.com. It's a blog where you can look at how to build the marshmallows. There are step-by-step instructions on this."
+  ],
+  "back_layer_mid": 0.9907479286193848,
+  "summarize_layer_mid": 0.9705425500869751,
+  "back_layer_last": 0.9887515306472778,
+  "summarize_layer_last": 0.8688651323318481
+ },
+ {
+  "gold": "and the fundamental lesson i believe is that design truly is a contact sport it demands that we bring all of our senses to the task and that we apply the very best of our thinking our feeling and our doing to the challenge that we have at hand and sometimes a little prototype of this experience is all that it takes to turn us from an uh oh moment to a ta da moment and that can make a big difference thank you very much",
+  "whisper_v2_nbest_gpt4o": [
+   "And the fundamental lesson, I believe, is that design truly is a contact sport. It demands that we bring all of our senses to the task and that we apply the very best of our thinking, our feeling, and our doing to the challenge that we have at hand. And sometimes a little prototype of this experience is all that it takes to turn us from an uh-oh moment to a ta-da moment, and that can make a big difference. Thank you very much."
+  ],
+  "back_layer_mid": 0.99970543384552,
+  "summarize_layer_mid": 0.9968791007995605,
+  "back_layer_last": 0.9997592568397522,
+  "summarize_layer_last": 0.9973908066749573
+ },
+ {
+  "gold": "so it goes like this from here right and as i move around my finger shifts so we could talk about why this is deceptive why you don 't notice there are only three fingers down here because the mind and the way it processes information it doesn 't count one two three it groups them but that 's not really what this is about right and then i open my hand up obviously it 's clinging there not by animal magnetism but by",
+  "whisper_v2_nbest_gpt4o": [
+   "So it goes like this from here, right? And as I move around, my finger shifts. And we can talk about why this is deceptive, why you don't notice there are only three fingers down here. Because the mind and the way it processes information, it doesn't count one, two, three. It groups them. But that's not really what this is about, right? Then I open my hand. Obviously, it's clinging there not by animal magnetism, but by."
+  ],
+  "back_layer_mid": 0.9952539205551147,
+  "summarize_layer_mid": 0.824298620223999,
+  "back_layer_last": 0.9839574694633484,
+  "summarize_layer_last": 0.753044068813324
+ },
+ {
+  "gold": "is that would be your response to the the the bjorn lomborg argument that basically if you if you spend all this energy trying to solve the co two problem it 's going to take away all your other goals of trying to rid the world of poverty and malaria and so forth it 's it 's it 's a stupid waste of the earth 's resources to put money towards that when there are better things we can do",
+  "whisper_v2_nbest_gpt4o": [
+   "And so that would be your response to the Bjorn Lomborg argument that basically if you spend all this energy trying to solve the CO2 problem, it's going to take away all your other goals of trying to rid the world of poverty and malaria and so forth. It's a stupid waste of the Earth's resources to put money towards that when there are better things we can do."
+  ],
+  "back_layer_mid": 0.9939955472946167,
+  "summarize_layer_mid": 0.9862328171730042,
+  "back_layer_last": 0.992957353591919,
+  "summarize_layer_last": 0.9787091612815857
+ },
+ {
+  "gold": "you sign up you tell us where you live and then we give you real time news videos data feeds that show you exactly how much oil costs what 's not available how food supply is being affected how transportation is being affected if schools are closed if their is rioting and you have to figure out how you would live your real life as if this were true and then we ask you to blog about it",
+  "whisper_v2_nbest_gpt4o": [
+   "\"You sign up, you tell us where you live, and then we give you real-time news videos and data feeds that show you exactly how much oil costs, what's not available, how the food supply is being affected, how transportation is being affected, if schools are closed, if there's rioting. And you have to figure out how you would live your real life as if this were true. And then we ask you to blog about it.\""
+  ],
+  "back_layer_mid": 0.9785658717155457,
+  "summarize_layer_mid": 0.993922770023346,
+  "back_layer_last": 0.965107262134552,
+  "summarize_layer_last": 0.9927624464035034
+ },
+ {
+  "gold": "if you 're queasy if you if you faint easily i was doing this for some friends in the hotel room last night and some people that i didn 't know and one woman almost passed out so i suggest if you if you get queasy easy that you look away for about the next thirty in fact you know what i 'll do the first bad part behind it you 'll get to see you can look away too if you 'd like to",
+  "whisper_v2_nbest_gpt4o": [
+   "If you're queasy, if you faint easily, I was doing this for some friends in the hotel room last night and some people that I didn't know, and one woman almost passed out. So I suggest if you get queasy easy, look away for about the next 30. In fact, you know what, I'll do the first bad part behind it. You'll get to see. You can look away too if you'd like to."
+  ],
+  "back_layer_mid": 0.9814884662628174,
+  "summarize_layer_mid": 0.9864614009857178,
+  "back_layer_last": 0.9374160766601562,
+  "summarize_layer_last": 0.9601030349731445
+ },
+ {
+  "gold": "and the reason is it takes a lot of trust to play a game with someone we trust that they will spend their time with us that they will play by the same rules value the same goal they 'll stay with the game until it 's over and so playing a game together actually builds up bonds and trust and cooperation and and we actually build stronger social relationships as a result",
+  "whisper_v2_nbest_gpt4o": [
+   "And the reason is, it takes a lot of trust to play a game with someone. We trust that they will spend their time with us, that they will play by the same rules, value the same goal, they'll stay with the game until it's over. And so playing a game together actually builds up bonds and trust and cooperation, and we actually build stronger social relationships as a result."
+  ],
+  "back_layer_mid": 0.9988430738449097,
+  "summarize_layer_mid": 0.9979896545410156,
+  "back_layer_last": 0.9987339377403259,
+  "summarize_layer_last": 0.9984557628631592
+ },
+ {
+  "gold": "we 've got leveling up in skills like local insight knowledge networking sustainability vision and resourcefulness i would like to invite all of you to please share this game with young people anywhere in the world particularly in developing areas who might benefit from coming together to try to start to imagine their own social enterprises to save the world",
+  "whisper_v2_nbest_gpt4o": [
+   "We've got leveling up in skills like local insight, knowledge networking, sustainability, vision, and resourcefulness. I would like to invite all of you to please share this game with young people anywhere in the world, particularly in developing areas, who might benefit from coming together to try to start to imagine their own social enterprises to save the world."
+  ],
+  "back_layer_mid": 0.9993751049041748,
+  "summarize_layer_mid": 0.9982283711433411,
+  "back_layer_last": 0.9993625283241272,
+  "summarize_layer_last": 0.9987725615501404
+ },
+ {
+  "gold": "and even though the film didn 't make any money barely broke even i should say i witnessed something amazing which is that the the audience the global audience was mesmerized by this apparent magic you know it 's arthur clarke 's law that any sufficiently advanced technology is indistinguishable from magic they were seeing something magical",
+  "whisper_v2_nbest_gpt4o": [
+   "And even though the film didn't make any money, barely broke even, I should say, I witnessed something amazing, which is that the audience\u2014the global audience\u2014was mesmerized by this apparent magic. You know, it's Arthur C. Clarke's law that any sufficiently advanced technology is indistinguishable from magic. They were seeing something magical."
+  ],
+  "back_layer_mid": 0.9989619255065918,
+  "summarize_layer_mid": 0.9959012866020203,
+  "back_layer_last": 0.9980077147483826,
+  "summarize_layer_last": 0.9944330453872681
+ },
+ {
+  "gold": "turns out that if you administer a placebo in the form of a white pill that 's like aspirin shaped it 's just a round white pill it has some certain measurable effect but if you change the form that you give the placebo in like you make a smaller pill and color it blue and stamp a letter into it it is actually measurably more effective",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Turns out that if you administer a placebo in the form of a white pill that's aspirin-shaped, just a round white pill, it has some measurable effect. However, if you change the form of the placebo, such as making a smaller pill, coloring it blue, and stamping a letter into it, it becomes measurably more effective.\""
+  ],
+  "back_layer_mid": 0.9788768887519836,
+  "summarize_layer_mid": 0.988618791103363,
+  "back_layer_last": 0.9348852634429932,
+  "summarize_layer_last": 0.9895864725112915
+ },
+ {
+  "gold": "normally most people begin by orienting themselves to the task they talk about it they figure out what it 's going to look like they jockey for power then they spend some time planning organizing they sketch in they lay out spaghetti they spend the majority of their time assembling the sticks into ever growing structures and then",
+  "whisper_v2_nbest_gpt4o": [
+   "So, normally, most people begin by orienting themselves to the task. They talk about it, they figure out what it's going to look like, they jockey for power, then they spend some time planning, organizing, they sketch in, they lay out spaghetti. They spend the majority of their time assembling the sticks into ever-growing structures, and then."
+  ],
+  "back_layer_mid": 0.9957119226455688,
+  "summarize_layer_mid": 0.9858176708221436,
+  "back_layer_last": 0.9952510595321655,
+  "summarize_layer_last": 0.9788151979446411
+ },
+ {
+  "gold": "and he 's going to land in a couple hours he 's going to rent a car and he 's going to come to long beach and he 's going to attend one of these fabulous ted dinners tonight and he doesn 't know that he 's infected with a paralytic disease and we don 't either because that 's the way the world works that 's the planet we live on",
+  "whisper_v2_nbest_gpt4o": [
+   "And he's going to land in a couple of hours, he's going to rent a car, and he's going to come to Long Beach. And he's going to attend one of these fabulous TED dinners tonight. And he doesn't know that he's infected with a paralytic disease, and we don't either. Because that's the way the world works. That's the planet we live on."
+  ],
+  "back_layer_mid": 0.9980911016464233,
+  "summarize_layer_mid": 0.997023344039917,
+  "back_layer_last": 0.9959977865219116,
+  "summarize_layer_last": 0.9930488467216492
+ },
+ {
+  "gold": "not one team had a standing structure not one had a a if anyone had built say a one inch structure they could have taken home the prize so isn 't it interesting that high stakes have a strong impact we did the exercise again with the same students what do you think happened then so now they understand the value of prototyping",
+  "whisper_v2_nbest_gpt4o": [
+   "Not one team had a standing structure. Not one had; if anyone had built, say, a one-inch structure, they would have taken home the prize. So, isn't it interesting that high stakes have a strong impact? We did the exercise again with the same students. What do you think happened then? Now they understand the value of prototyping."
+  ],
+  "back_layer_mid": 0.9958785772323608,
+  "summarize_layer_mid": 0.9939359426498413,
+  "back_layer_last": 0.9964634776115417,
+  "summarize_layer_last": 0.989296019077301
+ },
+ {
+  "gold": "five million people use it every month they have compiled more information about world of warcraft on the internet than any other topic covered on any other wiki in the world they are building an epic story they are building epic knowledge resource about the world of warcraft okay so these are four superpowers that add up",
+  "whisper_v2_nbest_gpt4o": [
+   "5 million people use it every month. They have compiled more information about World of Warcraft on the internet than any other topic covered on any other wiki in the world. They are building an epic story. They are building an epic knowledge resource about World of Warcraft. Okay, so these are four superpowers that add up."
+  ],
+  "back_layer_mid": 0.9768757224082947,
+  "summarize_layer_mid": 0.9870268106460571,
+  "back_layer_last": 0.9299495816230774,
+  "summarize_layer_last": 0.9813008308410645
+ },
+ {
+  "gold": "fear but intense concentration deep deep focus on tackling a really difficult problem if you are a gamer you will notice a few nuances here the crinkle of the eyes up and around the mouth is a sign of optimism and the eyebrows up is surprise this is a gamer who is on the verge of something called an epic win now",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Fear, but intense concentration, deep, deep focus on tackling a really difficult problem. If you are a gamer, you will notice a few nuances here. The crinkle of the eyes up and around the mouth is a sign of optimism. And the eyebrows up is surprise. This is a gamer who's on the verge of something called an epic win.\""
+  ],
+  "back_layer_mid": 0.9938446283340454,
+  "summarize_layer_mid": 0.9937313795089722,
+  "back_layer_last": 0.9951287508010864,
+  "summarize_layer_last": 0.9937710762023926
+ },
+ {
+  "gold": "in order for us to understand each other i want to start by showing you a rudimentary very simple magic trick and i 'm going to show you how it works this is a trick that 's been in every children 's magic book since at least the nineteen fifties i learned it myself from cub scout magic in the nineteen seventies",
+  "whisper_v2_nbest_gpt4o": [
+   "In order for us to understand each other, I want to start by showing you a rudimentary, very simple magic trick, and I'm going to show you how it works. This is a trick that's been in every children's magic book since at least the 1950s. I learned it myself from Cub Scout magic in the 1970s."
+  ],
+  "back_layer_mid": 0.998322606086731,
+  "summarize_layer_mid": 0.990898847579956,
+  "back_layer_last": 0.9963274598121643,
+  "summarize_layer_last": 0.9816524982452393
+ },
+ {
+  "gold": "bill gross has several companies including one called esolar that has some great solar thermal technologies vinod khosla 's investing in dozens of companies that are doing great things and have interesting possibilities and i 'm i 'm trying to help back that nathan myhrvold and i actually are backing a company",
+  "whisper_v2_nbest_gpt4o": [
+   "Bill Gross has several companies, including one called eSolar that has some great solar thermal technology. Vinod Khosla is investing in dozens of companies that are doing great things and have interesting possibilities, and I'm trying to help back that. Nathan Myhrvold and I actually are backing a company."
+  ],
+  "back_layer_mid": 0.9940510988235474,
+  "summarize_layer_mid": 0.9945966601371765,
+  "back_layer_last": 0.9929156303405762,
+  "summarize_layer_last": 0.9942563772201538
+ },
+ {
+  "gold": "is that it 's so satisfying to be on the verge of an epic win all the time that we decide to spend all our time in these game worlds it 's just better than reality so so far collectively all the world of warcraft gamers have spent five point nine three million years solving the virtual problems of azeroth now",
+  "whisper_v2_nbest_gpt4o": [
+   "The corrected transcription is:\n\"Is that it's so satisfying to be on the verge of an epic win all the time that we decide to spend all our time in these game worlds. It's just better than reality. So, so far, collectively, all the World of Warcraft gamers have spent 5.93 million years solving the virtual problems of Azeroth.\""
+  ],
+  "back_layer_mid": 0.9820908904075623,
+  "summarize_layer_mid": 0.9826837778091431,
+  "back_layer_last": 0.9756578207015991,
+  "summarize_layer_last": 0.9765272736549377
+ },
+ {
+  "gold": "so this is a trick that i often teach to young children that are interested in magic because you can learn a great deal about deception by studying this very even though it 's a very simple trick methodologically probably many of you in the room know this trick what happens is this i hold the knife in my hand",
+  "whisper_v2_nbest_gpt4o": [
+   "So this is a trick that I often teach to young children who are interested in magic because you can learn a great deal about deception by studying this. Even though it's a very simple trick methodologically, probably many of you in the room know this trick. What happens is this: I hold the knife in my hand."
+  ],
+  "back_layer_mid": 0.9984774589538574,
+  "summarize_layer_mid": 0.9911378622055054,
+  "back_layer_last": 0.9986442923545837,
+  "summarize_layer_last": 0.9724178910255432
+ },
+ {
+  "gold": "and that 's the truth now the studio didn 't know that but i convinced them i said i said we 're going to dive to the wreck we 're going to film it for real we 'll be using it in the opening of the film it will be really important it will be a great marketing hook and i talked them into funding an expedition",
+  "whisper_v2_nbest_gpt4o": [
+   "\"And that's the truth. Now, the studio didn't know that, but I convinced them. I said, we're going to dive to the wreck, we're going to film it for real, we'll be using it in the opening of the film, it'll be really important, it'll be a great marketing hook, and I talked them into funding an expedition.\""
+  ],
+  "back_layer_mid": 0.994017481803894,
+  "summarize_layer_mid": 0.9935891628265381,
+  "back_layer_last": 0.990790843963623,
+  "summarize_layer_last": 0.9858865737915039
+ },
+ {
+  "gold": "over a four and half year period and it completely changed how i do movies so people have commented on how well you know you brought back the ocean organisms and put them on the planet of pandora to me it was more of a fundamental way of doing business the process itself that changed as a result of that",
+  "whisper_v2_nbest_gpt4o": [
+   "Over a four-and-a-half-year period, it completely changed how I do movies. People have commented on how I brought back the ocean organisms and put them on the planet of Pandora. To me, it was more of a fundamental way of doing business, the process itself that changed as a result of that."
+  ],
+  "back_layer_mid": 0.9839614629745483,
+  "summarize_layer_mid": 0.9846673607826233,
+  "back_layer_last": 0.9647966623306274,
+  "summarize_layer_last": 0.9532546997070312
+ },
+ {
+  "gold": "right a syringe with some inert a couple ccs of some inert something and you inject this into a patient well this is such a powerful image in their mind it it 's so much stronger than the white pill it 's a really this graph well i 'll show it to you some other time when we have slides the point is",
+  "whisper_v2_nbest_gpt4o": [
+   "A syringe with a couple cc's of some inert substance, and you inject this into a patient. Well, this is such a powerful image in their mind that it's so much stronger than the white pill. It's really this graph. Well, I'll show it to you some other time when we have slides. The point is\u2026"
+  ],
+  "back_layer_mid": 0.9849053025245667,
+  "summarize_layer_mid": 0.9829237461090088,
+  "back_layer_last": 0.9382299184799194,
+  "summarize_layer_last": 0.9536716938018799
+ },
+ {
+  "gold": "we don 't make money at these damn shows you know we barely break even there is no fame in it people sort of think i went away between titanic and avatar and was buffing my nails someplace you know sitting at the beach made all these films made all these documentary films you know for a very",
+  "whisper_v2_nbest_gpt4o": [
+   "We don't make money at these damn shows, you know, we barely break even. There's no fame in it. People sort of think I went away between Titanic and Avatar and was buffing my nails someplace, you know, sitting at the beach. I made all these films, made all these documentary films that you know, for a very..."
+  ],
+  "back_layer_mid": 0.9920098781585693,
+  "summarize_layer_mid": 0.9465136528015137,
+  "back_layer_last": 0.9902040958404541,
+  "summarize_layer_last": 0.9300877451896667
+ },
+ {
+  "gold": "conducted about seventy design workshops across the world with students and designers and architects even the ctos of the fortune fifty and there 's something about this exercise that reveals very deep lessons about the nature of collaboration and i 'd like to share some of them with you so",
+  "whisper_v2_nbest_gpt4o": [
+   "I conducted about 70 design workshops across the world with students, designers, architects, and even CTOs of the Fortune 50. There's something about this exercise that reveals very deep lessons about the nature of collaboration, and I'd like to share some of them with you."
+  ],
+  "back_layer_mid": 0.9899190664291382,
+  "summarize_layer_mid": 0.9829058051109314,
+  "back_layer_last": 0.9862587451934814,
+  "summarize_layer_last": 0.9698188900947571
+ },
+ {
+  "gold": "at that time and it was called digital domain and the concept of the company was that we would leap frog past the kind of analog processes of of optical printers and so on and we would go right to digital production and we actually did that and it gave us a competitive advantage for a while",
+  "whisper_v2_nbest_gpt4o": [
+   "At that time, it was called Digital Domain, and the concept of the company was that we would leapfrog past the kind of analog processes of optical printers and so on. We would go right to digital production, and we actually did that. It gave us a competitive advantage for a while."
+  ],
+  "back_layer_mid": 0.9943550229072571,
+  "summarize_layer_mid": 0.9947568774223328,
+  "back_layer_last": 0.9780415296554565,
+  "summarize_layer_last": 0.9918032884597778
+ },
+ {
+  "gold": "and this reasonable people can disagree is when you have something that 's non economic and you 're trying to fund that that to me mostly is a waste unless you 're very close and you 're just funding the learning curve and it 's going to get very cheap i believe we should try you know more",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Reasonable people can disagree when you have something that's non-economic and you're trying to fund that. To me, that mostly is a waste unless you're very close and just funding the learning curve, and it's going to get very cheap. I believe we should try more.\""
+  ],
+  "back_layer_mid": 0.9701955914497375,
+  "summarize_layer_mid": 0.9680137634277344,
+  "back_layer_last": 0.9335412979125977,
+  "summarize_layer_last": 0.9017953872680664
+ },
+ {
+  "gold": "there 's a lot of great books that have been written about this the al gore book our choice and the david mckay book sustainable energy without the hot air they really go through it and i think create a framework that this can be discussed broadly because we need broad backing for this",
+  "whisper_v2_nbest_gpt4o": [
+   "There's a lot of great books that have been written about this. The Al Gore book, *Our Choice*, and the David MacKay book, *Sustainable Energy \u2013 Without the Hot Air*. They really go through it and I think can create a framework that this can be discussed broadly because we need broad backing for this."
+  ],
+  "back_layer_mid": 0.9919322729110718,
+  "summarize_layer_mid": 0.9899970889091492,
+  "back_layer_last": 0.988652229309082,
+  "summarize_layer_last": 0.9737824201583862
+ },
+ {
+  "gold": "and what we 're doing and then we get all this positive feedback you guys have heard of leveling up and plus one strength and plus one intelligence we don 't get that kind of constant feedback in real life when i get off this stage i 'm not going to have plus one speaking and plus one",
+  "whisper_v2_nbest_gpt4o": [
+   "And what we're doing, and then we get all this positive feedback. You guys have heard of leveling up and plus one strength and plus one intelligence. We don't get that kind of constant feedback in real life. When I get off the stage, I'm not going to have, you know, plus one speaking and plus one."
+  ],
+  "back_layer_mid": 0.987084150314331,
+  "summarize_layer_mid": 0.9691157341003418,
+  "back_layer_last": 0.984203577041626,
+  "summarize_layer_last": 0.9270436763763428
+ },
+ {
+  "gold": "that this makes perfect sense because gamers can achieve more in online worlds than they can in real life they can have stronger social relationships in games than they can have in real life they get better feedback and feel more rewarded in games than they do in real life so he says",
+  "whisper_v2_nbest_gpt4o": [
+   "That this makes perfect sense because gamers can achieve more in online worlds than they can in real life. They can have stronger social relationships in games than they can have in real life. They get better feedback and feel more rewarded in games than they do in real life, so he says."
+  ],
+  "back_layer_mid": 0.9992448091506958,
+  "summarize_layer_mid": 0.9857795834541321,
+  "back_layer_last": 0.9992198348045349,
+  "summarize_layer_last": 0.9895195364952087
+ },
+ {
+  "gold": "they are lost forever i mean most of the moments of our life and i calculated you know the psychological present is said to be about three seconds long which means that you know in in a life there are about six hundred million of them in a month there are about six hundred thousand",
+  "whisper_v2_nbest_gpt4o": [
+   "They are lost forever. I mean, most of the moments of our life, and I calculated, you know, the psychological present is said to be about three seconds long. That means that, you know, in a life, there are about 600 million of them. In a month, there are about 600,000."
+  ],
+  "back_layer_mid": 0.9779797792434692,
+  "summarize_layer_mid": 0.9845360517501831,
+  "back_layer_last": 0.9464213848114014,
+  "summarize_layer_last": 0.9711991548538208
+ },
+ {
+  "gold": "you can 't explain it to people it 's that thing that that maybe cops have or people in in combat that have gone through something together and they know they can never explain it creates a bond creates a bond of respect so when i came back to make my next movie which was avatar",
+  "whisper_v2_nbest_gpt4o": [
+   "\"You can't explain it to people. It's that thing that maybe cops have or people in combat that have gone through something together, and they know they can never explain it. It creates a bond, a bond of respect. So when I came back to make my next movie, which was Avatar,\""
+  ],
+  "back_layer_mid": 0.9851230978965759,
+  "summarize_layer_mid": 0.9919407367706299,
+  "back_layer_last": 0.9768900871276855,
+  "summarize_layer_last": 0.9946246147155762
+ },
+ {
+  "gold": "that you can 't explain to someone else when you come back to the shore and you say you know we had to do this and the fiber optic and the attentuation and the this and the that all the all the technology of it and the difficulty the human performance aspects of working at sea",
+  "whisper_v2_nbest_gpt4o": [
+   "\"that you can't explain to someone else. When you come back to the shore and you say, you know, we had to do this, and the fiber optic, and the attenuation, and this and that, all the technology of it, and the difficulty, the human performance aspects of working at sea.\""
+  ],
+  "back_layer_mid": 0.9864946603775024,
+  "summarize_layer_mid": 0.9953815937042236,
+  "back_layer_last": 0.9808681607246399,
+  "summarize_layer_last": 0.987377941608429
+ },
+ {
+  "gold": "to do real world work that games are a powerful platform for change we have all these amazing superpowers blissful productivity the ability to weave a tight social fabric this feeling of urgent optimism and the desire for epic meaning i really hope that we can come together",
+  "whisper_v2_nbest_gpt4o": [
+   "To do real-world work, games are a powerful platform for change. We have all these amazing superpowers: blissful productivity, the ability to weave a tight social fabric, this feeling of urgent optimism, and the desire for epic meaning. I really hope that we can come together."
+  ],
+  "back_layer_mid": 0.9875662922859192,
+  "summarize_layer_mid": 0.9950973987579346,
+  "back_layer_last": 0.9766578674316406,
+  "summarize_layer_last": 0.9918580651283264
+ },
+ {
+  "gold": "nathaniel dropped out of juilliard he suffered a complete breakdown and thirty years later he was living homeless on the streets of skid row in downtown los angeles i encourage all of you to read steve 's book or to watch the movie to understand not only the beautiful bond",
+  "whisper_v2_nbest_gpt4o": [
+   "Nathaniel dropped out of Juilliard, he suffered a complete breakdown, and 30 years later, he was living homeless on the streets of Skid Row in downtown Los Angeles. I encourage all of you to read Steve's book or to watch the movie to understand not only the beautiful bond."
+  ],
+  "back_layer_mid": 0.9908398985862732,
+  "summarize_layer_mid": 0.9867107272148132,
+  "back_layer_last": 0.9684334993362427,
+  "summarize_layer_last": 0.9707276821136475
+ },
+ {
+  "gold": "so this is really important because this is an insight that was not contained within any one wikipedia page it 's only possible to see that insight when you step back and look at all of them looking at one of these particular summaries i can then drill into the concept of",
+  "whisper_v2_nbest_gpt4o": [
+   "So, this is really important because this is an insight that was not contained within any one Wikipedia page. It's only possible to see that insight when you step back and look at all of them. Looking at one of these particular summaries, I can then drill into the concept of."
+  ],
+  "back_layer_mid": 0.9988161325454712,
+  "summarize_layer_mid": 0.8509032130241394,
+  "back_layer_last": 0.9991198182106018,
+  "summarize_layer_last": 0.8783231973648071
+ },
+ {
+  "gold": "i was seeing creatures at hydrothermal vents and and sometimes things that i had had never seen before sometimes things that no one had seen before that actually were not described by science at the time that we saw them and imaged them so i was completely smitten by this",
+  "whisper_v2_nbest_gpt4o": [
+   "I was seeing creatures at hydrothermal vents, and sometimes things that I had never seen before, sometimes things that no one had seen before, that actually were not described by science at the time that we saw them and imaged them. So I was completely smitten by this."
+  ],
+  "back_layer_mid": 0.9982929229736328,
+  "summarize_layer_mid": 0.9942159056663513,
+  "back_layer_last": 0.9974694848060608,
+  "summarize_layer_last": 0.9930547475814819
+ },
+ {
+  "gold": "dive these deep dives was like a like a space mission you know where it was it was highly technical and it required enormous planning you get in this capsule you go down to this dark hostile environment where there is no hope of rescue if you can 't get back by yourself",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Dive, these deep dives, were like a space mission, you know, where it was highly technical, and it required enormous planning, and you get in this capsule, you go down to this dark, hostile environment where there's no hope of rescue if you can't get back by yourself.\""
+  ],
+  "back_layer_mid": 0.9887650609016418,
+  "summarize_layer_mid": 0.9901487827301025,
+  "back_layer_last": 0.9643672704696655,
+  "summarize_layer_last": 0.97913658618927
+ },
+ {
+  "gold": "that what 's happening to them is a pharmaceutical or some sort of a for pain management for example if they believe it enough there is a measurable effect in the body called the placebo effect something fake becomes something real because of someone 's perception of it",
+  "whisper_v2_nbest_gpt4o": [
+   "\"That what's happening to them is a pharmaceutical or some sort of pain management. For example, if they believe it enough, there's a measurable effect in the body called the placebo effect. Something fake becomes something real because of someone's perception of it.\""
+  ],
+  "back_layer_mid": 0.9909899234771729,
+  "summarize_layer_mid": 0.9971425533294678,
+  "back_layer_last": 0.9791591763496399,
+  "summarize_layer_last": 0.9961682558059692
+ },
+ {
+  "gold": "the temperature will continue to rise and so that 's that 's a big challenge it 's very different than saying you know we 're a twelve feet high truck trying to get under a ten feet bridge and we can just sort of squeeze under this is something that has to get to zero",
+  "whisper_v2_nbest_gpt4o": [
+   "The temperature will continue to rise. And so that's a big challenge. It's very different than saying, you know, we're a 12-foot-high truck trying to get under a 10-foot bridge, and we can't just sort of squeeze under. This is something that has to get to zero."
+  ],
+  "back_layer_mid": 0.9906160831451416,
+  "summarize_layer_mid": 0.9932856559753418,
+  "back_layer_last": 0.9802165627479553,
+  "summarize_layer_last": 0.9671814441680908
+ },
+ {
+  "gold": "recently scientists have suggested that herodotus 's crazy story is actually true and geologists have found evidence of a global cooling that lasted for nearly twenty years that could have explained the famine so this crazy story might be true they might have actually",
+  "whisper_v2_nbest_gpt4o": [
+   "But recently, scientists have suggested that Herodotus' crazy story is actually true. And geologists have found evidence of a global cooling that lasted for nearly 20 years that could have explained the famine. So this crazy story might be true. They might have actually."
+  ],
+  "back_layer_mid": 0.9874757528305054,
+  "summarize_layer_mid": 0.9917421340942383,
+  "back_layer_last": 0.9418405294418335,
+  "summarize_layer_last": 0.9753109216690063
+ },
+ {
+  "gold": "to post videos to post photos we piloted this game with seventeen hundred players in two thousand and seven and we 've tracked them for the three years since and i can tell you that this is a transformative experience nobody wants to change how they live just because",
+  "whisper_v2_nbest_gpt4o": [
+   "To post videos, to post photos. We piloted this game with 1,700 players in 2007, and we've tracked them for the three years since. And I can tell you that this is a transformative experience. Nobody wants to change how they live just because."
+  ],
+  "back_layer_mid": 0.9788103103637695,
+  "summarize_layer_mid": 0.9790616035461426,
+  "back_layer_last": 0.9603403806686401,
+  "summarize_layer_last": 0.9635326266288757
+ },
+ {
+  "gold": "you look around you go oh that team 's going to win you can just tell beforehand and why is that because they have specials skills of facilitation they manage the process they understand the process and any team who manages and pays a close attention to to work",
+  "whisper_v2_nbest_gpt4o": [
+   "You look around, you go, oh, that team's going to win. You can just tell beforehand. And why is that? Because they have special skills of facilitation. They manage the process. They understand the process. And any team who manages and pays close attention to work wins."
+  ],
+  "back_layer_mid": 0.9772041440010071,
+  "summarize_layer_mid": 0.9862831830978394,
+  "back_layer_last": 0.9634848833084106,
+  "summarize_layer_last": 0.9661880135536194
+ },
+ {
+  "gold": "the second trap is a confusion between experience and memory basically it 's between being happy in your life and being happy about your life or happy with your life and those are two very different concepts and they 're both lumped in the notion of happiness",
+  "whisper_v2_nbest_gpt4o": [
+   "The second trap is a confusion between experience and memory. Basically, it's between being happy in your life and being happy about your life, or happy with your life. And those are two very different concepts, and they're both lumped in the notion of happiness."
+  ],
+  "back_layer_mid": 0.9987020492553711,
+  "summarize_layer_mid": 0.9980766773223877,
+  "back_layer_last": 0.9981491565704346,
+  "summarize_layer_last": 0.9983690977096558
+ },
+ {
+  "gold": "blissful productivity i love it you know there is a reason why the average world of warcraft gamer plays for twenty two hours a week kind of a half time job it 's because we know when we 're playing a game that we 're actually happier working hard than we are",
+  "whisper_v2_nbest_gpt4o": [
+   "Blissful productivity. I love it. You know, there's a reason why the average World of Warcraft gamer plays for 22 hours a week, kind of a halftime job. It's because we know, when we're playing a game, that we're actually happier working hard than we are."
+  ],
+  "back_layer_mid": 0.9892271161079407,
+  "summarize_layer_mid": 0.9959892630577087,
+  "back_layer_last": 0.9821558594703674,
+  "summarize_layer_last": 0.9922223687171936
+ },
+ {
+  "gold": "kids in the developing world every year pretty good right well it 's good except that paul goes around talking about vaccines and says how valuable they are and that people ought to just stop the whining and he actually says it that way so paul 's a terrorist",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Kids in the developing world every year. Pretty good, right? Well, it's good, except that Paul goes around talking about vaccines and says how valuable they are, and that people ought to just stop the whining. And he actually says it that way. So, Paul's a terrorist.\""
+  ],
+  "back_layer_mid": 0.9953584671020508,
+  "summarize_layer_mid": 0.9945325255393982,
+  "back_layer_last": 0.9901285767555237,
+  "summarize_layer_last": 0.9918662309646606
+ },
+ {
+  "gold": "at whatever that is if you don 't know it already this is coming the game industry is developing consoles that are low energy and that work with the wireless phone networks instead of broadband internet so that gamers all over the world particularly in india",
+  "whisper_v2_nbest_gpt4o": [
+   "If you don't know it already, this is coming. The game industry is developing consoles that are low-energy and that work with the wireless phone networks instead of broadband internet so that gamers all over the world, particularly in India, can benefit."
+  ],
+  "back_layer_mid": 0.9723997116088867,
+  "summarize_layer_mid": 0.983005166053772,
+  "back_layer_last": 0.9378271698951721,
+  "summarize_layer_last": 0.9611028432846069
+ },
+ {
+  "gold": "and the premise was a supercomputer has calculated that humans have only twenty three years left on the planet this supercomputer was called the global extinction awareness system of course we asked people to come online almost like a jerry bruckheimer movie",
+  "whisper_v2_nbest_gpt4o": [
+   "And the premise was that a supercomputer had calculated that humans have only 23 years left on the planet. The supercomputer was called the Global Extinction Awareness System, of course. We asked people to come online, almost like in a Jerry Bruckheimer movie."
+  ],
+  "back_layer_mid": 0.9896383285522461,
+  "summarize_layer_mid": 0.9910622835159302,
+  "back_layer_last": 0.9852079749107361,
+  "summarize_layer_last": 0.9811753034591675
+ },
+ {
+  "gold": "okay there are reasons for that and i think we know what those reasons are we 've lost faith in institutions in authority and sometimes in science itself and there there 's no reason we shouldn 't have you can just say a few names and people will understand",
+  "whisper_v2_nbest_gpt4o": [
+   "Okay, there are reasons for that, and I think we know what those reasons are. We've lost faith in institutions, in authority, and sometimes in science itself, and there's no reason we shouldn't have. You can just say a few names, and people will understand."
+  ],
+  "back_layer_mid": 0.9981489181518555,
+  "summarize_layer_mid": 0.9942889213562012,
+  "back_layer_last": 0.9971722364425659,
+  "summarize_layer_last": 0.9951570630073547
+ },
+ {
+  "gold": "and so that that that got me very excited and i thought wow this is this is something that needs to be embraced into the cinematic art so with terminator two which was my next film we took that much farther working with with ilm we created the liquid metal",
+  "whisper_v2_nbest_gpt4o": [
+   "And so that got me very excited. I thought, wow, this is something that needs to be embraced into the cinematic art. So with Terminator 2, which was my next film, we took that much farther. Working with ILM, we created the liquid metal."
+  ],
+  "back_layer_mid": 0.9850964546203613,
+  "summarize_layer_mid": 0.988388180732727,
+  "back_layer_last": 0.972310483455658,
+  "summarize_layer_last": 0.9774243235588074
+ },
+ {
+  "gold": "and the third is it 's the focusing illusion and it 's the unfortunate fact that we can 't think about any circumstance that affects well being without distorting its importance i mean this is a real cognitive trap there 's just no way of getting it right",
+  "whisper_v2_nbest_gpt4o": [
+   "And the third is, it's the focusing illusion. And it's the unfortunate fact that we can't think about any circumstance that affects well-being without distorting its importance. I mean, this is a real cognitive trap. There's just no way of getting it right."
+  ],
+  "back_layer_mid": 0.9995043277740479,
+  "summarize_layer_mid": 0.9976929426193237,
+  "back_layer_last": 0.999543309211731,
+  "summarize_layer_last": 0.9971922039985657
+ },
+ {
+  "gold": "and that is true of the stories that memory delivers for us and it 's also true of the stories that we make up what defines a story are changes significant moments and endings endings are very very important and in this case you know the ending dominated",
+  "whisper_v2_nbest_gpt4o": [
+   "And that is true of the stories that memory delivers for us, and it's also true of the stories that we make up. What defines a story are changes, significant moments, and endings. Endings are very, very important. And in this case, you know, the ending dominated."
+  ],
+  "back_layer_mid": 0.9931685328483582,
+  "summarize_layer_mid": 0.9858198761940002,
+  "back_layer_last": 0.9685640931129456,
+  "summarize_layer_last": 0.9711736440658569
+ },
+ {
+  "gold": "doesn 't get used for weapons and then what do you do with the waste and although it 's not very large there are a lot of concerns about that people need to feel good about it so three very tough problems that might be solvable and so should be worked on",
+  "whisper_v2_nbest_gpt4o": [
+   "It doesn't get used for weapons, and then what do you do with the waste? Although it's not very large, there are a lot of concerns about that. People need to feel good about it. So, three very tough problems that might be solvable and should be worked on."
+  ],
+  "back_layer_mid": 0.9940150380134583,
+  "summarize_layer_mid": 0.9883544445037842,
+  "back_layer_last": 0.9849944710731506,
+  "summarize_layer_last": 0.9695485830307007
+ },
+ {
+  "gold": "what it had ruined were the memory of the experience he had had the experience he had had twenty minutes of glorious music they counted for nothing because he was left with a memory the memory was ruined and the memory was all that he had gotten to keep",
+  "whisper_v2_nbest_gpt4o": [
+   "What it had ruined was the memory of the experience. He had"
+  ],
+  "back_layer_mid": 0.9023699760437012,
+  "summarize_layer_mid": 0.9073696732521057,
+  "back_layer_last": 0.6615860462188721,
+  "summarize_layer_last": 0.7520886063575745
+ },
+ {
+  "gold": "well it again it should have the two elements we should go through these efficiency measures to start getting reductions the less we emit the less that sum will be of co two and therefore the less the temperature but in some ways the grade we get there",
+  "whisper_v2_nbest_gpt4o": [
+   "Well, again, it should have the two elements. We should go through these efficiency measures to start getting reductions. The less we emit, the less that sum will be of CO2, and therefore the less the temperature. But in some ways, the greater we get there."
+  ],
+  "back_layer_mid": 0.9918903112411499,
+  "summarize_layer_mid": 0.9845956563949585,
+  "back_layer_last": 0.9832262992858887,
+  "summarize_layer_last": 0.9107726216316223
+ },
+ {
+  "gold": "who likewise if their science goes well if the funding for their pilot pilot plants goes well that they they can compete for this and it 's best if multiple succeed because then you could use a mix a mix of these things we certainly need one to succeed",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Who likewise, if their science goes well, if the funding for their pilot plants goes well, can compete for this. And it's best if multiple succeed, because then you can use a mix of these things. We certainly need one to succeed.\""
+  ],
+  "back_layer_mid": 0.9868127703666687,
+  "summarize_layer_mid": 0.9894294142723083,
+  "back_layer_last": 0.9490459561347961,
+  "summarize_layer_last": 0.9645407795906067
+ },
+ {
+  "gold": "the only way it makes sense to even think about it is to talk about time at the magnitude of human evolution which is an extraordinary thing but it 's also apt because it turns out that by spending all this time playing games we are actually changing",
+  "whisper_v2_nbest_gpt4o": [
+   "The only way it makes sense to even think about it is to talk about time at the magnitude of human evolution, which is an extraordinary thing, but it's also apt, because it turns out that by spending all this time playing games, we're actually changing."
+  ],
+  "back_layer_mid": 0.9937527179718018,
+  "summarize_layer_mid": 0.9807906150817871,
+  "back_layer_last": 0.9937183856964111,
+  "summarize_layer_last": 0.9447885751724243
+ },
+ {
+  "gold": "you know we were we were going to the moon we were exploring the deep oceans jacques cousteau was coming into our living rooms with his amazing specials that showed us animals and places and a you know a wondrous world that we could never really have",
+  "whisper_v2_nbest_gpt4o": [
+   "You know, we were going to the moon. We were exploring the deep oceans. Jacques Cousteau was coming into our living rooms with his amazing specials that showed us animals and places and a wondrous world that we could never really have..."
+  ],
+  "back_layer_mid": 0.981521725654602,
+  "summarize_layer_mid": 0.9933135509490967,
+  "back_layer_last": 0.9663090109825134,
+  "summarize_layer_last": 0.9935134649276733
+ },
+ {
+  "gold": "and it turns out that below an income of sixty thousand dollars a year for americans and that 's a very large sample of americans like six hundred thousand so it 's a large representative sample below an income of six hundred thousand dollars a year",
+  "whisper_v2_nbest_gpt4o": [
+   "And it turns out that below an income of $60,000"
+  ],
+  "back_layer_mid": 0.8782172203063965,
+  "summarize_layer_mid": 0.9282130599021912,
+  "back_layer_last": 0.8175308704376221,
+  "summarize_layer_last": 0.7040181159973145
+ },
+ {
+  "gold": "epic wins so possible in online worlds so the first thing is whenever you show up in one of these online games especially in world of warcraft there are lots and lots of different characters who are willing to trust you with a world saving mission",
+  "whisper_v2_nbest_gpt4o": [
+   "'Epic wins are possible in online worlds. So the first thing is, whenever you show up in one of these online games, especially in World of Warcraft, there are lots and lots of different characters who are willing to trust you with a world-saving mission.'"
+  ],
+  "back_layer_mid": 0.9826983213424683,
+  "summarize_layer_mid": 0.9750708937644958,
+  "back_layer_last": 0.9611915349960327,
+  "summarize_layer_last": 0.8976295590400696
+ },
+ {
+  "gold": "and i wound up getting involved with the space community really involved with with nasa sitting on the nasa advisory board planning actual space missions going to russia going to the pre cosmonaut biomedical protocols and all these sorts of things",
+  "whisper_v2_nbest_gpt4o": [
+   "And I wound up getting involved with the space community, really involved with NASA, sitting on the NASA Advisory Board, planning actual space missions, going to Russia, going through the pre-cosmonaut biomedical protocols and all these sorts of things."
+  ],
+  "back_layer_mid": 0.994613528251648,
+  "summarize_layer_mid": 0.9921680688858032,
+  "back_layer_last": 0.983820915222168,
+  "summarize_layer_last": 0.9685530662536621
+ },
+ {
+  "gold": "and so you get the idea that when you navigate over information this way going narrower broader backing in backing out you 're not searching you 're not browsing you 're doing something that 's actually a little bit different it 's in between and",
+  "whisper_v2_nbest_gpt4o": [
+   "And so you get the idea that when you navigate over information this way, going narrow, broader, backing in, backing out, you're not searching, you're not browsing, you're doing something that's actually a little bit different; it's in between."
+  ],
+  "back_layer_mid": 0.9919266700744629,
+  "summarize_layer_mid": 0.9934660196304321,
+  "back_layer_last": 0.9878972172737122,
+  "summarize_layer_last": 0.9878418445587158
+ },
+ {
+  "gold": "you know are they saying there 's negative feedback effects that have to do with clouds that offset things there are very very few things that they can even say you know there 's a chance in a million of those things the main problem we have here",
+  "whisper_v2_nbest_gpt4o": [
+   "\"You know, are they saying that there are negative feedback effects that have to do with clouds that offset things? There are very, very few things that they can even say, you know, there's a chance in a million of those things. The main problem you have here.\""
+  ],
+  "back_layer_mid": 0.9820329546928406,
+  "summarize_layer_mid": 0.9844645261764526,
+  "back_layer_last": 0.9386754631996155,
+  "summarize_layer_last": 0.930742084980011
+ },
+ {
+  "gold": "so the question is can we do that and i i think we can i think it 's clear that we can make food that will feed billions of people without raping the land that they live on i think we can power this world with energy that doesn 't also destroy it",
+  "whisper_v2_nbest_gpt4o": [
+   "So the question is, can we do that? And I think we can. I think it's clear that we can make food that will feed billions of people without harming the land that they live on. I think we can power this world with energy that doesn't also destroy it."
+  ],
+  "back_layer_mid": 0.9926300644874573,
+  "summarize_layer_mid": 0.9948633313179016,
+  "back_layer_last": 0.9819657206535339,
+  "summarize_layer_last": 0.9929565191268921
+ },
+ {
+  "gold": "and so you know we started planning these these expeditions and we wound up going to the bismark and and exploring it with with robotic vehicles we went back to the titanic wreck we took little bots that we had created that spooled a fiber optic",
+  "whisper_v2_nbest_gpt4o": [
+   "And, so, you know, we started planning these expeditions, and we wound up going to the Bismarck and exploring it with robotic vehicles. We went back to the Titanic wreck. We took little bots that we had created that spooled a fiber optic."
+  ],
+  "back_layer_mid": 0.9973946809768677,
+  "summarize_layer_mid": 0.9902293682098389,
+  "back_layer_last": 0.9934595823287964,
+  "summarize_layer_last": 0.9862045049667358
+ },
+ {
+  "gold": "ready to work with you to achieve your epic mission it 's not something that we have in real life that easily this sense that at our fingertips are tons of collaborators and also there is this epic story this inspiring story of why we 're there",
+  "whisper_v2_nbest_gpt4o": [
+   "Ready to work with you to achieve your epic mission. That's not something we have in real life that easily, the sense that at our fingertips are tons of collaborators. And also there's this epic story, this inspiring story of why we're there."
+  ],
+  "back_layer_mid": 0.9878613948822021,
+  "summarize_layer_mid": 0.9913905262947083,
+  "back_layer_last": 0.9783836603164673,
+  "summarize_layer_last": 0.9408982992172241
+ },
+ {
+  "gold": "this urge i had to tell stories with my my urges to create images and i was as a kid constantly drawing comic books and so on so film making was the way to put put pictures and stories together and that made sense and of course the stories that",
+  "whisper_v2_nbest_gpt4o": [
+   "this urge I had to tell stories with my urge to create images and I was"
+  ],
+  "back_layer_mid": 0.9251524209976196,
+  "summarize_layer_mid": 0.9205437302589417,
+  "back_layer_last": 0.8019585013389587,
+  "summarize_layer_last": 0.8094635009765625
+ },
+ {
+  "gold": "it 's going to take a while and it 's not going to and people are going to debate whether they want to study experience happiness or whether they want to study life evaluation so we need to have that debate fairly soon how to enhance happiness",
+  "whisper_v2_nbest_gpt4o": [
+   "It's going to take a while, and it's not going to\u2014people are going to debate whether they want to study experienced happiness or whether they want to study life evaluation. So we need to have that debate fairly soon: how to enhance happiness?"
+  ],
+  "back_layer_mid": 0.9968428015708923,
+  "summarize_layer_mid": 0.9971169233322144,
+  "back_layer_last": 0.9978164434432983,
+  "summarize_layer_last": 0.991320788860321
+ },
+ {
+  "gold": "and you know the a students get the tougher curriculum the best teachers etc well they took over a three month period d level students gave them a 's told them they were a 's told them they were bright and at the end of this three month period",
+  "whisper_v2_nbest_gpt4o": [
+   "\"And, you know, the A students get the tougher curriculum, the best teachers, et cetera. Well, they took over a three-month period, D-level students, gave them A's, told them they were\""
+  ],
+  "back_layer_mid": 0.9414051175117493,
+  "summarize_layer_mid": 0.9337112903594971,
+  "back_layer_last": 0.7954419255256653,
+  "summarize_layer_last": 0.7868383526802063
+ },
+ {
+  "gold": "you know i think that there is recognition of the role of happiness research in public policy the recognition is going to be slow in the united states no question about that but in the uk it is happening and in other countries it is happening",
+  "whisper_v2_nbest_gpt4o": [
+   "You know, I think that there is recognition of the role of happiness research in public policy. The recognition is going to be slow in the United States, no question about that. But in the UK it is happening and in other countries it is happening."
+  ],
+  "back_layer_mid": 0.9991622567176819,
+  "summarize_layer_mid": 0.9975714683532715,
+  "back_layer_last": 0.9991136193275452,
+  "summarize_layer_last": 0.9901999831199646
+ },
+ {
+  "gold": "that 's a lot of time to spend playing games maybe too much time considering how many urgent problems we have to solve in the real world but actually according to my research at the institute for the future it 's actually the opposite is true",
+  "whisper_v2_nbest_gpt4o": [
+   "\"That's a lot of time to spend playing games, maybe too much time, considering how many urgent problems we have to solve in the real world. But actually, according to my research at the Institute for the Future, the opposite is true.\""
+  ],
+  "back_layer_mid": 0.9665752649307251,
+  "summarize_layer_mid": 0.9850462675094604,
+  "back_layer_last": 0.9412107467651367,
+  "summarize_layer_last": 0.9747987389564514
+ },
+ {
+  "gold": "i probably have consumed my memories of that three week trip i would say for about twenty five minutes in the last four years now you know if if i had ever opened the folder with the six hundred pictures in it i would have spent another hour",
+  "whisper_v2_nbest_gpt4o": [
+   "I probably have consumed my memories of that three-week trip, I would say, for about 25 minutes in the last four years. Now, you know, if I had ever opened the folder with the 600 pictures in it, I would have spent another hour."
+  ],
+  "back_layer_mid": 0.9776503443717957,
+  "summarize_layer_mid": 0.9953044652938843,
+  "back_layer_last": 0.8982667922973633,
+  "summarize_layer_last": 0.9883407354354858
+ },
+ {
+  "gold": "they are more effective than tablets in any form a colored capsule that 's yellow on one end and red on the other is better than a white capsule dosage has something to do with this you know one pill twice a day is not as good at three pills",
+  "whisper_v2_nbest_gpt4o": [
+   "They're more effective than tablets in any form. A colored capsule that's yellow on one end and red on the other is better than a white capsule. Dosage has something to do with this, you know. One pill twice a day is not as good as three pills."
+  ],
+  "back_layer_mid": 0.9928526878356934,
+  "summarize_layer_mid": 0.9951738119125366,
+  "back_layer_last": 0.9939358234405518,
+  "summarize_layer_last": 0.9763844013214111
+ },
+ {
+  "gold": "and the people in the back go okay i didn 't really see that people in the satellite room are like starting to move in now let me give you good close look at this that really is my skin that is not a hollywood special effect that 's my flesh",
+  "whisper_v2_nbest_gpt4o": [
+   "\"And the people in the back go, okay, I didn't really see that. People in the satellite room are like starting to move in now. Let me give you a good close look at this. That really is my skin. That is not a Hollywood special effect. That's my flesh.\""
+  ],
+  "back_layer_mid": 0.9940503835678101,
+  "summarize_layer_mid": 0.9955855011940002,
+  "back_layer_last": 0.989087700843811,
+  "summarize_layer_last": 0.985774576663971
+ },
+ {
+  "gold": "oh you 've heard of that okay good so we have some gamers among us so an epic win is an outcome that is so extraordinarily positive you had no idea it was even possible until you achieved it it was almost beyond the threshold of imagination",
+  "whisper_v2_nbest_gpt4o": [
+   "Oh, you've heard of that. OK, good. So we have some gamers among us. So an epic win is an outcome that is so extraordinarily positive, you had no idea it was even possible until you achieved it. It was almost beyond the threshold of imagination."
+  ],
+  "back_layer_mid": 0.9987314939498901,
+  "summarize_layer_mid": 0.9972519874572754,
+  "back_layer_last": 0.9975045919418335,
+  "summarize_layer_last": 0.9974308013916016
+ },
+ {
+  "gold": "we never have those feelings when we 're playing games they just don 't exist in games so that 's what i wanted to study when i was a graduate student what about games makes it impossible to feel that we can 't achieve everything how can we",
+  "whisper_v2_nbest_gpt4o": [
+   "We never have those feelings when we're playing games. They just don't exist in games. So that's what I wanted to study when I was a graduate student. What about games makes it impossible to feel that we can't achieve everything? How can we?"
+  ],
+  "back_layer_mid": 0.9983701705932617,
+  "summarize_layer_mid": 0.9934992790222168,
+  "back_layer_last": 0.9983606934547424,
+  "summarize_layer_last": 0.9970213174819946
+ },
+ {
+  "gold": "these are people who believe that they are individually capable of changing the world and the only problem is they believe that they are capable of changing virtual worlds and not the real world that 's the problem that i 'm trying to solve",
+  "whisper_v2_nbest_gpt4o": [
+   "These are people who believe that they are individually capable of changing the world. And the only problem is they believe that they are capable of changing virtual worlds and not the real world. That's the problem that I'm trying to solve."
+  ],
+  "back_layer_mid": 0.996244490146637,
+  "summarize_layer_mid": 0.9983371496200562,
+  "back_layer_last": 0.9871877431869507,
+  "summarize_layer_last": 0.9986885786056519
+ },
+ {
+  "gold": "and my talk today will be mostly about these cognitive traps this applies to laypeople thinking about their own happiness and it applies to scholars thinking about happiness because it turns out we 're just as messed up as anybody else is",
+  "whisper_v2_nbest_gpt4o": [
+   "And my talk today will be mostly about these cognitive traps. This applies to laypeople thinking about their own happiness, and it applies to scholars thinking about happiness, because it turns out we're just as messed up as anybody else is."
+  ],
+  "back_layer_mid": 0.9987920522689819,
+  "summarize_layer_mid": 0.9948352575302124,
+  "back_layer_last": 0.9993882179260254,
+  "summarize_layer_last": 0.9935668110847473
+ },
+ {
+  "gold": "goes very different ways depending on how you think and whether you think of the remembering self or you think of the experiencing self this is going to influence policy i think in years to come in the united states efforts are being made",
+  "whisper_v2_nbest_gpt4o": [
+   "The corrected transcription is: \"It goes very different ways depending on how you think and whether you think of the remembering self or the experiencing self. This is going to influence policy, I think, in years to come. In the United States, efforts are being made.\""
+  ],
+  "back_layer_mid": 0.9767978191375732,
+  "summarize_layer_mid": 0.96393221616745,
+  "back_layer_last": 0.9564294219017029,
+  "summarize_layer_last": 0.8906540870666504
+ },
+ {
+  "gold": "who against all odds is on the verge of an epic win now unfortunately this is more of the face that we see in everyday life now as we try to tackle urgent problems this is what i call the i 'm not good at life face and this is actually me",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Who, against all odds, is on the verge of an epic win. Now, unfortunately, this is more of the face that we see in everyday life now as we try to tackle urgent problems. This is what I call the I'm-not-good-at-life face. And this is actually me.\""
+  ],
+  "back_layer_mid": 0.9955025911331177,
+  "summarize_layer_mid": 0.9935831427574158,
+  "back_layer_last": 0.9871575832366943,
+  "summarize_layer_last": 0.99546217918396
+ },
+ {
+  "gold": "that beetroot garlic and lemon oil were much more effective than the antiretroviral drugs we know can slow the course of aids hundreds of thousands of needless deaths in a country that has been plagued worse than any other by this disease",
+  "whisper_v2_nbest_gpt4o": [
+   "Beetroot, garlic, and lemon oil were much more effective than the antiretroviral drugs we know can slow the course of AIDS. Hundreds of thousands of needless deaths in a country that has been plagued worse than any other by this disease."
+  ],
+  "back_layer_mid": 0.9968337416648865,
+  "summarize_layer_mid": 0.9865422248840332,
+  "back_layer_last": 0.9969793558120728,
+  "summarize_layer_last": 0.9247399568557739
+ },
+ {
+  "gold": "now what you could do with patient a and we actually ran clinical experiments and it has been done and it does work you could actually extend the colonoscopy of patient a by just keeping the tube in without jiggling it too much that will",
+  "whisper_v2_nbest_gpt4o": [
+   "Now, what you could do with patient A, and we actually ran clinical experiments and it has been done and it does work. You could actually extend the colonoscopy of patient A by just keeping the tube in without jiggling it too much. That will."
+  ],
+  "back_layer_mid": 0.9952696561813354,
+  "summarize_layer_mid": 0.9905175566673279,
+  "back_layer_last": 0.9731720089912415,
+  "summarize_layer_last": 0.985155463218689
+ },
+ {
+  "gold": "and so to understand it right this involves building deep into the ground almost like a vertical kind of column of nuclear fuel of this sort of spent uranium and then and then and then the process starts at the top and kind of works down",
+  "whisper_v2_nbest_gpt4o": [
+   "And so, to understand it right, this involves building deep into the ground, almost like a vertical kind of column of nuclear fuel, of this sort of spent uranium. Then the process starts at the top and kind of works down."
+  ],
+  "back_layer_mid": 0.9884265065193176,
+  "summarize_layer_mid": 0.9911987781524658,
+  "back_layer_last": 0.9670327305793762,
+  "summarize_layer_last": 0.9702706336975098
+ },
+ {
+  "gold": "my legs hum you know laser surgery for vision impairment uh titanium knee and hip replacements for aging bodies that are allowing people to more fully engage with their abilities and move beyond the limits that nature has imposed on them",
+  "whisper_v2_nbest_gpt4o": [
+   "My legs, you know, laser surgery for vision impairment, titanium knees, and hip replacements for aging bodies are allowing people to more fully engage with their abilities and move beyond the limits that nature has imposed on them."
+  ],
+  "back_layer_mid": 0.9779294729232788,
+  "summarize_layer_mid": 0.975991427898407,
+  "back_layer_last": 0.9570072293281555,
+  "summarize_layer_last": 0.9654871225357056
+ },
+ {
+  "gold": "fifty years we 're going to have to grow seventy percent more food than we do right now seventy percent this is investment in africa over the last thirty years disgraceful disgraceful they need it and we 're not giving it to them and why",
+  "whisper_v2_nbest_gpt4o": [
+   "\"In 50 years, we're going to have to grow 70% more food than we do right now. 70%.\""
+  ],
+  "back_layer_mid": 0.879149854183197,
+  "summarize_layer_mid": 0.8538318872451782,
+  "back_layer_last": 0.7153748273849487,
+  "summarize_layer_last": 0.5033122897148132
+ },
+ {
+  "gold": "saved their culture by playing games escaping to games for eighteen years and then been so inspired and and knew so much about how to come together with games that they actually saved the entire civilization that way okay we can do that",
+  "whisper_v2_nbest_gpt4o": [
+   "Saved their culture by playing games, escaping to games for 18 years, and then became so inspired and knew so much about how to come together with games that they actually saved the entire civilization that way. Okay, we can do that."
+  ],
+  "back_layer_mid": 0.9971631765365601,
+  "summarize_layer_mid": 0.9941300749778748,
+  "back_layer_last": 0.9945406317710876,
+  "summarize_layer_last": 0.9779320955276489
+ },
+ {
+  "gold": "pop right back in to a specific section now the reason why this is important is because by virtue of just viewing web pages in this way i can look at my entire browsing history in the exact same way so i can drill in to what i 've done",
+  "whisper_v2_nbest_gpt4o": [
+   "Pop right back into a specific section. Now, the reason why this..."
+  ],
+  "back_layer_mid": 0.8742898106575012,
+  "summarize_layer_mid": 0.860400915145874,
+  "back_layer_last": 0.6996876001358032,
+  "summarize_layer_last": 0.5415228605270386
+ },
+ {
+  "gold": "and some of you have probably read malcom gladwell 's new book outliers so you would have heard of his theory of success the ten thousand hour theory of success it 's based on this great cognitive science research that if we can master",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Now, some of you have probably read Malcolm Gladwell's new book, Outliers, so you would have heard of his theory of success, the 10,000-hour rule.\""
+  ],
+  "back_layer_mid": 0.9610220193862915,
+  "summarize_layer_mid": 0.969122588634491,
+  "back_layer_last": 0.9598913192749023,
+  "summarize_layer_last": 0.8041960597038269
+ },
+ {
+  "gold": "but these stories bothered me and i couldn 't figure out why and eventually i did and that 's because those fanatics that were driving me crazy weren 't actually fanatics at all they were thoughtful people educated people decent people",
+  "whisper_v2_nbest_gpt4o": [
+   "But these stories bothered me and I couldn't figure out why, and eventually I did. And that's because those fanatics that were driving me crazy weren't actually fanatics at all. They were thoughtful people, educated people, decent people."
+  ],
+  "back_layer_mid": 0.9964925646781921,
+  "summarize_layer_mid": 0.9944574236869812,
+  "back_layer_last": 0.985170304775238,
+  "summarize_layer_last": 0.993423342704773
+ },
+ {
+  "gold": "so i 'm looking at this i see the athletes that have appeared in this issue the sports i 'm a lance armstrong fan so i 'll go ahead and i 'll click on that which reveals for me all the issues in which lance armstrong 's been a part of",
+  "whisper_v2_nbest_gpt4o": [
+   "So, I'm looking at this, I see the athletes that have appeared in this issue, the sports. I'm a Lance Armstrong fan, so I'll go ahead and I'll click on that, which reveals for me all the issues in which Lance Armstrong has been a part of."
+  ],
+  "back_layer_mid": 0.9981276392936707,
+  "summarize_layer_mid": 0.9944169521331787,
+  "back_layer_last": 0.9984812140464783,
+  "summarize_layer_last": 0.9904565215110779
+ },
+ {
+  "gold": "and we 're getting what we need from games but it doesn 't have to end there this is really exciting according to herodotus after eighteen years the famine wasn 't getting better so the king decided they would play one final dice game",
+  "whisper_v2_nbest_gpt4o": [
+   "And we're getting what we need from games. But it doesn't have to end there. This is really exciting. According to Herodotus, after 18 years, the famine wasn't getting better, so the king decided they would play one final dice game."
+  ],
+  "back_layer_mid": 0.9974486827850342,
+  "summarize_layer_mid": 0.9973202347755432,
+  "back_layer_last": 0.9961573481559753,
+  "summarize_layer_last": 0.9953619837760925
+ },
+ {
+  "gold": "so i 'm going to wrap up now i want to ask a question what do you think happens next we 've got all these amazing gamers we 've got these games that are kind of pilots of what we might do but none of them have saved the real world yet",
+  "whisper_v2_nbest_gpt4o": [
+   "\"So I'm going to wrap up now. I want to ask a question: what do you think happens next? We've got all these amazing games and gamers. We've got these games that are kind of pilots of what we might do, but none of them have saved the real world yet. So what do you think happens next?\""
+  ],
+  "back_layer_mid": 0.9716295003890991,
+  "summarize_layer_mid": 0.969908595085144,
+  "back_layer_last": 0.9603806734085083,
+  "summarize_layer_last": 0.8725944757461548
+ },
+ {
+  "gold": "when i would have been starting primary school and forming an understanding of myself outside the family unit and as related to the other kids and the world around me and needless to say thank god i wasn 't using a thesaurus back then",
+  "whisper_v2_nbest_gpt4o": [
+   "When I would have been starting primary school and forming an understanding of myself outside the family unit and as related to the other kids in the world around me. And needless to say, thank God I wasn't using a thesaurus back then."
+  ],
+  "back_layer_mid": 0.9979526996612549,
+  "summarize_layer_mid": 0.9952032566070557,
+  "back_layer_last": 0.9965842962265015,
+  "summarize_layer_last": 0.9916972517967224
+ },
+ {
+  "gold": "tool that i 'm using here is a little experiment it 's called pivot and with pivot what i can do is i can choose to filter in one particular cause of deaths say accidents and right away i see there 's a different pattern that emerges",
+  "whisper_v2_nbest_gpt4o": [
+   "The tool that I'm using here is a little experiment. It's called Pivot. And with Pivot, what I can do is I can choose to filter on one particular cause of death, say accident. And right away, I see there's a different pattern that emerges."
+  ],
+  "back_layer_mid": 0.9925889372825623,
+  "summarize_layer_mid": 0.9888468980789185,
+  "back_layer_last": 0.9624583125114441,
+  "summarize_layer_last": 0.9781822562217712
+ },
+ {
+  "gold": "genetically engineered food we don 't want to encourage people to eat that rotten stuff like cassava for instance cassava 's something that half a billion people eat it 's kind of like a potato it 's just a bunch of calories it sucks",
+  "whisper_v2_nbest_gpt4o": [
+   "Genetically engineered food. We don't want to encourage people to eat that rotten stuff. Like cassava, for instance. Cassava's something that half a billion people eat. It's kind of like a potato. It's just a bunch of calories. It sucks."
+  ],
+  "back_layer_mid": 0.9992242455482483,
+  "summarize_layer_mid": 0.9979436993598938,
+  "back_layer_last": 0.9994458556175232,
+  "summarize_layer_last": 0.9975899457931519
+ },
+ {
+  "gold": "who 've been messing up the study of happiness for a long time in precisely this way the the distinction between the happiness of the experiencing self and the satisfaction of the remembering self has been recognized in recent years",
+  "whisper_v2_nbest_gpt4o": [
+   "\"The distinction between the happiness of the experiencing self and the satisfaction of the remembering self has been recognized in recent years.\""
+  ],
+  "back_layer_mid": 0.9563385844230652,
+  "summarize_layer_mid": 0.8928558826446533,
+  "back_layer_last": 0.947365939617157,
+  "summarize_layer_last": 0.624265193939209
+ },
+ {
+  "gold": "and they can do it because they don 't link causation and correlation they don 't understand that these things seem the same but they 're almost never the same and it 's something we need to learn and we need to learn it really soon",
+  "whisper_v2_nbest_gpt4o": [
+   "And they can do it because they don't link causation and correlation. They don't understand that these things seem the same, but they're almost never the same. And it's something we need to learn, and we need to learn it really soon."
+  ],
+  "back_layer_mid": 0.9991555213928223,
+  "summarize_layer_mid": 0.999024510383606,
+  "back_layer_last": 0.9986228942871094,
+  "summarize_layer_last": 0.9990560412406921
+ },
+ {
+  "gold": "and had to do more and so i actually made a kind of curious decision after the success of titanic i said okay you know i 'm going to park my day job as a hollywood movie maker and i 'm going to go be a full time explorer for a while",
+  "whisper_v2_nbest_gpt4o": [
+   "\"and had to do more. And so I actually made a kind of curious decision. After the success of Titanic, I said, okay, you know, I'm gonna park my day job as a Hollywood movie maker, and I'm gonna go be a full-time explorer for a while.\""
+  ],
+  "back_layer_mid": 0.9948456287384033,
+  "summarize_layer_mid": 0.9967434406280518,
+  "back_layer_last": 0.9880054593086243,
+  "summarize_layer_last": 0.991620659828186
+ },
+ {
+  "gold": "so that instead of navigating from one thing to the next we get used to the habit of being able to go from many things to many things and then being able to see the patterns that were otherwise hidden if we can do that then instead",
+  "whisper_v2_nbest_gpt4o": [
+   "So that instead of navigating from one thing to the next, we get used to the habit of being able to go from many things to many things, and then being able to see the patterns that were otherwise hidden. If we can do that, then instead."
+  ],
+  "back_layer_mid": 0.9982724189758301,
+  "summarize_layer_mid": 0.9852392077445984,
+  "back_layer_last": 0.9940577745437622,
+  "summarize_layer_last": 0.9640100002288818
+ },
+ {
+  "gold": "of being trapped in data we might actually extract information and instead of dealing just with information we can tease out knowledge and if we get the knowledge then maybe even there 's wisdom to be found so with that i thank you",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Of being trapped in data, we might actually extract information. And instead of dealing just with information, we can tease out knowledge, and if we get the knowledge, maybe there's wisdom to be found. So with that, I thank you.\""
+  ],
+  "back_layer_mid": 0.9936782121658325,
+  "summarize_layer_mid": 0.9948418736457825,
+  "back_layer_last": 0.9921700954437256,
+  "summarize_layer_last": 0.9910123944282532
+ },
+ {
+  "gold": "yeah well the actual spending on the r and d piece you know say the u s should spend ten billion a year more than it is right now it 's not that dramatic it shouldn 't take away from other things the thing you get into big money on",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Yeah, well, the actual spending on the R&D piece, you know, say the US should spend 10 billion a year more than it is right now, it's not that dramatic. It shouldn't take away from other things. The thing is, you get into big money on it.\""
+  ],
+  "back_layer_mid": 0.9885759949684143,
+  "summarize_layer_mid": 0.9910417199134827,
+  "back_layer_last": 0.9818161129951477,
+  "summarize_layer_last": 0.976641058921814
+ },
+ {
+  "gold": "a factor of a hundred better than the approaches we have now it 's not it 's not impossible but it 's not a very easy thing now this shows up when you try to get the the intermittent source to be above say twenty to thirty percent",
+  "whisper_v2_nbest_gpt4o": [
+   "A factor of a hundred better than the approaches we have now. It's not impossible, but it's not a very easy thing. Now, this shows up when you try to get the intermittent source to be above, say, 20 to 30 percent."
+  ],
+  "back_layer_mid": 0.9933936595916748,
+  "summarize_layer_mid": 0.9958639144897461,
+  "back_layer_last": 0.9600220322608948,
+  "summarize_layer_last": 0.9931456446647644
+ },
+ {
+  "gold": "this really solves the problem i 've got a picture here of a place in kentucky this is the left over the ninety nine percent where they 've taken out the part they burn now so it 's called depleted uranium that would power the u s",
+  "whisper_v2_nbest_gpt4o": [
+   "This really solves the problem. I've got a picture here of a place in Kentucky. This is the leftover, the 99% where they've taken out the part they burn now. So it's called depleted uranium. That would power the U.S."
+  ],
+  "back_layer_mid": 0.9868587851524353,
+  "summarize_layer_mid": 0.986770749092102,
+  "back_layer_last": 0.9760836362838745,
+  "summarize_layer_last": 0.9720694422721863
+ },
+ {
+  "gold": "the industrial revolution and even in the nineteen hundreds we 've seen a very rapid decline in the price of electricity and that 's why we have refrigerators air conditioning we can make uh modern materials and do so many things",
+  "whisper_v2_nbest_gpt4o": [
+   "The Industrial Revolution, and even in the 1900s, we've seen a very rapid decline in the price of electricity. That's why we have refrigerators, air conditioning, we can make modern materials and do so many things."
+  ],
+  "back_layer_mid": 0.993908703327179,
+  "summarize_layer_mid": 0.9933265447616577,
+  "back_layer_last": 0.9866209626197815,
+  "summarize_layer_last": 0.9868984818458557
+ },
+ {
+  "gold": "we 've never needed progress in science more than we need it right now never and we 've also never been in a position to deploy it properly in the way that we can today we 're on the verge of amazing amazing events in many fields",
+  "whisper_v2_nbest_gpt4o": [
+   "We've never needed progress in science more than we need it right now. And we've also never been in a position to deploy it properly in the way that we can today. We're on the verge of amazing events in many fields."
+  ],
+  "back_layer_mid": 0.9961936473846436,
+  "summarize_layer_mid": 0.9957396388053894,
+  "back_layer_last": 0.9851711392402649,
+  "summarize_layer_last": 0.9955617785453796
+ },
+ {
+  "gold": "everyone 's entitled to their opinion they 're even entitled to their opinion about progress but you know what you 're not entitled to you 're not entitled to your own facts sorry you 're not and this took me awhile to figure out",
+  "whisper_v2_nbest_gpt4o": [
+   "Everyone's entitled to their opinion. They're even entitled to their opinion about progress. But you know what you're not entitled to? You're not entitled to your own facts. Sorry, you're not. And this took me a while to figure out."
+  ],
+  "back_layer_mid": 0.9966650605201721,
+  "summarize_layer_mid": 0.9924535751342773,
+  "back_layer_last": 0.9896482825279236,
+  "summarize_layer_last": 0.9870287775993347
+ },
+ {
+  "gold": "what i 'd like you to think about is how we can use information so that patterns pop and we can see trends that would otherwise be invisible so what we 're looking at right here is a typical mortality chart organized by age this",
+  "whisper_v2_nbest_gpt4o": [
+   "What I'd like you to think about is how we can use information so that patterns pop, and we can see trends that would otherwise be invisible. So, what we're looking at right here is a typical mortality chart organized by age."
+  ],
+  "back_layer_mid": 0.9828066825866699,
+  "summarize_layer_mid": 0.9897044897079468,
+  "back_layer_last": 0.9826253652572632,
+  "summarize_layer_last": 0.9842133522033691
+ },
+ {
+  "gold": "we have transmission challenges for example say this energy source is outside your country you not only need the technology but you have to deal with the risk of the energy coming from elsewhere and finally this storage problem",
+  "whisper_v2_nbest_gpt4o": [
+   "We have transmission challenges. For example, say this energy source is outside your country. You not only need the technology, but you have to deal with the risk of the energy coming from elsewhere. And finally, this storage problem."
+  ],
+  "back_layer_mid": 0.9988669753074646,
+  "summarize_layer_mid": 0.9961310625076294,
+  "back_layer_last": 0.9986379146575928,
+  "summarize_layer_last": 0.9976683855056763
+ },
+ {
+  "gold": "so let 's think how should we measure ourselves what should our report card look like well let 's go out to where we really need to get and and then look at the intermediate for twenty fifty you 've heard many people talk about",
+  "whisper_v2_nbest_gpt4o": [
+   "So let's think about how we should measure ourselves. What should our report card look like? Well, let's figure out where we really need to be and then look at the intermediate steps. For 2050, you've heard many people talk about it."
+  ],
+  "back_layer_mid": 0.9697704315185547,
+  "summarize_layer_mid": 0.9764306545257568,
+  "back_layer_last": 0.8932291865348816,
+  "summarize_layer_last": 0.9135895371437073
+ },
+ {
+  "gold": "we need to get the message out we need to have this dialogue be a more rational more understandable dialogue including the steps that the government takes this is an important wish but it is one i think we can achieve thank you",
+  "whisper_v2_nbest_gpt4o": [
+   "We need to get the message out. We need to have this dialogue be a more rational, more understandable dialogue, including the steps that the government takes. This is an important wish, but it is one I think we can achieve. Thank you."
+  ],
+  "back_layer_mid": 0.9975907802581787,
+  "summarize_layer_mid": 0.9970861673355103,
+  "back_layer_last": 0.9989906549453735,
+  "summarize_layer_last": 0.9951104521751404
+ },
+ {
+  "gold": "where you have to get the miracle by a certain date usually you just kind of stand by and some come along some don 't this is a case where we actually have to drive it full speed and get a miracle in a a pretty tight time line",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Where you have to get the miracle by a certain date. Usually, you just kind of stand by, and some come along, some don't. This is a case where we actually have to drive at full speed and get a miracle in a pretty tight timeline.\""
+  ],
+  "back_layer_mid": 0.9901264309883118,
+  "summarize_layer_mid": 0.9914562702178955,
+  "back_layer_last": 0.9648163318634033,
+  "summarize_layer_last": 0.963085412979126
+ },
+ {
+  "gold": "and he was talking about invisible demons and smoke and how someone was poisoning him in his sleep and i was afraid not for myself but i was afraid that i was going to lose him that he was going to sink into one of his states",
+  "whisper_v2_nbest_gpt4o": [
+   "And he was talking about invisible demons and smoke and how someone was poisoning him in his sleep. And I was afraid, not for myself, but I was afraid that I was going to lose him, that he was going to sink into one of his states."
+  ],
+  "back_layer_mid": 0.999688446521759,
+  "summarize_layer_mid": 0.9955506920814514,
+  "back_layer_last": 0.9996646046638489,
+  "summarize_layer_last": 0.9876347184181213
+ },
+ {
+  "gold": "certified by the world bank institute as a social innovator class of two thousand ten working with universities all over sub saharan africa and we are inviting them to learn social innovation skills we 've got a graphic novel",
+  "whisper_v2_nbest_gpt4o": [
+   "Certified by the World Bank Institute as a social innovator, class of 2010, working with universities all over sub-Saharan Africa, and we are inviting them to learn social innovation skills. We've got a graphic novel."
+  ],
+  "back_layer_mid": 0.9968249797821045,
+  "summarize_layer_mid": 0.9940809011459351,
+  "back_layer_last": 0.9951216578483582,
+  "summarize_layer_last": 0.9916089177131653
+ },
+ {
+  "gold": "let 's pretend right here we have a machine a big machine a cool ted ish machine and it 's a time machine and everyone in this room has to get into it and you can go backwards you can go forwards you cannot stay where you are",
+  "whisper_v2_nbest_gpt4o": [
+   "Let's pretend right here we have a machine, a big machine, a cool, reddish machine. And it's a time machine. And everyone in this room has to get into it. And you can go backwards, you can go forwards, you cannot stay where you are."
+  ],
+  "back_layer_mid": 0.9984233379364014,
+  "summarize_layer_mid": 0.9966633319854736,
+  "back_layer_last": 0.9943311810493469,
+  "summarize_layer_last": 0.9943415522575378
+ },
+ {
+  "gold": "i 'm jane mcgonigal i 'm a game designer i 've been making games online now for ten years and my goal for the next decade is to try to make it as easy to save the world in real life as it is to save the world in online games",
+  "whisper_v2_nbest_gpt4o": [
+   "I'm Jane McGonigal. I'm a game designer. I've been making games online now for 10 years, and my goal for the next decade is to try to make it as easy to save the world in real life as it is to save the world in online games."
+  ],
+  "back_layer_mid": 0.997574508190155,
+  "summarize_layer_mid": 0.9950275421142578,
+  "back_layer_last": 0.9932793378829956,
+  "summarize_layer_last": 0.9853951334953308
+ },
+ {
+  "gold": "and so i want to show you one other thing that may catch you a little bit by surprise i 'm just showing the new york times website here so pivot this application i don 't want to call it a browser it 's really not a browser",
+  "whisper_v2_nbest_gpt4o": [
+   "And so I want to show you one other thing that may catch you a little bit by surprise. I'm just showing the New York Times website here. So pivot this application. I don't want to call it a browser. It's really not a browser."
+  ],
+  "back_layer_mid": 0.9975683689117432,
+  "summarize_layer_mid": 0.9945520758628845,
+  "back_layer_last": 0.9957919120788574,
+  "summarize_layer_last": 0.9898514747619629
+ },
+ {
+  "gold": "i believe that many of us become the best version of ourselves the most likely to help at a moment 's notice the most likely to stick with a problem as long at it takes to get up after failure and try again and in real life",
+  "whisper_v2_nbest_gpt4o": [
+   "I believe that many of us become the best version of ourselves, the most likely to help at a moment's notice, the most likely to stick with a problem as long as it takes, to get up after failure and try again in real life."
+  ],
+  "back_layer_mid": 0.9861611127853394,
+  "summarize_layer_mid": 0.9951409697532654,
+  "back_layer_last": 0.9657593369483948,
+  "summarize_layer_last": 0.99253249168396
+ },
+ {
+  "gold": "take those feelings from games and apply them to real world work so i looked at games like world of warcraft which is really the ideal collaborative problem solving environment and i started to notice a few things that make",
+  "whisper_v2_nbest_gpt4o": [
+   "Take those feelings from games and apply them to real-world work. So, I looked at games like World of Warcraft, which is really the ideal collaborative problem-solving environment, and I started to notice a few things that make."
+  ],
+  "back_layer_mid": 0.9983599185943604,
+  "summarize_layer_mid": 0.95538330078125,
+  "back_layer_last": 0.9978055953979492,
+  "summarize_layer_last": 0.9253638982772827
+ },
+ {
+  "gold": "if you ask for the happiness of the remembering self it 's a completely different thing this is not about how happily a person lives it is about how satisfied or pleased the person is when that person thinks about her life",
+  "whisper_v2_nbest_gpt4o": [
+   "If you ask for the happiness of the remembering self, it's a completely different thing. This is not about how happily a person lives. It is about how satisfied or pleased a person is when that person thinks about her life."
+  ],
+  "back_layer_mid": 0.9985913038253784,
+  "summarize_layer_mid": 0.9964784383773804,
+  "back_layer_last": 0.9939917922019958,
+  "summarize_layer_last": 0.9965494275093079
+ },
+ {
+  "gold": "that hollywood couldn 't give me because you know i could imagine a creature and we could create a visual effect for it but i couldn 't imagine what i was seeing out that window as we did some of our subsequent expeditions",
+  "whisper_v2_nbest_gpt4o": [
+   "\"that Hollywood couldn't give me because, you know, I can imagine a creature and we could create a visual effect for it, but I couldn't imagine what I was seeing out that window as we did some of our subsequent expeditions.\""
+  ],
+  "back_layer_mid": 0.991523802280426,
+  "summarize_layer_mid": 0.9953535795211792,
+  "back_layer_last": 0.9877054691314697,
+  "summarize_layer_last": 0.992267370223999
+ },
+ {
+  "gold": "twenty five hundred years ago these are ancient dice made out of sheep 's knuckles right before we had awesome game controlers we had sheep 's knuckles and these represent the first game equipment designed by human beings",
+  "whisper_v2_nbest_gpt4o": [
+   "\"2,500 years ago, these were ancient dice made out of sheep's knuckles. Before we had awesome game controllers, we had sheep's knuckles. These represent the first game equipment designed by human beings.\""
+  ],
+  "back_layer_mid": 0.9845805168151855,
+  "summarize_layer_mid": 0.9841685891151428,
+  "back_layer_last": 0.9353410005569458,
+  "summarize_layer_last": 0.9478128552436829
+ },
+ {
+  "gold": "dude in that film the success hung in the balance on whether that effect would work and it did and we created magic again and we had the same result with an audience although we did make a little more money on that one so",
+  "whisper_v2_nbest_gpt4o": [
+   "Dude, in that film, that success hung in the balance on whether that effect would work, and it did, and we created magic again. And we had the same result with an audience, although we did make a little more money on that one. So,"
+  ],
+  "back_layer_mid": 0.9911479949951172,
+  "summarize_layer_mid": 0.9892463684082031,
+  "back_layer_last": 0.9681107997894287,
+  "summarize_layer_last": 0.9771136045455933
+ },
+ {
+  "gold": "on one day everybody would eat and on the next day everybody would play games and they would be so immersed in playing the dice games because games are so engaging and immerse us in such satisfying blissful productivity",
+  "whisper_v2_nbest_gpt4o": [
+   "On one day, everybody would eat. And on the next day, everybody would play games. They would be so immersed in playing the dice games because games are so engaging and immerse us in such satisfying, blissful productivity."
+  ],
+  "back_layer_mid": 0.9943870306015015,
+  "summarize_layer_mid": 0.9945398569107056,
+  "back_layer_last": 0.9887394905090332,
+  "summarize_layer_last": 0.9746556282043457
+ },
+ {
+  "gold": "and neither of these stories is very inspiring or great but but one of them is distinct but one of them is distinctly worse than the other and the one that is worse is the one where pain was at its peak at the very end",
+  "whisper_v2_nbest_gpt4o": [
+   "And neither of these stories is very inspiring or great, but one of them is distinctly worse than the other. And the one that is worse is the one where pain was at its peak at the very end."
+  ],
+  "back_layer_mid": 0.9766060709953308,
+  "summarize_layer_mid": 0.987454891204834,
+  "back_layer_last": 0.8782190084457397,
+  "summarize_layer_last": 0.9724897146224976
+ },
+ {
+  "gold": "and that might seem a bit surprising because my full time work at the foundation is mostly about vaccines and seeds about the things that we need to invent and deliver to help the poorest two billion live better lives",
+  "whisper_v2_nbest_gpt4o": [
+   "And that might seem a bit surprising, because my full-time work at the Foundation is mostly about vaccines and seeds, about the things that we need to invent and deliver to help the poorest two billion live better lives."
+  ],
+  "back_layer_mid": 0.9990817308425903,
+  "summarize_layer_mid": 0.996630072593689,
+  "back_layer_last": 0.9992511868476868,
+  "summarize_layer_last": 0.9883038401603699
+ },
+ {
+  "gold": "to play games that matter to survive on this planet for another century and that 's my hope that you will join me in making and playing games like this when i look forward to the next decade i know two things for sure",
+  "whisper_v2_nbest_gpt4o": [
+   "To play games that matter, to survive on this planet for another century. And that's my hope, that you will join me in making and playing games like this. When I look forward to the next decade, I know two things for sure."
+  ],
+  "back_layer_mid": 0.9977141618728638,
+  "summarize_layer_mid": 0.995185136795044,
+  "back_layer_last": 0.9968701601028442,
+  "summarize_layer_last": 0.9957993030548096
+ },
+ {
+  "gold": "and i wonder what you 'd choose because i 've been asking my friends this question a lot lately and they all want to go back i don 't know they want to go back before there were automobiles or twitter or american idol",
+  "whisper_v2_nbest_gpt4o": [
+   "And I wonder what you'd choose, because I've been asking my friends this question a lot lately and they all want to go back. I don't know. They want to go back before there were automobiles or Twitter or American Idol."
+  ],
+  "back_layer_mid": 0.9995096325874329,
+  "summarize_layer_mid": 0.9969435930252075,
+  "back_layer_last": 0.9990828037261963,
+  "summarize_layer_last": 0.9890645742416382
+ },
+ {
+  "gold": "i wrote a story about that too and i couldn 't understand why people thought this was frankenfoods why they thought moving molecules around in a specific rather than a haphazard way was trespassing on nature 's ground",
+  "whisper_v2_nbest_gpt4o": [
+   "I wrote a story about that, too, and I couldn't understand why people thought this was frankenfoods, why they thought moving molecules around in a specific rather than a haphazard way was trespassing on nature's ground."
+  ],
+  "back_layer_mid": 0.9959139823913574,
+  "summarize_layer_mid": 0.9982812404632568,
+  "back_layer_last": 0.9813251495361328,
+  "summarize_layer_last": 0.9954973459243774
+ },
+ {
+  "gold": "why because we don 't have polio and you know what we didn 't have polio in this country yesterday today i don 't know maybe a guy got on a plane in lagos this morning and he 's flying to lax right now he 's over ohio",
+  "whisper_v2_nbest_gpt4o": [
+   "Why? Because we don't have polio. And you know what? We didn't have polio in this country yesterday. Today, I don't know, maybe a guy got on a plane in Lagos this morning and he's flying to LAX right now. He's over Ohio."
+  ],
+  "back_layer_mid": 0.9995279312133789,
+  "summarize_layer_mid": 0.9980438947677612,
+  "back_layer_last": 0.998602569103241,
+  "summarize_layer_last": 0.9929457902908325
+ },
+ {
+  "gold": "so the average for most people is around twenty inches business schools students about half of that lawyers a little better but not much better than that kindergarteners better than most adults who does the very best",
+  "whisper_v2_nbest_gpt4o": [
+   "So the average for most people is around 20 inches. Business school students are about half of that. Lawyers are a little better, but not much better than that. Kindergartners are better than most adults. Who does the very best?"
+  ],
+  "back_layer_mid": 0.9576528072357178,
+  "summarize_layer_mid": 0.982864499092102,
+  "back_layer_last": 0.8507279753684998,
+  "summarize_layer_last": 0.924306333065033
+ },
+ {
+  "gold": "so the same team went from being the very worst to being among the very best they produced the tallest structures in the least amount of time so there 's deep lessons for us about the nature of incentives and success",
+  "whisper_v2_nbest_gpt4o": [
+   "So, the same team went from being the very worst to being among the very best. They produced the tallest structures in the least amount of time. So, there are deep lessons for us about the nature of incentives and success."
+  ],
+  "back_layer_mid": 0.9974403381347656,
+  "summarize_layer_mid": 0.9982970952987671,
+  "back_layer_last": 0.9958779811859131,
+  "summarize_layer_last": 0.9968763589859009
+ },
+ {
+  "gold": "and knows the present is capable of re living the past but basically it has only the present it 's the experiencing self that the doctor approaches you know when the doctor asks does it hurt now when i touch you here",
+  "whisper_v2_nbest_gpt4o": [
+   "\"and knows the present. It's capable of reliving the past, but basically, it has only the present. It's the experiencing self that the doctor approaches, you know, when the doctor asks, does it hurt now when I touch you here?\""
+  ],
+  "back_layer_mid": 0.983566403388977,
+  "summarize_layer_mid": 0.9831781387329102,
+  "back_layer_last": 0.9746255874633789,
+  "summarize_layer_last": 0.9140083193778992
+ },
+ {
+  "gold": "to what temperature will be and where the positive feedbacks are there 's some uncertainty there but not very much and there 's certainly uncertainty about how bad those effects will be but they will be extremely bad",
+  "whisper_v2_nbest_gpt4o": [
+   "The corrected transcription of the spoken text is:\n\n\"To what temperature will it be and where the positive feedbacks are? There's some uncertainty there, but not very much. And there's certainly uncertainty about how bad those effects will be, but they will be extremely bad.\""
+  ],
+  "back_layer_mid": 0.9775837659835815,
+  "summarize_layer_mid": 0.9772403240203857,
+  "back_layer_last": 0.9379677772521973,
+  "summarize_layer_last": 0.9686992764472961
+ },
+ {
+  "gold": "this is an old study those are actual patients undergoing a painful procedure i won 't go into detail it 's no longer painful these days but it was painful when this when this study was run in the nineteen nineties",
+  "whisper_v2_nbest_gpt4o": [
+   "This is an old study. Those are actual patients undergoing a painful procedure. I won't go into detail. It's no longer painful these days, but it was painful when this study was run in the 1990s."
+  ],
+  "back_layer_mid": 0.9941554069519043,
+  "summarize_layer_mid": 0.9958415627479553,
+  "back_layer_last": 0.9956532716751099,
+  "summarize_layer_last": 0.9938800930976868
+ },
+ {
+  "gold": "the microprocessor is a miracle the personal computer is a miracle the internet and its services are a miracle so the people here have participated in the creation of many miracles usually we don 't have a deadline",
+  "whisper_v2_nbest_gpt4o": [
+   "The microprocessor is a miracle, the personal computer is a miracle, the Internet and its services are a miracle. So the people here have participated in the creation of many miracles. Usually, we don't have a deadline."
+  ],
+  "back_layer_mid": 0.9989980459213257,
+  "summarize_layer_mid": 0.9972317218780518,
+  "back_layer_last": 0.9988247752189636,
+  "summarize_layer_last": 0.9941158294677734
+ },
+ {
+  "gold": "and so i i really got bitten by the bug of deep ocean exploration of course the curiosity the science component of it it was everything it was adventure it was curiosity it was imagination and it was an experience",
+  "whisper_v2_nbest_gpt4o": [
+   "And so, I really got bitten by the bug of deep ocean exploration. Of course, the curiosity, the science component of it, it was everything. It was adventure, it was curiosity, it was imagination, and it was an experience."
+  ],
+  "back_layer_mid": 0.9984380006790161,
+  "summarize_layer_mid": 0.9964585900306702,
+  "back_layer_last": 0.9965299963951111,
+  "summarize_layer_last": 0.9955546855926514
+ },
+ {
+  "gold": "is is in injected into the into the vehicle into this this other form of existence it was really really quite profound and maybe a little bit of a glimpse to to what might be happening you know some decades out as",
+  "whisper_v2_nbest_gpt4o": [
+   "Energy is injected into the vehicle, into this other form of existence. It was really quite profound, and maybe a little bit of a glimpse into what might be happening, you know, some decades out."
+  ],
+  "back_layer_mid": 0.9648249745368958,
+  "summarize_layer_mid": 0.9555831551551819,
+  "back_layer_last": 0.878480851650238,
+  "summarize_layer_last": 0.8233203887939453
+ },
+ {
+  "gold": "it 's about twenty tons uh for people in poor countries it 's less than one ton it 's an average of about five tons for everyone on the planet and somehow we have to make changes that will bring that down to zero",
+  "whisper_v2_nbest_gpt4o": [
+   "It's about 20 tons. For people in poor countries, it's less than one ton. It's an average of about five tons for everyone on the planet. And somehow we have to make changes that will bring that down to zero."
+  ],
+  "back_layer_mid": 0.9930428266525269,
+  "summarize_layer_mid": 0.9922571182250977,
+  "back_layer_last": 0.96685391664505,
+  "summarize_layer_last": 0.9871020913124084
+ },
+ {
+  "gold": "it 's been constantly going up it 's only various economic changes that have even flattened it at all so we have to go from rapidly rising to falling and falling all the way to zero this equation has four factors",
+  "whisper_v2_nbest_gpt4o": [
+   "It's been constantly going up. It's only various economic changes that have even flattened it at all. So we have to go from rapidly rising to falling and falling all the way to zero. This equation has four factors."
+  ],
+  "back_layer_mid": 0.998497486114502,
+  "summarize_layer_mid": 0.9974226951599121,
+  "back_layer_last": 0.9981841444969177,
+  "summarize_layer_last": 0.9948893785476685
+ },
+ {
+  "gold": "greatly improved cost profile you actually burn up the waste and you can actually use as fuel all the leftover waste from today 's reactors so instead of worrying about them you just take that it 's a great thing",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Greatly improved cost profile, you actually burn up the waste, and you can actually use as fuel all the leftover waste from today's reactors. And so, instead of worrying about them, you just take that\u2014it's a great thing.\""
+  ],
+  "back_layer_mid": 0.9871944189071655,
+  "summarize_layer_mid": 0.9948916435241699,
+  "back_layer_last": 0.9720876216888428,
+  "summarize_layer_last": 0.980136513710022
+ },
+ {
+  "gold": "the first is urgent optimism okay think of this as extreme self motivation urgent optimism is the desire to act immediately to tackle an obstacle combined with the belief that we have a reasonable hope of success",
+  "whisper_v2_nbest_gpt4o": [
+   "The first is urgent optimism. Think of this as extreme self-motivation. Urgent optimism is the desire to act immediately to tackle an obstacle, combined with the belief that we have a reasonable hope of success."
+  ],
+  "back_layer_mid": 0.9849604368209839,
+  "summarize_layer_mid": 0.9918452501296997,
+  "back_layer_last": 0.9747413396835327,
+  "summarize_layer_last": 0.995130181312561
+ },
+ {
+  "gold": "and we started talking about music from bach to beethoven and brahms bruckner all the b 's from bartok all the way up to esa pekka salonen and i understood that he not only had an encyclopedic knowledge of music",
+  "whisper_v2_nbest_gpt4o": [
+   "And we started talking about music from Bach to Beethoven and Brahms, Bruckner, all the B's from Bart\u00f3k, all the way up to Esa-Pekka Salonen. And I understood that he not only had an encyclopedic knowledge of music."
+  ],
+  "back_layer_mid": 0.9991928935050964,
+  "summarize_layer_mid": 0.9947625398635864,
+  "back_layer_last": 0.9989479184150696,
+  "summarize_layer_last": 0.9921663403511047
+ },
+ {
+  "gold": "this is how many people we now have in the world who spend at least an hour a day playing online games these are our virtuoso gamers five hundred million people who are who are extraordinarily good at something",
+  "whisper_v2_nbest_gpt4o": [
+   "This is how many people we now have in the world who spend at least an hour a day playing online games. These are our virtuoso gamers\u2014500 million people who are extraordinarily good at something."
+  ],
+  "back_layer_mid": 0.9925209879875183,
+  "summarize_layer_mid": 0.9912817478179932,
+  "back_layer_last": 0.9918081164360046,
+  "summarize_layer_last": 0.9540992975234985
+ },
+ {
+  "gold": "don 't put limitations on yourself other people will do that for you don 't do it to yourself don 't bet against yourself and and take risks nasa has this has this phrase that they like failure is not an option",
+  "whisper_v2_nbest_gpt4o": [
+   "Don't put limitations on yourself. Other people will do that for you. Don't do it to yourself. Don't bet against yourself. And take risks. NASA has this phrase that they like: failure is not an option."
+  ],
+  "back_layer_mid": 0.995902419090271,
+  "summarize_layer_mid": 0.9917619228363037,
+  "back_layer_last": 0.9975561499595642,
+  "summarize_layer_last": 0.9892613291740417
+ },
+ {
+  "gold": "it 's all here it 's all on the web you can go back to your rooms and try this after my talk with pivot you can drill into a decade you can drill into a particular year you can jump right into a specific issue",
+  "whisper_v2_nbest_gpt4o": [
+   "It's all here, it's all on the web. You can go back to your rooms and try this after my talk. With Pivot, you can drill into a decade. You can drill into a particular year. You can jump right into a specific issue."
+  ],
+  "back_layer_mid": 0.9992379546165466,
+  "summarize_layer_mid": 0.9975707530975342,
+  "back_layer_last": 0.9994635581970215,
+  "summarize_layer_last": 0.9972256422042847
+ },
+ {
+  "gold": "i think there is one particular meaning for to which we might restrict it but by and large this is something that we 'll have to give up and we 'll have to adopt the more complicated view of what well being is",
+  "whisper_v2_nbest_gpt4o": [
+   "I think there is one particular meaning to which we might restrict it, but by and large, this is something that we'll have to give up, and we'll have to adopt a more complicated view of what well-being is."
+  ],
+  "back_layer_mid": 0.9941133856773376,
+  "summarize_layer_mid": 0.9720631837844849,
+  "back_layer_last": 0.9920069575309753,
+  "summarize_layer_last": 0.9773355722427368
+ },
+ {
+  "gold": "but it is on the the verge of what you 're capable of so you have to try hard but there is no unemployment in world of warcraft there is no sitting around wringing your hands there is always something specific",
+  "whisper_v2_nbest_gpt4o": [
+   "But it is on the verge of what you're capable of, so you have to try hard. But there's no unemployment in World of Warcraft. There's no sitting around wringing your hands. There's always something specific."
+  ],
+  "back_layer_mid": 0.9877673387527466,
+  "summarize_layer_mid": 0.99444180727005,
+  "back_layer_last": 0.9825612902641296,
+  "summarize_layer_last": 0.9810410737991333
+ },
+ {
+  "gold": "about a decade ago i wrote a story about vaccines for the new yorker a little story and i was amazed to find opposition opposition to what is after all the most effective public health measure in human history",
+  "whisper_v2_nbest_gpt4o": [
+   "About a decade ago, I wrote a story about vaccines for the New Yorker\u2014a little story\u2014and I was amazed to find opposition, opposition to what is, after all, the most effective public health measure in human history."
+  ],
+  "back_layer_mid": 0.9874335527420044,
+  "summarize_layer_mid": 0.9970530867576599,
+  "back_layer_last": 0.9418842792510986,
+  "summarize_layer_last": 0.9945796728134155
+ },
+ {
+  "gold": "also the price of energy is very important to them in fact if you could pick just one thing to lower the price of to reduce poverty by far you would pick energy now the price of energy has come down over time",
+  "whisper_v2_nbest_gpt4o": [
+   "Also, the price of energy is very important to them. In fact, if you could pick just one thing to lower the price of to reduce poverty, by far you would pick energy. Now, the price of energy has come down over time."
+  ],
+  "back_layer_mid": 0.9946886897087097,
+  "summarize_layer_mid": 0.9961705207824707,
+  "back_layer_last": 0.9699203372001648,
+  "summarize_layer_last": 0.9942805767059326
+ },
+ {
+  "gold": "this is a gamer on the verge of an epic win and this is the face that we need to see on millions of problem solvers all over the world as we try to tackle the obstacles of the next century the face of someone",
+  "whisper_v2_nbest_gpt4o": [
+   "This is a gamer on the verge of an epic win, and this is the face that we need to see on millions of problem-solvers all over the world as we try to tackle the obstacles of the next century. The face of someone who's going to be the next billionaire."
+  ],
+  "back_layer_mid": 0.9406164884567261,
+  "summarize_layer_mid": 0.9806546568870544,
+  "back_layer_last": 0.7716924548149109,
+  "summarize_layer_last": 0.9800475239753723
+ },
+ {
+  "gold": "and yet i actually think we 'd have to go back hundreds three hundred years before the enlightenment to find a time when we battled progress when we fought about these things more vigorously on on more fronts",
+  "whisper_v2_nbest_gpt4o": [
+   "And yet, I actually think we'd have to go back hundreds of years, 300 years before the Enlightenment, to find a time when we battled progress and fought about these things more vigorously on more fronts."
+  ],
+  "back_layer_mid": 0.9804989099502563,
+  "summarize_layer_mid": 0.9903198480606079,
+  "back_layer_last": 0.8947378396987915,
+  "summarize_layer_last": 0.9716848731040955
+ },
+ {
+  "gold": "but for these first three factors now we 've gone from twenty six billion to at best maybe thirteen billion tons and that just won 't cut it so let 's look at this fourth factor this is going to be a key one",
+  "whisper_v2_nbest_gpt4o": [
+   "\"But for these first three factors now, we've gone from 26 billion to, at best, maybe 13 billion tons. And that just won't cut it. So let's look at this fourth factor. This is going to be a key one.\""
+  ],
+  "back_layer_mid": 0.9931457042694092,
+  "summarize_layer_mid": 0.9952466487884521,
+  "back_layer_last": 0.980048656463623,
+  "summarize_layer_last": 0.9874672293663025
+ },
+ {
+  "gold": "to begin with so the thing that 's been a problem from those reactors is actually what gets fed into ours and you 're reducing the volume of the waste quite dramatically as you 're going through this process",
+  "whisper_v2_nbest_gpt4o": [
+   "To begin with, the thing that's been a problem from those reactors is actually what gets fed into ours, and you're reducing the volume of the waste quite dramatically as you're going through this process."
+  ],
+  "back_layer_mid": 0.9957848191261292,
+  "summarize_layer_mid": 0.9947386980056763,
+  "back_layer_last": 0.9937156438827515,
+  "summarize_layer_last": 0.9791860580444336
+ },
+ {
+  "gold": "shows actually got me very excited about the fact that there was an alien world right here on earth i might not really go to an alien world on a spaceship someday that that seemed pretty pretty darn unlikely",
+  "whisper_v2_nbest_gpt4o": [
+   "Shows actually got me very excited about the fact that there was an alien world right here on Earth. I might not really go to an alien world on a spaceship someday, though."
+  ],
+  "back_layer_mid": 0.9869747757911682,
+  "summarize_layer_mid": 0.9816692471504211,
+  "back_layer_last": 0.9733511209487915,
+  "summarize_layer_last": 0.9583649039268494
+ },
+ {
+  "gold": "this is really my flesh this is not damian 's special grown flesh that 's my skin right there this is not a hollywood special effect i 'm going to pierce my skin and run this needle through to the other side",
+  "whisper_v2_nbest_gpt4o": [
+   "This is really my flesh. This is not Damien's specially grown flesh. That's my skin right there. This is not a Hollywood special effect. I'm going to pierce my skin and run this needle through to the other side."
+  ],
+  "back_layer_mid": 0.9897249937057495,
+  "summarize_layer_mid": 0.9912407994270325,
+  "back_layer_last": 0.9511977434158325,
+  "summarize_layer_last": 0.9663375616073608
+ },
+ {
+  "gold": "here we have a very basic service do you have lighting in your house to be able to read your homework and in fact these kids don 't so they 're going out and reading their school work under the street lamps",
+  "whisper_v2_nbest_gpt4o": [
+   "Here we have a very basic service. Do you have lighting in your house to be able to read your homework? And in fact, these kids don't, so they're going out and reading their schoolwork under the street lamps."
+  ],
+  "back_layer_mid": 0.9989403486251831,
+  "summarize_layer_mid": 0.9978561401367188,
+  "back_layer_last": 0.998701810836792,
+  "summarize_layer_last": 0.9974614977836609
+ },
+ {
+  "gold": "you 've been over eating and you 're about to have a heart attack you know then then then where do you go you may need heart surgery or something there is a line of research on what 's called geoengineering",
+  "whisper_v2_nbest_gpt4o": [
+   "You've been overeating and you're about to have a heart attack, you know, then where do you go? You may need heart surgery or something. There is a line of research on what's called geoengineering."
+  ],
+  "back_layer_mid": 0.9860342144966125,
+  "summarize_layer_mid": 0.9519944787025452,
+  "back_layer_last": 0.9764202237129211,
+  "summarize_layer_last": 0.842607855796814
+ },
+ {
+  "gold": "if we continue to act the way we 're acting we 're guilty of something that i don 't think we want to be guilty of high tech colonialism there 's no other way to describe what 's going on here it 's selfish",
+  "whisper_v2_nbest_gpt4o": [
+   "If we continue to act the way we're acting, we're guilty of something that I don't think we want to be guilty of: high-tech colonialism. There's no other way to describe what's going on here. It's selfish."
+  ],
+  "back_layer_mid": 0.9991953372955322,
+  "summarize_layer_mid": 0.9962084889411926,
+  "back_layer_last": 0.9994983077049255,
+  "summarize_layer_last": 0.9821714162826538
+ },
+ {
+  "gold": "launching into more talk about rare birds and algaes and strange aquatic plants and don 't get me wrong that was really fascinating you know the biotic community unplugged kind of thing you know it 's great",
+  "whisper_v2_nbest_gpt4o": [
+   "Launching into more talk about rare birds, algae, and strange aquatic plants. Don't get me wrong, I was really fascinated, you know? The biotic community unplugged kind of thing, you know? It's great."
+  ],
+  "back_layer_mid": 0.9905955791473389,
+  "summarize_layer_mid": 0.9855459928512573,
+  "back_layer_last": 0.9848142862319946,
+  "summarize_layer_last": 0.9720939993858337
+ },
+ {
+  "gold": "so you might ask why would anyone actually spend time writing a marshmallow challenge and the reason is i help create digital tools and processes to help teams build cars and video games and visual effects",
+  "whisper_v2_nbest_gpt4o": [
+   "So, you might ask, why would anyone actually spend time running a marshmallow challenge? And the reason is, I help create digital tools and processes to help teams build cars, video games, and visual effects."
+  ],
+  "back_layer_mid": 0.9836306571960449,
+  "summarize_layer_mid": 0.9883804321289062,
+  "back_layer_last": 0.9608762264251709,
+  "summarize_layer_last": 0.9416370391845703
+ },
+ {
+  "gold": "and there are now efforts to measure the two separately the gallup organization has a world poll with more that half a million people have been asked questions about what they think of their life and about",
+  "whisper_v2_nbest_gpt4o": [
+   "And there are now efforts to measure the two separately. The Gallup organization has a world poll where more than half a million people have been asked questions about what they think of their life and well-being."
+  ],
+  "back_layer_mid": 0.9827084541320801,
+  "summarize_layer_mid": 0.9805524349212646,
+  "back_layer_last": 0.9686480760574341,
+  "summarize_layer_last": 0.9591750502586365
+ },
+ {
+  "gold": "i also agree that that is rational for now but it is not by any means an optimal situation we have to start making the real world work more like a game so i take my inspiration from something that happened",
+  "whisper_v2_nbest_gpt4o": [
+   "I also agree that"
+  ],
+  "back_layer_mid": 0.8426097631454468,
+  "summarize_layer_mid": 0.7899929285049438,
+  "back_layer_last": 0.5446422100067139,
+  "summarize_layer_last": 0.4825480282306671
+ },
+ {
+  "gold": "thirty nine inches is the tallest structure i i 've seen and why is it because they understand triangles and self re enforcing geometrical patterns are the key to building self reinforce stable structures",
+  "whisper_v2_nbest_gpt4o": [
+   "\"39 inches is the tallest structure I've seen, and why is it? Because they understand triangles and self-reinforcing geometrical patterns are the key to building self-reinforcing stable structures.\""
+  ],
+  "back_layer_mid": 0.9912952780723572,
+  "summarize_layer_mid": 0.9933731555938721,
+  "back_layer_last": 0.9774435758590698,
+  "summarize_layer_last": 0.985836386680603
+ },
+ {
+  "gold": "things will change in ways that their fragile environment simply can 't support and that leads to starvation it leads to uncertainty it leads to unrest so the the climate changes will be terrible for them",
+  "whisper_v2_nbest_gpt4o": [
+   "Things will change in ways that their fragile environment simply can't support. And that leads to starvation, it leads to uncertainty, it leads to unrest. So the climate changes will be terrible for them."
+  ],
+  "back_layer_mid": 0.9985345602035522,
+  "summarize_layer_mid": 0.9986875057220459,
+  "back_layer_last": 0.9970470666885376,
+  "summarize_layer_last": 0.9985199570655823
+ },
+ {
+  "gold": "this year we celebrate the two hundreth birthday of charles darwin and it was one hundred and fifty years ago when writing about evolution that darwin illustrated i think a truth about the human character",
+  "whisper_v2_nbest_gpt4o": [
+   "This year we celebrate the 200th birthday of Charles Darwin, and it was 150 years ago when writing about evolution that Darwin illustrated, I think, a truth about the human character."
+  ],
+  "back_layer_mid": 0.9855070114135742,
+  "summarize_layer_mid": 0.990615963935852,
+  "back_layer_last": 0.9890822172164917,
+  "summarize_layer_last": 0.983207106590271
+ },
+ {
+  "gold": "you know the envelope pushed back and i was told by the folks at my company that we weren 't going to be able to do this for a while so i shelved it and i made this other movie about a big ship that sinks",
+  "whisper_v2_nbest_gpt4o": [
+   "The envelope pushed back, and I was told by the folks at my company that we weren't going to be able to do this for a while. So I shelved it, and I made this other movie about a big ship that sinks."
+  ],
+  "back_layer_mid": 0.992253303527832,
+  "summarize_layer_mid": 0.9929620027542114,
+  "back_layer_last": 0.9857763648033142,
+  "summarize_layer_last": 0.9885703325271606
+ },
+ {
+  "gold": "they lie they cheat they get distracted and they produce really lame structures and of course there are teams that have a lot more ta da structures and among the best are recent graduates of kindergarten",
+  "whisper_v2_nbest_gpt4o": [
+   "\"They lie, they cheat, they get distracted, and they produce really lame structures. And of course, there are teams that have a lot more ta-da structures, and among the best are recent graduates of kindergarten.\""
+  ],
+  "back_layer_mid": 0.9868122339248657,
+  "summarize_layer_mid": 0.9974684715270996,
+  "back_layer_last": 0.9781580567359924,
+  "summarize_layer_last": 0.9881324768066406
+ },
+ {
+  "gold": "now we have some pilot things that do this at the sixty to eighty percent level but getting up to that full percentage that will be very tricky and agreeing on where these co two quantities should be put",
+  "whisper_v2_nbest_gpt4o": [
+   "Now, we have some pilot things that do this at the 60-80% level, but getting up to that full percentage will be very tricky, and agreeing on where these CO2 quantities should be put."
+  ],
+  "back_layer_mid": 0.9896882772445679,
+  "summarize_layer_mid": 0.9870656728744507,
+  "back_layer_last": 0.9615827798843384,
+  "summarize_layer_last": 0.9555013179779053
+ },
+ {
+  "gold": "relaxing or hanging out we know that we are optimized as human beings to do hard and meaningful work and gamers are willing to work hard all the time if they 're given the right work finally epic meaning",
+  "whisper_v2_nbest_gpt4o": [
+   "\"Relaxing or hanging out. We know that we are optimized as human beings to do hard and meaningful work, and gamers are willing to work hard all the time if they're given the right work. Finally, epic meaning.\""
+  ],
+  "back_layer_mid": 0.9879898428916931,
+  "summarize_layer_mid": 0.9905388355255127,
+  "back_layer_last": 0.9748457670211792,
+  "summarize_layer_last": 0.9886053800582886
+ },
+ {
+  "gold": "and why because paul made a vaccine i don 't need to say this but vaccines are essential you take them away disease comes back horrible diseases and that 's happening we have measles in this country now",
+  "whisper_v2_nbest_gpt4o": [
+   "And why? Because Paul made a vaccine. I don't need to say this, but vaccines are essential. You take them away, disease comes back\u2014horrible diseases. And that's happening. We have measles in this country now."
+  ],
+  "back_layer_mid": 0.999319314956665,
+  "summarize_layer_mid": 0.996846079826355,
+  "back_layer_last": 0.9989794492721558,
+  "summarize_layer_last": 0.9899854063987732
+ },
+ {
+  "gold": "and that contrast say is in climate well it turns out that climate is not very important to the experiencing self and is not even very important to the reflective self that decides how happy people are",
+  "whisper_v2_nbest_gpt4o": [
+   "\"And that contrast says in climate, it turns out that climate is not very important to the experiencing self. And it's not even very important to the reflective self that decides how happy people are.\""
+  ],
+  "back_layer_mid": 0.9595360159873962,
+  "summarize_layer_mid": 0.9858759045600891,
+  "back_layer_last": 0.90357905626297,
+  "summarize_layer_last": 0.9770001173019409
+ },
+ {
+  "gold": "sixty thousand sixty thousand dollars a year people are unhappy and they get progressively unhappier the poorer they get above that we get an absolutely flat line i mean i 've rarely seen lines so flat",
+  "whisper_v2_nbest_gpt4o": [
+   "Based on the given hypotheses, it appears there is a repeated format that likely contains errors. The most probable correction could be \"$60.00\" or \"$60,000\", but without additional context about the spoken text, it's hard to determine exactly which is accurate. If context indicates an amount was spoken, the corrected transcription could be one of these depending on whether the number refers to a small transaction or a larger sum: \n\n- \"$60.00\" for sixty dollars\n- \"$60,000\" for sixty thousand dollars \n\nPlease provide additional context if available for a more accurate correction."
+  ],
+  "back_layer_mid": 0.8277384042739868,
+  "summarize_layer_mid": 0.8385730981826782,
+  "back_layer_last": 0.49225670099258423,
+  "summarize_layer_last": 0.4134815037250519
+ },
+ {
+  "gold": "and the reason that i can say that is because we 're now in an epidemic of fear like one i 've never seen and hope never to see again about twelve years ago there was a story published a horrible story",
+  "whisper_v2_nbest_gpt4o": [
+   "And the reason that I can say that is because we're now in an epidemic of fear like one that I've never seen and hope never to see again. About 12 years ago, there was a story published\u2014a horrible story."
+  ],
+  "back_layer_mid": 0.9951530694961548,
+  "summarize_layer_mid": 0.9882555603981018,
+  "back_layer_last": 0.9864723682403564,
+  "summarize_layer_last": 0.9827347993850708
+ },
+ {
+  "gold": "and the idea was to go in and do an interior survey of that ship which had never been done nobody had ever looked inside the wreck they didn 't have the means to do it so we created technology to do it",
+  "whisper_v2_nbest_gpt4o": [
+   "\"And the idea was to go in and do an interior survey of that ship, which had never been done. Nobody had ever looked inside the wreck. They didn't have the means to do it, so we created technology to do it.\""
+  ],
+  "back_layer_mid": 0.9953750371932983,
+  "summarize_layer_mid": 0.9976590275764465,
+  "back_layer_last": 0.9944746494293213,
+  "summarize_layer_last": 0.9930711984634399
+ },
+ {
+  "gold": "we have this banner in our offices in palo alto and it expresses our view of how we should try to relate to the future we do not want to try to predict the future what we want to do is make the future",
+  "whisper_v2_nbest_gpt4o": [
+   "We have this banner in our offices in Palo Alto, and it expresses our view of how we should try to relate to the future. We do not want to try to predict the future. What we want to do is make the future."
+  ],
+  "back_layer_mid": 0.9955019950866699,
+  "summarize_layer_mid": 0.9877115488052368,
+  "back_layer_last": 0.9906730651855469,
+  "summarize_layer_last": 0.9800204038619995
+ },
+ {
+  "gold": "we 've run out of oil this is an amazing story and adventure for you to go on challenge yourself to see how you would survive most of our players have kept up the habits that they learned in this game",
+  "whisper_v2_nbest_gpt4o": [
+   "We've run out of oil. This is an amazing story and adventure for you to go on. Challenge yourself to see how you would survive. Most of our players have kept up the habits they learned in this game."
+  ],
+  "back_layer_mid": 0.9978241920471191,
+  "summarize_layer_mid": 0.9959774017333984,
+  "back_layer_last": 0.9981691241264343,
+  "summarize_layer_last": 0.9875184297561646
+ },
+ {
+  "gold": "and you know what when i say this stuff people scream at me and they say what do you care let people do what they want to do it 's it 's it makes them feel good and you know what you 're wrong because",
+  "whisper_v2_nbest_gpt4o": [
+   "And you know what? When I say this stuff, people scream at me and they say, what do you care? Let people do what they want to do. It makes them feel good. And you know what? You're wrong."
+  ],
+  "back_layer_mid": 0.9854506850242615,
+  "summarize_layer_mid": 0.9750460982322693,
+  "back_layer_last": 0.9740505814552307,
+  "summarize_layer_last": 0.9501013159751892
+ },
+ {
+  "gold": "so we can go jump and take a look at all the ted prize winners so you see we 're navigating the web for the first time as if it 's actually a web not page to page but at a higher level of abstraction",
+  "whisper_v2_nbest_gpt4o": [
+   "\"So we can go, jump, and take a look at all TED Prize winners. So you see, we're navigating the web for the first time as if it's actually a web. Not from page to page, but at a higher level of abstraction.\""
+  ],
+  "back_layer_mid": 0.9907964468002319,
+  "summarize_layer_mid": 0.9931392669677734,
+  "back_layer_last": 0.9725033640861511,
+  "summarize_layer_last": 0.9788362979888916
+ },
+ {
+  "gold": "sure i think the most interesting result that we found in the gallup survey is a number which we absolutely did not expect to find we found that with respect to the happiness of the experiencing self",
+  "whisper_v2_nbest_gpt4o": [
+   "Sure. I think the most interesting result that we found in the Gallup survey is a number which we absolutely did not expect to find. We found that with respect to the happiness of the experiencing self."
+  ],
+  "back_layer_mid": 0.9968127608299255,
+  "summarize_layer_mid": 0.9955278038978577,
+  "back_layer_last": 0.996796727180481,
+  "summarize_layer_last": 0.993030309677124
+ },
+ {
+  "gold": "i believe that if we want to survive the next century on this planet we need to increase that total dramatically i 've calculated the total we need at twenty one billion hours of game play every week",
+  "whisper_v2_nbest_gpt4o": [
+   "I believe that if we want to survive the next century on this planet, we need to increase that total dramatically. I've calculated the total we need at 21 billion hours of gameplay every week."
+  ],
+  "back_layer_mid": 0.9810137152671814,
+  "summarize_layer_mid": 0.9932398796081543,
+  "back_layer_last": 0.9329529404640198,
+  "summarize_layer_last": 0.9719813466072083
+ },
+ {
+  "gold": "we want to imagine the best case scenario outcome and then we want to empower people to make that outcome a reality we want to imagine epic wins and then give people the means to achieve the epic win",
+  "whisper_v2_nbest_gpt4o": [
+   "We want to imagine the best-case scenario outcome, and then we want to empower people to make that outcome a reality. We want to imagine epic wins and then give people the means to achieve the epic win."
+  ],
+  "back_layer_mid": 0.9994468688964844,
+  "summarize_layer_mid": 0.9988911151885986,
+  "back_layer_last": 0.9996551871299744,
+  "summarize_layer_last": 0.9986951947212219
+ },
+ {
+  "gold": "i don 't want to go back and it 's not because i 'm adventurous it 's because possibilities on this planet they don 't go back they go forward so i want to get in the machine and i want to go forward",
+  "whisper_v2_nbest_gpt4o": [
+   "I don't want to go back, and it's not because I'm adventurous. It's because possibilities on this planet, they don't go back; they go forward. So I want to get in the machine, and I want to go forward."
+  ],
+  "back_layer_mid": 0.9990672469139099,
+  "summarize_layer_mid": 0.9979373216629028,
+  "back_layer_last": 0.998784065246582,
+  "summarize_layer_last": 0.9976598024368286
+ },
+ {
+  "gold": "and i was a an artist i could draw i could paint and and i i found that because there weren 't you know video games and this saturation of cg movies and and all of this imagery in the media landscape",
+  "whisper_v2_nbest_gpt4o": [
+   "And I was an artist. I could draw, I could paint, and I found that because there weren't, you know, video games and the saturation of CG movies and all of this imagery in the media landscape."
+  ],
+  "back_layer_mid": 0.9794539213180542,
+  "summarize_layer_mid": 0.9863950610160828,
+  "back_layer_last": 0.9255165457725525,
+  "summarize_layer_last": 0.9700592756271362
+ },
+ {
+  "gold": "taking them down to the vents and letting them see and take samples and test instruments and so on so here we were making documentary films but actually doing science and actually doing space science",
+  "whisper_v2_nbest_gpt4o": [
+   "Taking them down to the vents and letting them see and take samples and test instruments and so on. So here we were making documentary films, but actually doing science and actually doing space science."
+  ],
+  "back_layer_mid": 0.9987858533859253,
+  "summarize_layer_mid": 0.9922159314155579,
+  "back_layer_last": 0.9958000779151917,
+  "summarize_layer_last": 0.9887209534645081
+ },
+ {
+  "gold": "that 's right today you 're always refueling the reactor so you have lots of people and lots of controls that can go wrong that thing where you 're opening it up and moving things in and out that 's",
+  "whisper_v2_nbest_gpt4o": [
+   "That's right. Today, you're always refueling the reactor, so you have lots of people and lots of controls that can go wrong. That thing where you're opening it up and moving things in and out, that's tricky."
+  ],
+  "back_layer_mid": 0.9855797290802002,
+  "summarize_layer_mid": 0.9475560784339905,
+  "back_layer_last": 0.9775087237358093,
+  "summarize_layer_last": 0.9115009307861328
+ },
+ {
+  "gold": "i had to create these images in my head you know we all did as kids having to read a book and through the author 's description put something on on the screen the movie screen in our heads and so my",
+  "whisper_v2_nbest_gpt4o": [
+   "I had to create these images in my head. You know, we all did as kids, having to read a book and, through the author's description, put something on the screen, the movie screen in our heads. And so my\u2026"
+  ],
+  "back_layer_mid": 0.9985510110855103,
+  "summarize_layer_mid": 0.9884544610977173,
+  "back_layer_last": 0.9976794719696045,
+  "summarize_layer_last": 0.9904415607452393
+ },
+ {
+  "gold": "for some time i have been interested in the placebo effect which might seem like an odd thing for a magician to be interested in unless you think of it in the terms that i do which is something fake",
+  "whisper_v2_nbest_gpt4o": [
+   "For some time, I have been interested in the placebo effect, which might seem like an odd thing for a magician to be interested in, unless you think of it in the terms that I do, which is something fake."
+  ],
+  "back_layer_mid": 0.9980412125587463,
+  "summarize_layer_mid": 0.9928837418556213,
+  "back_layer_last": 0.9976994395256042,
+  "summarize_layer_last": 0.9686408042907715
+ },
+ {
+  "gold": "the white pill is not as good as the blue pill is not as good as the capsule is not as good as the needle and none of it has any real pharmaceutical quality it 's only your belief that makes it real",
+  "whisper_v2_nbest_gpt4o": [
+   "The white pill is not as good as the blue pill, which is not as good as the capsule, which is not as good as the needle, and none of it has any real pharmaceutical quality. It's only your belief that makes it real."
+  ],
+  "back_layer_mid": 0.9906491041183472,
+  "summarize_layer_mid": 0.9950919151306152,
+  "back_layer_last": 0.9866836071014404,
+  "summarize_layer_last": 0.9867063164710999
+ },
+ {
+  "gold": "ok gamers are virtuosos at weaving a tight social fabric there is a lot of interesting research that shows that we like people better after we play a game with them even if they 've beaten us badly",
+  "whisper_v2_nbest_gpt4o": [
+   "Okay, gamers are virtuosos at weaving a tight social fabric. There's a lot of interesting research that shows that we like people better after we play a game with them, even if they've beaten us badly."
+  ],
+  "back_layer_mid": 0.9938238263130188,
+  "summarize_layer_mid": 0.9970932602882385,
+  "back_layer_last": 0.9831773042678833,
+  "summarize_layer_last": 0.9965938329696655
+ },
+ {
+  "gold": "and there 's been a shift in my thinking over time in that if you 'd asked me at fifteen years old if i would have traded prosthetics for flesh and bone legs i wouldn 't have hesitated for a second",
+  "whisper_v2_nbest_gpt4o": [
+   "And there's been a shift in my thinking over time, in that if you'd asked me at 15 years old if I would have traded prosthetics for flesh and bone legs, I wouldn't have hesitated for a second."
+  ],
+  "back_layer_mid": 0.9787497520446777,
+  "summarize_layer_mid": 0.9958420395851135,
+  "back_layer_last": 0.9383028745651245,
+  "summarize_layer_last": 0.991814136505127
+ },
+ {
+  "gold": "response to this was to paint to draw alien creatures alien worlds robots spaceships all that stuff i was endlessly getting busted in math class you know doodling behind the behind the textbook and",
+  "whisper_v2_nbest_gpt4o": [
+   "My response to this was to paint, to draw alien creatures, alien worlds, robots, spaceships, all that stuff. I was endlessly getting busted in math class, you know, doodling behind the textbook."
+  ],
+  "back_layer_mid": 0.9747723340988159,
+  "summarize_layer_mid": 0.9847988486289978,
+  "back_layer_last": 0.9653369784355164,
+  "summarize_layer_last": 0.9712380170822144
+ },
+ {
+  "gold": "on sunlight based system the way we do and so you 're seeing animals that are living next to a five hundred degree centigrade water plumes that you think they can 't possibly exist at the same time",
+  "whisper_v2_nbest_gpt4o": [
+   "\"On a sunlight-based system the way we do. And so you're seeing animals that are living next to 500-degree centigrade water plumes. You think they can't possibly exist. At the same time.\""
+  ],
+  "back_layer_mid": 0.981415867805481,
+  "summarize_layer_mid": 0.9836866855621338,
+  "back_layer_last": 0.952429473400116,
+  "summarize_layer_last": 0.9293345212936401
+ },
+ {
+  "gold": "to actually go and fly to the international space station with our three d camera systems and this was fascinating but what what i wound up doing was bringing space scientists with us into the deep",
+  "whisper_v2_nbest_gpt4o": [
+   "To actually go and fly to the International Space Station with our 3D camera systems was fascinating, but what I wound up doing was bringing space scientists with us into the deep."
+  ],
+  "back_layer_mid": 0.9884594082832336,
+  "summarize_layer_mid": 0.9871158003807068,
+  "back_layer_last": 0.9688963890075684,
+  "summarize_layer_last": 0.9601176381111145
+ },
+ {
+  "gold": "they admire their work but what really happens most of the time is that the ta da turns into an uh oh because the weight of the marshmallow causes the entire structure to buckle and to collapse so",
+  "whisper_v2_nbest_gpt4o": [
+   "They admire their work, but what really happens most of the time is that the tada turns into an uh-oh because the weight of the marshmallow causes the entire structure to buckle and collapse."
+  ],
+  "back_layer_mid": 0.9877263307571411,
+  "summarize_layer_mid": 0.9885720014572144,
+  "back_layer_last": 0.9830513596534729,
+  "summarize_layer_last": 0.9679025411605835
+ },
+ {
+  "gold": "it 's a bad story how do we know that because we asked these people after their colonoscopy and much later too how bad was the whole thing in total and it was much worse for a than for b in memory",
+  "whisper_v2_nbest_gpt4o": [
+   "It's a bad story. How do we know that? Because we asked these people after their colonoscopy and much later too, how bad was the whole thing in total? And it was much worse for A than for B in memory."
+  ],
+  "back_layer_mid": 0.996645450592041,
+  "summarize_layer_mid": 0.9977419972419739,
+  "back_layer_last": 0.9968061447143555,
+  "summarize_layer_last": 0.9969279766082764
+ },
+ {
+  "gold": "spending time with people that we like there are other pleasures but this is dominant so if you want to maximize the happiness of the two selves you are going to end up doing very different things",
+  "whisper_v2_nbest_gpt4o": [
+   "Spending time with people that we like. There are other pleasures, but this is dominant. So if you want to maximize the happiness of the two selves, you are going to end up doing very different things."
+  ],
+  "back_layer_mid": 0.9983491897583008,
+  "summarize_layer_mid": 0.9979753494262695,
+  "back_layer_last": 0.9915072321891785,
+  "summarize_layer_last": 0.9976377487182617
+ },
+ {
+  "gold": "sounds crazy but this goes back to that theme about you know your imagination creating a reality because we actually created a reality where six months later i find myself in a russian submersible",
+  "whisper_v2_nbest_gpt4o": [
+   "Sounds crazy, but this goes back to that theme about, you know, your imagination creating a reality. Because it actually created a reality where six months later, I find myself in a Russian submersible."
+  ],
+  "back_layer_mid": 0.982889711856842,
+  "summarize_layer_mid": 0.9931917190551758,
+  "back_layer_last": 0.9618327021598816,
+  "summarize_layer_last": 0.982792317867279
+ }
+]

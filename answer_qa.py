@@ -1,6 +1,7 @@
 import json
 from APIs.gemini import generate_gemini_response
 from APIs.gpt import generate_gpt_response
+from transformers import AutoTokenizer
 from datasets import load_dataset, Dataset, Audio, load_from_disk
 import torch
 import sys
@@ -8,12 +9,13 @@ import time
 from tqdm import tqdm
 import os
 from utils.data_loader import load_data
+from vllm import LLM, SamplingParams
 
 
 def get_answer_prompt(question, context):
     prompt = (
         "Here is an English test, given the question, please select the correct answer based on the context. "
-        "The format will be: \n"
+        "Note that if it is confusing to select the correct answer based on the context or the information is lost in the context, please select [[E]].\n\n"
         "Context: Jone is a student.\n"
         "Question: What is occupation of Jone?\n"
         "(A) Doctor\n"
@@ -21,12 +23,11 @@ def get_answer_prompt(question, context):
         "(C) Lawyer\n"
         "(D) Police officer\n"
         "(E) None of above\n"
-        "Correct Answer: [[B]]\n"
-        "Note that if it is confusing to select the correct answer based on the context or the information is lost in the context, please select [[E]].\n"
+        "Correct Answer: [[B]]\n\n"  
         f"Context: {context}\n"
         f"{question}\n"
         "(E) None of above\n"
-        "Correct Answer: "
+        "Correct Answer:"
     )
     return prompt
 
@@ -56,7 +57,7 @@ def generate_n_answer(question, context, model_type, model_name, n):
     return contents
 
 def compare_answer(correct, answer):
-    if correct in answer:
+    if f"({correct})" in answer or f"[{correct}]" in answer:
         return 1
     else:
         return 0
@@ -72,6 +73,36 @@ def eval_answer(correct, answers):
         acc_dict["easy"] = 1
     return acc_dict
 
+def get_model(model_id):
+    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    llm = LLM(model=model_id, tensor_parallel_size=4, trust_remote_code=True)
+
+    # model = AutoModelForCausalLM.from_pretrained(model_id, use_flash_attention_2=True, torch_dtype=torch.bfloat16, device_map="auto")
+    # print(model.hf_device_map)
+
+    return llm, tokenizer
+
+def genenerate_n_answer_vllm(question, context, llm, tokenizer, n):
+    question = f"Question: {question['question']}\n{question['options']}"
+    prompt = get_answer_prompt(question, context)
+    prompts = [tokenizer.apply_chat_template([{'role': 'user', 'content': f"{prompt}"}],
+        tokenize=False, 
+        add_generation_prompt=True 
+        )]
+
+    # for i in range(n):
+
+    sampling_params = SamplingParams(n=5, temperature=0.4, max_tokens=512)
+    outputs = llm.generate(prompts, sampling_params)
+    contents = [outputs[0].outputs[i].text for i in range(n)]
+        # print(outputs[0].outputs[0].text)
+        # print(outputs[0].outputs[1].text)
+        # print(outputs[0].outputs[2].text)
+        # print(outputs[0].outputs[3].text)
+        # print(outputs[0].outputs[4].text)
+        # assert False
+    return contents
+    
 
 if __name__ == "__main__":
 
@@ -81,7 +112,7 @@ if __name__ == "__main__":
     answer_model = sys.argv[4]
     model_name = sys.argv[5]
     qa_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
-    context_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/GER_results/subset/{}_{}.json".format(dataset, asr_model)
+    context_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/ASR_results/subset/{}-{}.json".format(dataset, asr_model)
 
     hard_answer_stat = []
     mid_answer_stat = []
@@ -91,8 +122,14 @@ if __name__ == "__main__":
     with open(qa_data_path, "r") as f:
         qa_outputs = json.load(f)
 
+    if answer_model != "gpt" or answer_model != "gemini":
+        llm, tokenizer = get_model(model_name)
+
+    subset = len(qa_outputs)
+    # subset = 5
+
     print(len(qa_outputs))
-    for i in tqdm(range(len(qa_outputs))):
+    for i in tqdm(range(subset)):
         for j in range(len(qa_outputs[i]["qa"])):
             question = qa_outputs[i]["qa"][j]
             if "gold" not in asr_input:
@@ -100,7 +137,10 @@ if __name__ == "__main__":
             else:
                 context = context_outputs[i][asr_input]
             qa_outputs[i][asr_model] = [context]
-            answer = generate_n_answer(question, context, answer_model, model_name, 5)
+            if answer_model != "gpt" or answer_model != "gemini":
+                answer = genenerate_n_answer_vllm(question, context, llm, tokenizer, 5)
+            else:
+                answer = generate_n_answer(question, context, answer_model, model_name, 5)
             question["{}_{}_answer".format(asr_model, model_name)] = answer
             question["{}_{}_hard_accuracy".format(asr_model, model_name)] = eval_answer(question["correct answer"], answer)["hard"]
             question["{}_{}_mid_accuracy".format(asr_model, model_name)] = eval_answer(question["correct answer"], answer)["mid"]
@@ -114,5 +154,5 @@ if __name__ == "__main__":
     print("Mid Accuracy: ", sum(mid_answer_stat) / len(mid_answer_stat))
     print("Easy Accuracy: ", sum(easy_answer_stat) / len(easy_answer_stat))
 
-    with open("QA_eval/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, model_name), "w") as f:
+    with open("QA_eval/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, answer_model), "w") as f:
         json.dump(qa_outputs, f, indent=1)

@@ -112,7 +112,7 @@ if __name__ == "__main__":
     #     print(f"Layer {i+1} hidden state shape: {layer_hidden_state.shape}")
 
 
-    data_path = f"/mnt/home/zhenwan.nlp/ASR-Eval/ASR_results/subset/{dataset}-{asr_model}.json"
+    data_path = f"/mnt/home/zhenwan.nlp/ASR-Eval/ASR_results/subset/{dataset}-{asr_model}-filtered.json"
 
     data_list = []
     with open(data_path, "r") as f:

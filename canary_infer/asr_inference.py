@@ -5,7 +5,8 @@ import sys
 from tqdm import tqdm
 import soundfile as sf
 import os
-from nemo.collections.asr.models import EncDecMultiTaskModel
+# from nemo.collections.asr.models import EncDecMultiTaskModel
+from nemo.collections.asr.models import EncDecCTCModel
 
 def load_voxpopuli(do_infer=False):
     if do_infer:
@@ -69,12 +70,7 @@ def load_data(dataset, do_infer=False):
 def get_canary_outputs(sample, num_data, num_beam, num_return_sequences):
 
     # load model
-    canary_model = EncDecMultiTaskModel.from_pretrained('nvidia/canary-1b')
-
-    # update dcode params
-    decode_cfg = canary_model.cfg.decoding
-    decode_cfg.beam.beam_size = 1
-    canary_model.change_decoding_strategy(decode_cfg)
+    canary_model = EncDecCTCModel.from_pretrained('nvidia/canary-1b')
 
     print(sample[0])
 
@@ -88,24 +84,44 @@ def get_canary_outputs(sample, num_data, num_beam, num_return_sequences):
         sample_rate = audio["sampling_rate"]  # 获取采样率
         output_path = os.path.join(output_dir, f"sample_{i}.wav")
         data.append(output_path)
+        data.append(output_path)
+        data.append(output_path)
         sf.write(output_path, audio_array, sample_rate)
 
     # data = [x["path"] for x in sample["audio"][:subset]]
     # print(data)
     # assert False
-    results = canary_model.transcribe(
-        paths2audio_files=data,
-        batch_size=16,  # batch size to run the inference with
-    )
+    # update dcode params
+    results_list = []
+    for i in [0.3, 0.5, 0.7, 0.9, 1.0]:
+        print(canary_model.cfg.decoding)
+
+        decode_cfg = canary_model.cfg.decoding
+        decode_cfg.beam.beam_size = 3
+        # decode_cfg.strategy = "greedy"
+        # decode_cfg.greedy["temperature"] = 0.3
+        decode_cfg.temperature = 0.3
+        decode_cfg.beam.return_best_hypothesis = False
+        canary_model.change_decoding_strategy(decode_cfg)
+        results = canary_model.transcribe(
+            audio=data,
+            batch_size=16,  # batch size to run the inference with
+            return_hypotheses=True
+        )
+        results_list.append(results[1].text)
+    print(results_list)
+
+    # print(results)
+    assert False
     return results
 
 
 
 if __name__ == "__main__":
 
-    dataset = "medasr"
+    dataset = "voxpopuli"
     model_name = "canary"
-    subset = 500
+    subset = 4
 
     whisper_outputs = []
     data = load_data(dataset, True)
@@ -116,7 +132,8 @@ if __name__ == "__main__":
     elif model_name == "whisper-large-v3":
         whisper_v3_1best_outputs = get_whisper_outputs("openai/whisper-large-v3", data, subset, 1, 1)
     elif model_name == "canary":
-        canary_outputs = get_canary_outputs(data, subset, 1, 1)
+        # canary_1best_outputs = get_canary_outputs(data, subset, 1, 1)
+        canary_nbest_outputs = get_canary_outputs(data, subset, 5, 5)
     # print(whisper_1best_outputs)
     # whisper_nbest_outputs = get_whisper_v3_outputs(data, 20, 5)
     # assert len(whisper_1best_outputs) == len(whisper_nbest_outputs)
@@ -129,7 +146,8 @@ if __name__ == "__main__":
         elif model_name == "whisper-large-v3":
             tmp["whisper_v3_1best"] = whisper_v3_1best_outputs[i]["1best"]
         elif model_name == "canary":
-            tmp["canary_1best"] = [canary_outputs[i]]
+            tmp["canary_1best"] = [canary_1best_outputs[i]]
+            tmp["canary_nbest"] = [canary_nbest_outputs[i]]
         # tmp["whisper_v3_1best"] = whisper_v3_1best_outputs[i]["1best"]
         # tmp["whisper_v3_nbest"] = whisper_nbest_outputs[i]["whisper_v3_nbest"]
         whisper_outputs.append(tmp)

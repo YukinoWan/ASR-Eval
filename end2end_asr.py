@@ -173,7 +173,7 @@ if __name__ == "__main__":
         # os.environ["CUDA_VISIBLE_DEVICES"] = "2"
         model = AutoModel.from_pretrained("DeSTA-ntu/DeSTA2-8B-beta", trust_remote_code=True, attn_implementation="flash_attention_2", device_map="auto")
     elif asr_model == "qwen2-audio":
-        model = Qwen2AudioForConditionalGeneration.from_pretrained("Qwen/Qwen2-Audio-7B-Instruct" ,trust_remote_code=True, device_map="auto")
+        model = Qwen2AudioForConditionalGeneration.from_pretrained("Qwen/Qwen2-Audio-7B-Instruct", trust_remote_code=True, device_map="auto")
     elif asr_model == "gemini-1.5-flash" or asr_model == "gemini-1.5-pro":
         model = None
 
@@ -192,7 +192,7 @@ if __name__ == "__main__":
     # subset = len(qa_outputs)
     print(sample[0])
     subset =len(qa_outputs)
-    # subset = 5
+    # subset = 1
     audio_path = []
     for i in range(subset):
         audio = sample[i]["audio"]  # 获取音频数据
