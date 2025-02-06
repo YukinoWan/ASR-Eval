@@ -6,7 +6,9 @@ from tqdm import tqdm
 import os
 from utils.remove_repetition import remove_repetitive_text
 from utils.data_loader import load_data
-from nemo.collections.asr.models import EncDecMultiTaskModel
+# from nemo.collections.asr.models import EncDecMultiTaskModel
+from espnet2.bin.s2t_inference_ctc import Speech2TextGreedySearch
+
 
 sys.setrecursionlimit(3000)
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
@@ -189,12 +191,29 @@ def get_canary_outputs(sample, num_data, num_beam, num_return_sequences):
     )
     return results
 
+def get_espnet_outputs(sample, num_data):
+    s2t = Speech2TextGreedySearch.from_pretrained(
+        "espnet/owsm_ctc_v3.1_1B",
+        device="cuda",
+        use_flash_attn=False,   # set to True for better efficiency if flash attn is installed and dtype is float16 or bfloat16
+        lang_sym='<eng>',
+        task_sym='<asr>',
+    )
+    results = []
+    for i in tqdm(range(num_data)):
+        transcriptions = s2t.batch_decode(
+            sample[i]["audio"],
+            batch_size=16,
+            context_len_in_secs=4,
+        )
+        results.append(transcriptions)
+    return results
 
 
 if __name__ == "__main__":
 
     dataset = "voxpopuli"
-    model_name = "canary"
+    model_name = "espnet"
     subset = 200
 
     whisper_outputs = []
@@ -207,6 +226,8 @@ if __name__ == "__main__":
         whisper_v3_1best_outputs = get_whisper_outputs("openai/whisper-large-v3", data, subset, 1, 1)
     elif model_name == "canary":
         canary_outputs = get_canary_outputs(data, subset, 1, 1)
+    elif model_name == "espnet":
+        espnet_outputs = get_espnet_outputs(data, subset)
     # print(whisper_1best_outputs)
     # whisper_nbest_outputs = get_whisper_v3_outputs(data, 20, 5)
     # assert len(whisper_1best_outputs) == len(whisper_nbest_outputs)
@@ -220,6 +241,8 @@ if __name__ == "__main__":
             tmp["whisper_v3_1best"] = whisper_v3_1best_outputs[i]["1best"]
         elif model_name == "canary":
             tmp["canary_1best"] = [canary_outputs[i]]
+        elif model_name == "espnet":
+            tmp["espnet_1best"] = [espnet_outputs[i]]
         # tmp["whisper_v3_1best"] = whisper_v3_1best_outputs[i]["1best"]
         # tmp["whisper_v3_nbest"] = whisper_nbest_outputs[i]["whisper_v3_nbest"]
         whisper_outputs.append(tmp)
