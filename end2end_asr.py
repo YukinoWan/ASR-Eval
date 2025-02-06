@@ -147,7 +147,7 @@ def get_desta2_respond(model, audio_path, prompt, max_lenth):
     return response
 
 def compare_answer(correct, answer):
-    if correct in answer:
+    if f"({correct})" in answer or f"[{correct}]" in answer:
         return 1
     else:
         return 0
@@ -179,13 +179,13 @@ if __name__ == "__main__":
 
 
     #load qa data
-    qa_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
+    qa_data_path = "./QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
     with open(qa_data_path, "r") as f:
         qa_outputs = json.load(f)
 
     # load audio data
     sample = load_data(dataset, True)
-    output_dir = f"/mnt/home/zhenwan.nlp/ASR-Eval/canary_infer/{dataset}"
+    output_dir = f"./canary_infer/{dataset}"
     os.makedirs(output_dir, exist_ok=True)
 
     
@@ -237,8 +237,8 @@ if __name__ == "__main__":
     print("Mid Accuracy: ", sum(mid_answer_stat) / len(mid_answer_stat))
     print("Easy Accuracy: ", sum(easy_answer_stat) / len(easy_answer_stat))
 
-    with open("/mnt/home/zhenwan.nlp/ASR-Eval/ASR_results/subset/{}-{}.json".format(dataset, asr_model), "w") as f:
+    with open("./ASR_results/subset/{}-{}.json".format(dataset, asr_model), "w") as f:
         json.dump(asr_list, f, indent=1)
 
-    with open("QA_eval/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, asr_model), "w") as f:
+    with open("./QA_eval/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, asr_model), "w") as f:
         json.dump(qa_outputs, f, indent=1)
