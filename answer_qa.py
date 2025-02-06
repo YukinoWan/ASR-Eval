@@ -118,7 +118,7 @@ if __name__ == "__main__":
     answer_model = sys.argv[4]
     model_name = sys.argv[5]
     qa_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
-    context_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/ASR_results/subset/{}-{}.json".format(dataset, asr_model)
+    context_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/llm_respond_results/subset/llm_eval_{}_{}.json".format(dataset, asr_model)
 
     hard_answer_stat = []
     mid_answer_stat = []
