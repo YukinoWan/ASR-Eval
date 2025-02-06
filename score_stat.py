@@ -1,5 +1,5 @@
 import json
-from utils import metrics
+from utils.metrics import normalized_wer_score
 from tqdm import tqdm
 
 def compare_answer(correct, answer):
@@ -24,8 +24,9 @@ def eval_answer(correct, answers):
 
 if __name__ == "__main__":
     datasets = ["earning22", "voxpopuli", "tedlium", "medasr"]
-    asr_model1 = "whisper-large-v3"
-    asr_input1 = "whisper_v3_1best"
+    asr_model1 = "whisper_v2_nbest_gpt4o"
+    asr_input1 = "whisper_v2_nbest_gpt4o"
+    llm = "qwen2-7b"
     # asr_model2 = "whisper-large-v2"
     # asr_input2 = "whisper_v2_1best"
 
@@ -39,7 +40,7 @@ if __name__ == "__main__":
         # with open(f"llm_respond_results/subset/llm_eval_{dataset}_{asr_model2}.json", "r") as f:
         #     asr2_data = json.load(f)
         
-        with open(f"QA_eval/subset/task-{dataset}-gpt-4o-qa-asr-{asr_model1}-answer-gpt-4o.json", "r") as f:
+        with open(f"QA_eval/subset/task-{dataset}-gpt-4o-qa-asr-{asr_model1}-answer-{llm}.json", "r") as f:
             asr1_qa_data = json.load(f)
 
         # with open(f"QA_eval/subset/task-{dataset}-gpt-4o-qa-asr-{asr_model2}-answer-gpt-4o.json", "r") as f:
@@ -50,7 +51,7 @@ if __name__ == "__main__":
             tmp = {}
             # if "inaudible" in asr1_data[i]["gold"]:
             #     continue
-            asr1_wer = metrics.normalized_wer_score(asr1_data[i][asr_input1], [asr1_data[i]["gold"]])
+            asr1_wer = normalized_wer_score(asr1_data[i][asr_input1], [asr1_data[i]["gold"]])
 
             asr1_llm_back = asr1_data[i]["back_layer_last"]
             asr1_summarize = asr1_data[i]["summarize_layer_last"]
@@ -62,9 +63,9 @@ if __name__ == "__main__":
             asr1_qa_mid_list = []
             asr1_qa_easy_list = []
             for q1 in asr1_qa_data[i]["qa"]:
-                asr1_qa_hard = eval_answer(q1["correct answer"], q1[f"{asr_model1}_gpt-4o_answer"])["hard"]
-                asr1_qa_mid = eval_answer(q1["correct answer"], q1[f"{asr_model1}_gpt-4o_answer"])["mid"]
-                asr1_qa_easy = eval_answer(q1["correct answer"], q1[f"{asr_model1}_gpt-4o_answer"])["easy"]
+                asr1_qa_hard = eval_answer(q1["correct answer"], q1[f"{asr_model1}_Qwen/Qwen2-7B-Instruct_answer"])["hard"]
+                asr1_qa_mid = eval_answer(q1["correct answer"], q1[f"{asr_model1}_Qwen/Qwen2-7B-Instruct_answer"])["mid"]
+                asr1_qa_easy = eval_answer(q1["correct answer"], q1[f"{asr_model1}_Qwen/Qwen2-7B-Instruct_answer"])["easy"]
 
                 asr1_qa_hard_list.append(asr1_qa_hard)
                 asr1_qa_mid_list.append(asr1_qa_mid)
@@ -94,8 +95,6 @@ if __name__ == "__main__":
             tmp["dataset"] = dataset
 
             asr_list.append(tmp)
-
-
 
 
     print(len(asr_list))
