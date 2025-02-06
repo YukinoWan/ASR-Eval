@@ -3,6 +3,9 @@ from datasets import load_dataset, Dataset, Audio, load_from_disk
 import torch
 import sys
 from tqdm import tqdm
+import soundfile as sf
+import librosa
+
 import os
 from utils.remove_repetition import remove_repetitive_text
 from utils.data_loader import load_data
@@ -192,6 +195,7 @@ def get_canary_outputs(sample, num_data, num_beam, num_return_sequences):
     return results
 
 def get_espnet_outputs(sample, num_data):
+    sample = [f"/home/zhen/ASR-Eval/canary_infer/{dataset}/sample_{i}.wav" for i in range(num_data)]
     s2t = Speech2TextGreedySearch.from_pretrained(
         "espnet/owsm_ctc_v3.1_1B",
         device="cuda",
@@ -200,21 +204,26 @@ def get_espnet_outputs(sample, num_data):
         task_sym='<asr>',
     )
     results = []
+    context_len_in_secs = 4   # left and right context when doing buffered inference
+    batch_size = 32 
     for i in tqdm(range(num_data)):
-        transcriptions = s2t.batch_decode(
-            sample[i]["audio"],
-            batch_size=16,
-            context_len_in_secs=4,
+        speech, rate = librosa.load(sample[i], sr=16000)
+
+        text = s2t.decode_long_batched_buffered(
+            speech,
+            batch_size=batch_size,
+            context_len_in_secs=context_len_in_secs,
         )
-        results.append(transcriptions)
+        print(text)
+        results.append(text)
     return results
 
 
 if __name__ == "__main__":
 
-    dataset = "voxpopuli"
+    dataset = "medasr"
     model_name = "espnet"
-    subset = 200
+    subset = 500
 
     whisper_outputs = []
     data = load_data(dataset, True)
@@ -227,7 +236,7 @@ if __name__ == "__main__":
     elif model_name == "canary":
         canary_outputs = get_canary_outputs(data, subset, 1, 1)
     elif model_name == "espnet":
-        espnet_outputs = get_espnet_outputs(data, subset)
+        espnet_outputs = get_espnet_outputs(dataset, subset)
     # print(whisper_1best_outputs)
     # whisper_nbest_outputs = get_whisper_v3_outputs(data, 20, 5)
     # assert len(whisper_1best_outputs) == len(whisper_nbest_outputs)
