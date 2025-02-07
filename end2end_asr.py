@@ -54,7 +54,7 @@ def generate_n_answer(question, asr_model, model, audio_path, n):
         if asr_model == "desta2":
             content = get_desta2_respond(model, audio_path, prompt, 512)
         elif asr_model == "qwen2-audio":
-            content = get_qwen2_respond(model, audio_path, prompt, 512)
+            content = get_qwen2_respond(model, audio_path, prompt, 1024)
         elif asr_model == "gemini-1.5-flash" or asr_model == "gemini-1.5-pro":
             while(True):
                 try:
@@ -73,7 +73,7 @@ def generate_asr_answer(asr_model, model, audio_path):
     if asr_model == "desta2":
         content = get_desta2_respond(model, audio_path, prompt, 512).strip("\n")
     elif asr_model == "qwen2-audio":
-        content = get_qwen2_respond(model, audio_path, prompt, 512).strip("\n")
+        content = get_qwen2_respond(model, audio_path, prompt, 1024).strip("\n")
     elif asr_model == "gemini-1.5-flash" or asr_model == "gemini-1.5-pro":
         while(True):
             try:
