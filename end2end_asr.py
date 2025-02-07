@@ -179,13 +179,13 @@ if __name__ == "__main__":
 
 
     #load qa data
-    qa_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
+    qa_data_path = "./QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
     with open(qa_data_path, "r") as f:
         qa_outputs = json.load(f)
 
     # load audio data
     sample = load_data(dataset, True)
-    output_dir = f"/mnt/home/zhenwan.nlp/ASR-Eval/canary_infer/{dataset}"
+    output_dir = f"./canary_infer/{dataset}"
     os.makedirs(output_dir, exist_ok=True)
 
     

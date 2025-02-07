@@ -131,21 +131,26 @@ def select_higher(a, b):
 def select_avg(a, b, c):
     return (a + b + c) / 3
 if __name__ == "__main__":
-    models = ["canary", "desta2", "qwen2-audio", "whisper_v2_nbest_gpt4o", "whisper-large-v2", "whisper-large-v3"]
-    datasets = ["earning22"]
+    models = ["canary_gpt-4o", "canary_qwen2-7b", "desta2_desta2", "qwen2-audio", "whisper_v2_nbest_gpt4o_gpt-4o", "whisper_v2_nbest_gpt4o_qwen2-7b", "whisper-large-v2_gpt-4o", "whisper-large-v2_qwen2-7b", "whisper-large-v3_gpt-4o","whisper-large-v3_qwen2-7b", "gemini-1.5-flash_gemini-1.5-flash", "espnet_qwen2-7b"]
+    # datasets = ["earning22", "tedlium", "voxpopuli", "medasr"]
+    datasets = ["tedlium"]
     # 假设我们有 3 组模型 Size（小、中、大），以及 3 个维度（WER, Similarity, QA Accuracy）
     WER = []
     SIM = []
     QA = []
-    compute_variance_weights_dimensions = False
+    compute_variance_weights_dimensions = True
     for model in models:
-        data = json.load(open(f"/mnt/home/zhenwan.nlp/ASR-Eval/analysis/subset/{model}.json", "r", encoding="utf-8"))
+        data = json.load(open(f"/home/zhen/ASR-Eval/analysis/subset/{model}.json", "r", encoding="utf-8"))
         WER.append([-d["WER"] for d in data if d["dataset"] in datasets])
         SIM.append([select_lower(d["LLM_BACK"], d["LLM_SUMMARIZE"])for d in data if d["dataset"] in datasets])
         # SIM.append([d["LLM_AVG"] for d in data if d["dataset"] in datasets])
 
         # QA.append([select_avg(d["QA_Hard"], d["QA_Mid"], d["QA_Easy"]) for d in data if d["dataset"] in datasets])
         QA.append([d["QA_Mid"] for d in data if d["dataset"] in datasets])
+        print("model: ", model)
+        print("WER: {:.2f}".format(100*sum([d["WER"] for d in data if d["dataset"] in datasets])/len([d["WER"] for d in data if d["dataset"] in datasets])))
+        print("SIM: {:.2f}".format(100*sum([select_lower(d["LLM_BACK"], d["LLM_SUMMARIZE"])for d in data if d["dataset"] in datasets])/len([select_lower(d["LLM_BACK"], d["LLM_SUMMARIZE"])for d in data if d["dataset"] in datasets])))
+        print("QA: {:.2f}".format(100*sum([d["QA_Mid"] for d in data if d["dataset"] in datasets])/len([d["QA_Mid"] for d in data if d["dataset"] in datasets])))
 
 
     WER = np.array(WER).T
@@ -157,9 +162,9 @@ if __name__ == "__main__":
     # 假设模型 Size（0: 小, 1: 中, 2: 大）
     # model_sizes = np.array([1, 0, 0, 1, 1, 1])  # 6 个模型分别属于 3 组 Size
 
-    model_sizes_WER = np.array([1, 1, 1, 1, 1, 1])  # WER 维度
-    model_sizes_SIM = np.array([1, 1, 1, 1, 1, 1])  # SIM 维度
-    model_sizes_QA  = np.array([2, 2, 2, 2, 2, 2])  # QA 维度
+    model_sizes_WER = np.array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1])  # WER 维度
+    model_sizes_SIM = np.array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1])  # SIM 维度
+    model_sizes_QA  = np.array([2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2])  # QA 维度
 
 
     # 计算各维度的区分度（方差权重）
@@ -193,7 +198,7 @@ if __name__ == "__main__":
         final_scores_var = weights_var[0] * WER_size_adjusted + weights_var[1] * SIM_size_adjusted + weights_var[2] * QA_size_adjusted
     else:
         # w1, w2, w3 = 0.03, 0.72, 0.25  # 维度权重
-        w1, w2, w3 = 0.2, 0.3, 0.5 # 维度权重
+        w1, w2, w3 = 0.02, 0.9, 0.08 # 维度权重
         final_scores_var = w1 * WER_size_adjusted + w2 * SIM_size_adjusted + w3 * QA_size_adjusted
     IQ_scores_var = convert_to_iq(final_scores_var)
 
