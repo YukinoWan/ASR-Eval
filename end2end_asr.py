@@ -200,7 +200,7 @@ if __name__ == "__main__":
         sample_rate = audio["sampling_rate"]  # 获取采样率
         output_path = os.path.join(output_dir, f"sample_{i}.wav")
         audio_path.append(output_path)
-        sf.write(output_path, audio_array, sample_rate)
+        # sf.write(output_path, audio_array, sample_rate)
 
     # assert False
 
@@ -237,7 +237,7 @@ if __name__ == "__main__":
     print("Mid Accuracy: ", sum(mid_answer_stat) / len(mid_answer_stat))
     print("Easy Accuracy: ", sum(easy_answer_stat) / len(easy_answer_stat))
 
-    with open("/mnt/home/zhenwan.nlp/ASR-Eval/ASR_results/subset/{}-{}.json".format(dataset, asr_model), "w") as f:
+    with open("./ASR_results/subset/{}-{}.json".format(dataset, asr_model), "w") as f:
         json.dump(asr_list, f, indent=1)
 
     with open("QA_eval/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, asr_model), "w") as f:

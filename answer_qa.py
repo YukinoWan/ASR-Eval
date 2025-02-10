@@ -37,9 +37,9 @@ def generate_answer(question, context, model_type, model_name):
     prompt = get_answer_prompt(question, context)
     # print("Prompt:\n", prompt)
     # assert False
-    if model_type == "gpt":
+    if "gpt" in model_type:
         content = generate_gpt_response(model_name, prompt)
-    elif model_type == "gemini":
+    elif "gemini" in model_type:
         content = generate_gemini_response(model_name, prompt)
 
     # print("Generation: ", content)
@@ -74,7 +74,7 @@ def eval_answer(correct, answers):
     return acc_dict
 
 def get_model(model_id):
-    tokenizer = AutoTokenizer.from_pretrained(model_id)
+    tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)
     llm = LLM(model=model_id, tensor_parallel_size=4, trust_remote_code=True)
 
     # model = AutoModelForCausalLM.from_pretrained(model_id, use_flash_attention_2=True, torch_dtype=torch.bfloat16, device_map="auto")
@@ -117,8 +117,8 @@ if __name__ == "__main__":
     asr_input = sys.argv[3]
     answer_model = sys.argv[4]
     model_name = sys.argv[5]
-    qa_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
-    context_data_path = "/mnt/home/zhenwan.nlp/ASR-Eval/llm_respond_results/subset/llm_eval_{}_{}.json".format(dataset, asr_model)
+    qa_data_path = "./QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
+    context_data_path = "./ASR_results/subset/{}-{}.json".format(dataset, asr_model)
 
     hard_answer_stat = []
     mid_answer_stat = []
@@ -128,7 +128,7 @@ if __name__ == "__main__":
     with open(qa_data_path, "r") as f:
         qa_outputs = json.load(f)
 
-    if answer_model != "gpt" or answer_model != "gemini":
+    if "gpt" not in answer_model and "gemini" not in answer_model:
         llm, tokenizer = get_model(model_name)
 
     subset = len(qa_outputs)
@@ -143,7 +143,7 @@ if __name__ == "__main__":
             else:
                 context = context_outputs[i][asr_input]
             qa_outputs[i][asr_model] = [context]
-            if answer_model != "gpt" or answer_model != "gemini":
+            if "gpt" not in answer_model and "gemini" not in answer_model:
                 answer = genenerate_n_answer_vllm(question, context, llm, tokenizer, 5)
             else:
                 answer = generate_n_answer(question, context, answer_model, model_name, 5)
