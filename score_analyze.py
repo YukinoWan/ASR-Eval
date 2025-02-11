@@ -24,10 +24,10 @@ def eval_answer(correct, answers):
 
 if __name__ == "__main__":
     datasets = ["earning22", "voxpopuli", "tedlium", "medasr"]
-    asr_model1 = "whisper_v2_nbest_gpt4o"
-    asr_input1 = "whisper_v2_nbest_gpt4o"
-    asr_model2 = "whisper-large-v2"
-    asr_input2 = "whisper_v2_1best"
+    asr_model1 = "gemini-1.5-pro"
+    asr_input1 = "gemini-1.5-pro"
+    asr_model2 = "gemini-1.5-pro"
+    asr_input2 = "gemini-1.5-pro"
 
     wer_llm_avg_list = []
     llm_back_summarize_list = []
