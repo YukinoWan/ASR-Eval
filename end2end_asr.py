@@ -184,20 +184,20 @@ if __name__ == "__main__":
         qa_outputs = json.load(f)
 
     # load audio data
-    sample = load_data(dataset, True)
+    # sample = load_data(dataset, True)
     output_dir = f"./canary_infer/{dataset}"
     os.makedirs(output_dir, exist_ok=True)
 
     
     # subset = len(qa_outputs)
-    print(sample[0])
+    # print(sample[0])
     subset =len(qa_outputs)
     # subset = 1
     audio_path = []
     for i in range(subset):
-        audio = sample[i]["audio"]  # 获取音频数据
-        audio_array = audio["array"]  # 获取音频数组
-        sample_rate = audio["sampling_rate"]  # 获取采样率
+        # audio = sample[i]["audio"]  # 获取音频数据
+        # audio_array = audio["array"]  # 获取音频数组
+        # sample_rate = audio["sampling_rate"]  # 获取采样率
         output_path = os.path.join(output_dir, f"sample_{i}.wav")
         audio_path.append(output_path)
         # sf.write(output_path, audio_array, sample_rate)
@@ -215,7 +215,7 @@ if __name__ == "__main__":
     for i in tqdm(range(subset)):
         asr_input = generate_asr_answer(asr_model, model, audio_path[i])
         tmp_dict = {}
-        tmp_dict["gold"] = sample[i]["text"]
+        tmp_dict["gold"] = qa_outputs[i]["gold"]
         tmp_dict[asr_model] = asr_input
         asr_list.append(tmp_dict)
 

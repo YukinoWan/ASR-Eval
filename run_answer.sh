@@ -12,9 +12,9 @@
 # python answer_qa.py "medasr" "canary" "canary_1best" "gpt" "gpt-4o"
 
 
- python answer_qa.py "medasr" "canary" "canary_1best" "gemini-1.5-flash" "gemini-1.5-flash"
- python answer_qa.py "earning22" "canary" "canary_1best" "gemini-1.5-flash" "gemini-1.5-flash"
- python answer_qa.py "tedlium" "canary" "canary_1best" "gemini-1.5-flash" "gemini-1.5-flash"
+# python answer_qa.py "medasr" "canary" "canary_1best" "gemini-1.5-flash" "gemini-1.5-flash"
+# python answer_qa.py "earning22" "canary" "canary_1best" "gemini-1.5-flash" "gemini-1.5-flash"
+# python answer_qa.py "tedlium" "canary" "canary_1best" "gemini-1.5-flash" "gemini-1.5-flash"
  python answer_qa.py "voxpopuli" "canary" "canary_1best" "gemini-1.5-flash" "gemini-1.5-flash"
 
 #python answer_qa.py "voxpopuli" "canary" "canary_1best" "qwen2-7b" "Qwen/Qwen2-7B-Instruct"

@@ -227,7 +227,8 @@ if __name__ == "__main__":
 
     whisper_outputs = []
     data = load_data(dataset, True)
-    print(type(data))
+    print(len(data))
+    assert False
     if model_name == "whisper-large-v2":
         whisper_v2_nbest_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 20, 5)
         whisper_v2_1best_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 1, 1)
