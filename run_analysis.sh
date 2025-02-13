@@ -14,4 +14,5 @@
 
 # python score_stat.py "desta2" "desta2" "desta2" "desta2"
 python score_stat.py "gemini-1.5-flash" "gemini-1.5-flash" "gemini-1.5-flash" "gemini-1.5-flash"
+# python score_stat.py "qwen2-7b" "qwen2-7b" "qwen2-7b" "qwen2-7b"
 
