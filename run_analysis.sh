@@ -13,6 +13,6 @@
 # python score_stat.py "whisper_v2_nbest_gpt4o" "whisper_v2_nbest_gpt4o" "gpt-4o" "gpt-4o"
 
 # python score_stat.py "desta2" "desta2" "desta2" "desta2"
-python score_stat.py "gemini-1.5-pro" "gemini-1.5-pro" "gemini-1.5-pro" "gemini-1.5-pro"
+python score_stat.py "gemini-1.5-flash" "gemini-1.5-flash" "gemini-1.5-flash" "gemini-1.5-flash"
 # python score_stat.py "qwen2-7b" "qwen2-7b" "qwen2-7b" "qwen2-7b"
 
