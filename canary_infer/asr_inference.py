@@ -69,23 +69,22 @@ def load_data(dataset, do_infer=False):
     else:
         raise ValueError("Invalid dataset name")    
 
-def get_canary_outputs(sample, num_data, num_beam, num_return_sequences):
+def get_canary_outputs(dataset, num_data, num_beam, num_return_sequences):
 
     # load model
     # canary_model = EncDecCTCModel.from_pretrained('nvidia/canary-1b')
     canary_model = EncDecMultiTaskModel.from_pretrained('nvidia/canary-1b')
 
 
-    print(sample[0])
 
-    output_dir = "./medasr"
+    output_dir = f"./{dataset}"
     os.makedirs(output_dir, exist_ok=True)
 
     data = []
     for i in range(num_data):
-        audio = sample[i]["audio"]  # 获取音频数据
-        audio_array = audio["array"]  # 获取音频数组
-        sample_rate = audio["sampling_rate"]  # 获取采样率
+        #audio = sample[i]["audio"]  # 获取音频数据
+        #audio_array = audio["array"]  # 获取音频数组
+        #sample_rate = audio["sampling_rate"]  # 获取采样率
         output_path = os.path.join(output_dir, f"sample_{i}.wav")
         # data.append(output_path)
         # data.append(output_path)
@@ -121,10 +120,11 @@ def get_canary_outputs(sample, num_data, num_beam, num_return_sequences):
 
         # for j in results_list:
         #     print(j)
+        data.append(results_list)
 
     # print(results)
     # assert False
-    return results
+    return data
 
 
 
@@ -132,11 +132,11 @@ if __name__ == "__main__":
 
     dataset = "medasr"
     model_name = "canary"
-    subset = 100
+    subset = 500
 
     whisper_outputs = []
-    data = load_data(dataset, True)
-    print(type(data))
+    #data = load_data(dataset, True)
+    #print(type(data))
     if model_name == "whisper-large-v2":
         whisper_v2_nbest_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 20, 5)
         whisper_v2_1best_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 1, 1)
@@ -144,13 +144,13 @@ if __name__ == "__main__":
         whisper_v3_1best_outputs = get_whisper_outputs("openai/whisper-large-v3", data, subset, 1, 1)
     elif model_name == "canary":
         # canary_1best_outputs = get_canary_outputs(data, subset, 1, 1)
-        canary_nbest_outputs = get_canary_outputs(data, subset, 5, 5)
+        canary_nbest_outputs = get_canary_outputs(dataset, subset, 5, 5)
     # print(whisper_1best_outputs)
     # whisper_nbest_outputs = get_whisper_v3_outputs(data, 20, 5)
     # assert len(whisper_1best_outputs) == len(whisper_nbest_outputs)
     for i in tqdm(range(subset)):
         tmp = {}
-        tmp["gold"] = data[i]["text"]
+        #tmp["gold"] = data[i]["text"]
         if model_name == "whisper-large-v2":
             tmp["whisper_v2_nbest"] = whisper_v2_nbest_outputs[i]["nbest"]
             tmp["whisper_v2_1best"] = whisper_v2_1best_outputs[i]["1best"]
@@ -158,13 +158,13 @@ if __name__ == "__main__":
             tmp["whisper_v3_1best"] = whisper_v3_1best_outputs[i]["1best"]
         elif model_name == "canary":
             # tmp["canary_1best"] = [canary_1best_outputs[i]]
-            tmp["canary_nbest"] = [canary_nbest_outputs[i]]
+            tmp["canary_nbest"] = canary_nbest_outputs[i]
         # tmp["whisper_v3_1best"] = whisper_v3_1best_outputs[i]["1best"]
         # tmp["whisper_v3_nbest"] = whisper_nbest_outputs[i]["whisper_v3_nbest"]
         whisper_outputs.append(tmp)
     
     print(whisper_outputs[0])
     print(len(whisper_outputs))
-    with open("/home/zhen/ASR-Eval/ASR_results/subset/test-{}-{}.json".format(dataset, model_name), "w") as f:
+    with open("../ASR_results/subset/test-{}-{}.json".format(dataset, model_name), "w") as f:
         json.dump(whisper_outputs, f, indent=1)
 
