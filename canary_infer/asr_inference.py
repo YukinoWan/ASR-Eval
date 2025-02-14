@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
     dataset = "medasr"
     model_name = "canary"
-    subset = 500
+    subset = 5
 
     whisper_outputs = []
     #data = load_data(dataset, True)
@@ -166,5 +166,6 @@ if __name__ == "__main__":
     print(whisper_outputs[0])
     print(len(whisper_outputs))
     with open("../ASR_results/subset/test-{}-{}.json".format(dataset, model_name), "w") as f:
+        print("doen")
         json.dump(whisper_outputs, f, indent=1)
 
