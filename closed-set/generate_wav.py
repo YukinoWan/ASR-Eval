@@ -4,9 +4,9 @@ import random
 from openai import AzureOpenAI
 
 client = AzureOpenAI(
-    api_version="2024-02-15-preview",
+    api_version="2024-12-01-preview",
     azure_endpoint="https://llm-proxy.perflab.nvidia.com",
-    api_key="",
+    api_key="eyJhbGciOiJIUzI1NiJ9.eyJpZCI6ImU3NDllNTE3LTlhZDktNGZmYy1hNWMzLWZiNDA2NzQyYjQ1ZSIsInNlY3JldCI6ImoxcHp1YVdnejlYMU5ROWlPaUlRaE5WVG9CTG11UC8zY2VZejl5M0xYbG89In0.YHGzYqZBGHLwSY1DC0IHOhlMY9Muq3vkF4AU98aOn_Q",
 )
 
 # Voice metadata dictionary
@@ -26,7 +26,7 @@ output_dir.mkdir(exist_ok=True)
 # Load the input descriptions
 with open(Path(__file__).parent / "whisper_input_descriptions.json", "r") as f:
     input_data = json.load(f)
-    input_data["texts"] = input_data["texts"][:10]
+    input_data["texts"] = input_data["texts"]
 
 # Initialize metadata storage
 generation_metadata = []

@@ -1,3 +1,704 @@
 {
-  "generations": []
+  "generations": [
+    {
+      "id": "science_001",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "A new study has investigated one aspect of how the future environmental conditions created by the changing global climate might affect earliest development within Christmas Island's red crab population.",
+      "audio_file": "speech_science_001_alloy.mp3"
+    },
+    {
+      "id": "health_001",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Researchers were shocked to see that bacteria's antimicrobial resistance is strengthened when exposed to plastic particles and point to a potential outsized impact on refugees.",
+      "audio_file": "speech_health_001_onyx.mp3"
+    },
+    {
+      "id": "physics_tech_001",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "Researchers created 'growth printing,' which mimics tree trunks' outward expansion to print polymer parts quickly and efficiently without the molds and expensive equipment typically associated with 3D printing.",
+      "audio_file": "speech_physics_tech_001_alloy.mp3"
+    },
+    {
+      "id": "society_education_001",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Narcissists feel ostracized more frequently than their less self-absorbed peers, according to researchers. This may stem not only from being shunned due to their personalities but from a tendency to misinterpret ambiguous social signals as exclusion.",
+      "audio_file": "speech_society_education_001_onyx.mp3"
+    },
+    {
+      "id": "environment_001",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Researchers found that climate change induced glacial melt increases the heavy metal content and changes the microbiome of habitat-forming brown algae in Arctic fjords. As algae are at the basis of the food web, this will likely have cascading ecological and economic consequences.",
+      "audio_file": "speech_environment_001_nova.mp3"
+    },
+    {
+      "id": "science_002",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "An innovative new technique uses a novel DNA barcode system to track hundreds of RNA and protein molecules in single cells within thick biological samples, providing researchers with a full picture of how these structures are organized inside tissues.",
+      "audio_file": "speech_science_002_onyx.mp3"
+    },
+    {
+      "id": "health_002",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "New research has revealed that people often do not perceive the true meaning of their pet's emotions and can misread their dog. The reasons for this are many and include a human misunderstanding of dog expressions due to a bias towards projecting human emotions onto our pets.",
+      "audio_file": "speech_health_002_onyx.mp3"
+    },
+    {
+      "id": "physics_tech_002",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "A new strategy for recycling spent lithium-ion batteries is based on a hydrometallurgical process in neutral solution. This allows for the extraction of lithium and other valuable metals in an environmentally friendly, highly efficient, and inexpensive way. The leaching efficiency is improved by a solid-solid reduction mechanism, known as the battery effect, as well as the addition of the amino acid glycine.",
+      "audio_file": "speech_physics_tech_002_alloy.mp3"
+    },
+    {
+      "id": "society_education_002",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Urban highways promise to get people to their destinations faster -- and bring them together. But at the same time, they reduce social connections between people within the city, especially at distances of less than 5 km, according to a new study.",
+      "audio_file": "speech_society_education_002_onyx.mp3"
+    },
+    {
+      "id": "environment_002",
+      "voice": "nova",
+      "gender": "female",
+      "text": "A new analysis reveals that nearly half of the genus Heliconia, a group of tropical plants popular for their bright, beak-shaped flowers, are threatened with extinction.",
+      "audio_file": "speech_environment_002_nova.mp3"
+    },
+    {
+      "id": "science_003",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "Researchers have discovered signs that can be used to identify dogs with a high risk of gastrointestinal disease -- which causes more than 10% of all new visits to a veterinarian -- before they develop symptoms",
+      "audio_file": "speech_science_003_alloy.mp3"
+    },
+    {
+      "id": "health_003",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Researchers have enabled a man who is paralyzed to control a robotic arm through a device that relays signals from his brain to a computer. He was able to grasp, move and drop objects just by imagining himself performing the actions.",
+      "audio_file": "speech_health_003_nova.mp3"
+    },
+    {
+      "id": "physics_tech_003",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "Researchers have discovered a new method to generate electricity using small plastic beads. By placing these beads close together and bringing them into contact, they generate more electricity than usual. This process, known as triboelectrification, is similar to the static electricity produced when rubbing a balloon against hair.",
+      "audio_file": "speech_physics_tech_003_shimmer.mp3"
+    },
+    {
+      "id": "society_education_003",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "Sweden's radioactive nuclear waste will be stored in a sealed bedrock repository for 100,000 years. It will be hazardous for a very long time. So how can we ensure that humanity does not forget that it is there? Researchers have come up with a proposal for how to keep the memory alive over generations.",
+      "audio_file": "speech_society_education_003_alloy.mp3"
+    },
+    {
+      "id": "environment_003",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Forests are among the most important ecosystems in nature, constantly evolving, yet their monitoring is often delayed,' says an expert. Climate change, pests, and human activity are transforming forests faster than we can track them -- some changes become apparent only when the damage is already irreversible.",
+      "audio_file": "speech_environment_003_onyx.mp3"
+    },
+    {
+      "id": "science_004",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Researchers have developed a compound that relieves pain in mice but doesn't affect the brain, thereby avoiding mind-altering side effects and abuse potential. The custom-designed molecule, derived from cannabis, may provide an alternative to opioids for treating chronic pain.",
+      "audio_file": "speech_science_004_onyx.mp3"
+    },
+    {
+      "id": "health_004",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "Researchers have developed a compound that relieves pain in mice but doesn't affect the brain, thereby avoiding mind-altering side effects and abuse potential. The custom-designed molecule, derived from cannabis, may provide an alternative to opioids for treating chronic pain.",
+      "audio_file": "speech_health_004_alloy.mp3"
+    },
+    {
+      "id": "physics_tech_004",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Physicists developed simplified formulas to quantify quantum entanglement in strongly correlated electron systems. Their approach was applied to nanoscale materials, revealing unexpected quantum behaviors and identifying key quantities for the Kondo effect. These findings advance understanding of quantum technologies.",
+      "audio_file": "speech_physics_tech_004_echo.mp3"
+    },
+    {
+      "id": "society_education_004",
+      "voice": "fable",
+      "gender": "female",
+      "text": "A groundbreaking study shows that creativity plays an essential role in academic success, suggesting that students who think outside the box are more likely to excel in literacy and numeracy assessments.",
+      "audio_file": "speech_society_education_004_fable.mp3"
+    },
+    {
+      "id": "environment_004",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "A sweeping study for the first time tallies butterfly data from more than 76,000 surveys across the continental United States. The results: Butterflies -- all of them -- are disappearing",
+      "audio_file": "speech_environment_004_alloy.mp3"
+    },
+    {
+      "id": "science_005",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "A live-attenuated tuberculosis (TB) vaccine candidate in development elicits a much more balanced and effective immune response compared to the existing vaccine used across much of the world, according to preclinical research.",
+      "audio_file": "speech_science_005_alloy.mp3"
+    },
+    {
+      "id": "health_005",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Microplastics have been found almost everywhere that scientists have looked for them. Now these bits of plastic -- from 1 to 62 micrometers long -- have been found in the filtered solutions used for medical intravenous (IV) infusions. The researchers estimate that thousands of plastic particles could be delivered directly to a person's bloodstream from a single 8.4-ounce (250-milliliter) bag of infusion fluid.",
+      "audio_file": "speech_health_005_echo.mp3"
+    },
+    {
+      "id": "physics_tech_005",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Researchers have developed an AI-based learning system that recognizes strengths and weaknesses in mathematics by tracking eye movements with a webcam to generate problem-solving hints. This enables teachers to provide significantly more children with individualized support.",
+      "audio_file": "speech_physics_tech_005_echo.mp3"
+    },
+    {
+      "id": "society_education_005",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "Researchers have leveraged the power of continental scale water modeling and artificial intelligence to provide water quality forecasts across the country. Their findings offer a new application of the National Water Model, creating a pathway towards a national capacity to forecast water quality. Leveraging this new technology will allow public drinking water suppliers and operators nationwide to anticipate potential water quality disruptions with greater confidence.",
+      "audio_file": "speech_society_education_005_alloy.mp3"
+    },
+    {
+      "id": "environment_005",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Tropical rainforests play a vital role in global climate regulation and biodiversity conservation. However, a major new study reveals that forests across the Americas are not adapting quickly enough to keep pace with climate change, raising concerns about their long-term resilience.",
+      "audio_file": "speech_environment_005_echo.mp3"
+    },
+    {
+      "id": "science_006",
+      "voice": "fable",
+      "gender": "female",
+      "text": "Proteins play a key role in the life sciences -- from basic research and biotechnological applications to the development and manufacturing of pharmaceuticals. Scientists have developed a method that relies on physics rather than conventional chemistry to obtain the proteins that are needed for this purpose. Using short-wave, UV light invisible to humans, they have succeeded in purifying proteins from cell extracts or cultures. This technique is more efficient and gentler than previous methods.",
+      "audio_file": "speech_science_006_fable.mp3"
+    },
+    {
+      "id": "health_006",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "A world first* study of more than 215,000 students, researchers found that while standardized tests measure academic skills, different dimensions of wellbeing -- emotional wellbeing, engagement, and learning readiness -- can play a crucial role in performance.",
+      "audio_file": "speech_health_006_shimmer.mp3"
+    },
+    {
+      "id": "physics_tech_006",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "AI models often rely on 'spurious correlations,' making decisions based on unimportant and potentially misleading information. Researchers have now discovered these learned spurious correlations can be traced to a very small subset of the training data and have demonstrated a technique that overcomes the problem.",
+      "audio_file": "speech_physics_tech_006_alloy.mp3"
+    },
+    {
+      "id": "society_education_006",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "Nearly 40% of adult Americans say they've experienced some type of sport-related mistreatment in their lives, a new study shows. Mistreatment ranged from psychological and emotional to physical and sexual. But most people who reported mistreatment experienced more than one kind, the research found.",
+      "audio_file": "speech_society_education_006_alloy.mp3"
+    },
+    {
+      "id": "environment_006",
+      "voice": "fable",
+      "gender": "female",
+      "text": "The amount of nitrogen fertilizer needed to maximize the profitability of corn production in the Midwest has been increasing by about 1.2% per year for the past three decades, a trend driven by higher yields and wetter springs, according to a new study.",
+      "audio_file": "speech_environment_006_fable.mp3"
+    },
+    {
+      "id": "science_007",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Scientists discovered genes in the tuberculosis bacterium that becomes essential for the pathogen's survival when it's exposed to air through coughing. These genes could be targets for new therapies that simultaneously treat infection and prevent transmission.",
+      "audio_file": "speech_science_007_onyx.mp3"
+    },
+    {
+      "id": "health_007",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Children who consumed the least amounts of seafood at 7-years-old were likely to be less 'prosocial' at ages 7 and 9 years than those who regularly consumed seafood, according to a new study. 'Prosocial' behavior includes friendly interactions, altruism, and sharing.",
+      "audio_file": "speech_health_007_nova.mp3"
+    },
+    {
+      "id": "physics_tech_007",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "A Japanese study has found that the use of continuous glucose monitoring (CGM) devices, equipped with sensors that alert diabetics when their blood sugar levels drop, can potentially make diabetic drivers safer on the road. Those who used the devices had lower incidences of low blood sugar and reported increased confidence in driving.",
+      "audio_file": "speech_physics_tech_007_shimmer.mp3"
+    },
+    {
+      "id": "society_education_007",
+      "voice": "nova",
+      "gender": "female",
+      "text": "The extensive loss of biodiversity represents one of the major crises of our time, threatening not only entire ecosystems but also our current and future livelihoods. As scientists realize the magnitude and scale of ongoing extinctions, it is vital to ascertain the resources available for conservation and whether funds are being effectively distributed to protect species most in need.",
+      "audio_file": "speech_society_education_007_nova.mp3"
+    },
+    {
+      "id": "environment_007",
+      "voice": "fable",
+      "gender": "female",
+      "text": "Obesity rates are set to skyrocket, with one in six children and adolescents worldwide forecast to be obese by 2050, according to a new study. But with significant increases predicted within the next five years, the researchers stress urgent action now could turn the tide on the public health crisis.",
+      "audio_file": "speech_environment_007_fable.mp3"
+    },
+    {
+      "id": "science_008",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "A study finds that herpes infection through the nose can lead to anxiety, motor impairment and cognitive issues. The research shows that by exploiting a cellular enzyme, the virus can produce behavioral symptoms. The finding emphasizes the need for prevention and treatment of a virus carried by billions of people worldwide.",
+      "audio_file": "speech_science_008_alloy.mp3"
+    },
+    {
+      "id": "health_008",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Parenting skills can make a big difference in fostering a newborn's language acquisition and cognition, but there may be a limit to how far parenting can go to make up the challenges to developing this skill in those born in highly disadvantaged backgrounds.",
+      "audio_file": "speech_health_008_nova.mp3"
+    },
+    {
+      "id": "physics_tech_008",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Engineers have developed a new computational approach to accurately model and predict the properties of a class of magnetic molecules called chiral helimagnets. Their work could accelerate the discovery of new materials for spintronics technologies.",
+      "audio_file": "speech_physics_tech_008_echo.mp3"
+    },
+    {
+      "id": "society_education_008",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "In our polarized society, a new study offers hope for the future: Even young children can learn to discuss and argue about meaningful problems in a respectful and productive way. Researchers found success in a social studies curriculum for fourth graders based on teaching what they called 'civic competencies.'",
+      "audio_file": "speech_society_education_008_onyx.mp3"
+    },
+    {
+      "id": "environment_008",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Researchers have identified small molecules in the blood that may impact early childhood development, showing how dietary exposures, early life experiences, and gut health can influence a child's growth and cognitive milestones.",
+      "audio_file": "speech_environment_008_nova.mp3"
+    },
+    {
+      "id": "science_009",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "Transposons, or 'jumping genes' -- DNA segments that can move from one part of the genome to another -- are key to bacterial evolution and the development of antibiotic resistance. Researchers have discovered a new mechanism these genes use to survive and propagate in bacteria with linear DNA, with applications in biotechnology and drug development.",
+      "audio_file": "speech_science_009_shimmer.mp3"
+    },
+    {
+      "id": "health_009",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "A new study has found that targeted psychological interventions can significantly enhance long-term resistance to misinformation. Dubbed 'psychological booster shots,' these interventions improve memory retention and help individuals recognize and resist misleading information more effectively over time.",
+      "audio_file": "speech_health_009_shimmer.mp3"
+    },
+    {
+      "id": "physics_tech_009",
+      "voice": "nova",
+      "gender": "female",
+      "text": "From the perspective of complex systems, the study reveals the universality, specificity, and explanatory power of underlying rules governing urban system evolution.",
+      "audio_file": "speech_physics_tech_009_nova.mp3"
+    },
+    {
+      "id": "society_education_009",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "London's Ultra Low Emission Zone (ULEZ) is transforming children's journeys to school by making streets safer, improving perceptions of air quality and encouraging children to live healthier lives. A new study highlights its benefits, with many families noticing cleaner air and safer roads. However, it also reveals challenges, particularly for those living in outer boroughs who are more reliant on the car and may struggle to adapt.",
+      "audio_file": "speech_society_education_009_onyx.mp3"
+    },
+    {
+      "id": "environment_009",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "A team has gathered photographic data on daily mammalian activity, studying 445 total species around the world with surprising results. The project generated a massive dataset of animal images examining species' diel phenotype plasticity, an important step to understand the impacts of environmental change and help direct conservation actions.",
+      "audio_file": "speech_environment_009_shimmer.mp3"
+    },
+    {
+      "id": "science_010",
+      "voice": "fable",
+      "gender": "female",
+      "text": "New research has provided fresh insights into how bird songs evolve over time, revealing a significant role for population dynamics in shaping song diversity and change. The findings are based on an analysis of over 100,000 bird songs.",
+      "audio_file": "speech_science_010_fable.mp3"
+    },
+    {
+      "id": "health_010",
+      "voice": "nova",
+      "gender": "female",
+      "text": "New research suggests that automated insulin delivery (AID) systems are safe and effective for use by older adults with type 1 diabetes. The findings counter common assumptions that older adults would struggle to use the more advanced technology employed in the medical devices.",
+      "audio_file": "speech_health_010_nova.mp3"
+    },
+    {
+      "id": "physics_tech_010",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Engineers have developed a pioneering prosthetic hand that can grip plush toys, water bottles, and other everyday objects like a human, carefully conforming and adjusting its grasp to avoid damaging or mishandling whatever it holds.",
+      "audio_file": "speech_physics_tech_010_nova.mp3"
+    },
+    {
+      "id": "society_education_010",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "A framework helps rail system operators or other planners identify the best joint infrastructure projects to collaborate on with other firms. Their tool can tell an operator how much to invest, the proper time to collaborate, and how the shared profits should be distributed.",
+      "audio_file": "speech_society_education_010_shimmer.mp3"
+    },
+    {
+      "id": "environment_010",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Working toward more effective tuberculosis (TB) vaccines, researchers have developed two strains of mycobacteria with 'kill switches' that can be triggered to stop the bacteria after they activate an immune response.",
+      "audio_file": "speech_environment_010_onyx.mp3"
+    },
+    {
+      "id": "science_011",
+      "voice": "fable",
+      "gender": "female",
+      "text": "New research has revealed that people often do not perceive the true meaning of their pet's emotions and can misread their dog. The reasons for this are many and include a human misunderstanding of dog expressions due to a bias towards projecting human emotions onto our pets.",
+      "audio_file": "speech_science_011_fable.mp3"
+    },
+    {
+      "id": "health_011",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Prostate cancer statistics can look scary: 34,250 U.S. deaths in 2024. 1.4 million new cases worldwide in 2022.",
+      "audio_file": "speech_health_011_nova.mp3"
+    },
+    {
+      "id": "physics_tech_011",
+      "voice": "fable",
+      "gender": "female",
+      "text": "Discarded food scraps, stray branches, seashells and many other natural materials are key ingredients in a system that can pull drinkable water out of thin air developed by researchers.",
+      "audio_file": "speech_physics_tech_011_fable.mp3"
+    },
+    {
+      "id": "society_education_011",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "Education experts are encouraging schools to consider problem-based learning (PBL) in a move to improve engagement and creativity among high school students. New research demonstrates how hands-on, community-based projects can deliver successful learning outcomes for disengaged students.",
+      "audio_file": "speech_society_education_011_alloy.mp3"
+    },
+    {
+      "id": "environment_011",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "There's an arms race in medicine -- scientists design drugs to treat lethal bacterial infections, but bacteria can evolve defenses to those drugs, sending the researchers back to square one. A team describes the development of a drug candidate that can stop bacteria before they have a chance to cause harm.",
+      "audio_file": "speech_environment_011_shimmer.mp3"
+    },
+    {
+      "id": "science_012",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "Astronomers have peered back to a time when the universe was just less than 300 million years old. The research team, using JWST revealed something extraordinary in the galaxy: significant amounts of oxygen.",
+      "audio_file": "speech_science_012_shimmer.mp3"
+    },
+    {
+      "id": "health_012",
+      "voice": "nova",
+      "gender": "female",
+      "text": "In a study comparing the glioma tumors of firefighters and non-fighters, researchers found a mutational signature tied to exposure to haloalkanes, which are used in flame retardants, fire extinguishers, and pesticides.",
+      "audio_file": "speech_health_012_nova.mp3"
+    },
+    {
+      "id": "physics_tech_012",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "By replacing clothes dyers with line drying, households in the U.S. could save upwards of $2,100 and avoid 3 tons of carbon dioxide emissions over the lifetime of a dryer. The exact impacts, however, depend on what kind of dryer you have and where you live, new research shows.",
+      "audio_file": "speech_physics_tech_012_alloy.mp3"
+    },
+    {
+      "id": "society_education_012",
+      "voice": "echo",
+      "gender": "male",
+      "text": "The south-western Baltic Sea has about 3,000 kilograms of dissolved toxic chemicals released from unexploded ordnance, according to a new study. The substances were detected in almost all water samples taken in 2017 and 2018, with particularly high concentrations in the Bights of Kiel and L beck. The levels are still below thresholds for health risk, but highlight the urgent need for munitions clearance to minimize long-term risks.",
+      "audio_file": "speech_society_education_012_echo.mp3"
+    },
+    {
+      "id": "environment_012",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "New research has yielded promising results in the fight against campylobacter in free-range chicken flocks. Trials demonstrate that adding biochar to chicken feed can reduce campylobacter in chickens by up to 80%. This could potentially lead to fewer foodborne illnesses among humans.",
+      "audio_file": "speech_environment_012_shimmer.mp3"
+    },
+    {
+      "id": "science_013",
+      "voice": "fable",
+      "gender": "female",
+      "text": "Scientists have discovered 'berkelocene,' the first organometallic molecule to be characterized containing the heavy element berkelium. The breakthrough disrupts long-held theories about the chemistry of the elements that follow uranium in the periodic table.",
+      "audio_file": "speech_science_013_fable.mp3"
+    },
+    {
+      "id": "health_013",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "In multiple sclerosis (MS), antibodies to the common Epstein-Barr virus can accidentally attack a protein in the brain and spinal cord. New research shows that the combination of certain viral antibodies and genetic risk factors can be linked to a greatly increased risk of MS.",
+      "audio_file": "speech_health_013_onyx.mp3"
+    },
+    {
+      "id": "physics_tech_013",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Whether it's rivers cutting through earth, lava melting through rock, or water slicing through ice, channels all twist and bend in a seemingly similar back-and-forth manner. But a new study has discovered that channels carved by rivers actually have curves distinct to those cut by lava or ice.",
+      "audio_file": "speech_physics_tech_013_echo.mp3"
+    },
+    {
+      "id": "society_education_013",
+      "voice": "echo",
+      "gender": "male",
+      "text": "A healthy diet in early pregnancy supports the child's motor development at the age of 5-6 years. Higher maternal body fat mass, on the other hand, has an adverse effect on the child's motor development.",
+      "audio_file": "speech_society_education_013_echo.mp3"
+    },
+    {
+      "id": "environment_013",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Very early exposure to even a very small dose of herpes simplex virus (HSV) in infant mice can lead to cognitive decline later in life, according to new findings. This is significant because of emerging data in human studies showing an association between HSV and Alzheimer's disease in humans.",
+      "audio_file": "speech_environment_013_onyx.mp3"
+    },
+    {
+      "id": "science_014",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Researchers are working on artificial muscles that can keep up with the real thing. They have now developed a method of producing the soft and elastic, yet powerful structures using 3D printing. One day, these could be used in medicine or robotics -- and anywhere else where things need to move at the touch of a button.",
+      "audio_file": "speech_science_014_nova.mp3"
+    },
+    {
+      "id": "health_014",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "MIT researchers developed a framework that lets a user correct a robot's behavior during deployment using simple interactions, such as by pointing to an item, tracing a trajectory, or nudging the robot's arm.",
+      "audio_file": "speech_health_014_alloy.mp3"
+    },
+    {
+      "id": "physics_tech_014",
+      "voice": "fable",
+      "gender": "female",
+      "text": "Until now, artificial gels have either managed to replicate high stiffness or natural skin's self-healing properties, but not both. Now, a team of researchers has developed a hydrogel with a unique structure that overcomes earlier limitations, opening the door to applications such as drug delivery, wound healing, soft robotics sensors and artificial skin.",
+      "audio_file": "speech_physics_tech_014_fable.mp3"
+    },
+    {
+      "id": "society_education_014",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "Scientists have found Siamese fighting fish are typically kept in containers just one-quarter the size they need to thrive, challenging decades of retail practice in the ornamental fish industry worldwide.",
+      "audio_file": "speech_society_education_014_shimmer.mp3"
+    },
+    {
+      "id": "environment_014",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "New research has found it will be economically unsustainable by 2080 for many areas across Latin America and the Caribbean to continue growing bananas for export, because of rising temperatures caused by climate change.",
+      "audio_file": "speech_environment_014_onyx.mp3"
+    },
+    {
+      "id": "science_015",
+      "voice": "echo",
+      "gender": "male",
+      "text": "On decadal timescales, the loss of Arctic ice favors the climate of the south-west of the United States -- and California in particular -- becoming drier on average, especially in winter. This phenomenon would also affect the climate of Spain and Portugal, favoring conditions of higher humidity in winter, although in this case the observed effect is weaker.",
+      "audio_file": "speech_science_015_echo.mp3"
+    },
+    {
+      "id": "health_015",
+      "voice": "fable",
+      "gender": "female",
+      "text": "A novel analysis of more than 375 published studies concluded that the association between chronic pain and rates of depression and anxiety is staggering. The study found that 40% of adults with chronic pain experienced 'clinically significant depression and anxiety.' Among those most at risk, the analysis showed, were women, younger adults and people with fibromyalgia.",
+      "audio_file": "speech_health_015_fable.mp3"
+    },
+    {
+      "id": "physics_tech_015",
+      "voice": "echo",
+      "gender": "male",
+      "text": "A multi-institutional research team has clarified the energy levels of color centers at the SiO2/SiC interface, paving the way toward the development of scalable quantum technologies that use them as single-photon emitters.",
+      "audio_file": "speech_physics_tech_015_echo.mp3"
+    },
+    {
+      "id": "society_education_015",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Remember when 2 degrees Celsius of global warming was the doomsday scenario? Well, we're now staring down the barrel of something much worse. From the fish on your plate to the weather outside your window, everything's about to change. A new study underscores the grave risks posed by insufficient national commitments to reducing greenhouse gas emissions.",
+      "audio_file": "speech_society_education_015_nova.mp3"
+    },
+    {
+      "id": "environment_015",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Researchers are suggesting a more comprehensive approach for identifying at-risk wildlife populations -- such as caribou -- based on individual movement patterns. The article uses a long-term dataset of caribou wearing GPS collars across Western Canada. It identifies six distinct behavioral groups that would each deserve their own conservation actions.",
+      "audio_file": "speech_environment_015_echo.mp3"
+    },
+    {
+      "id": "science_016",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "A new study presents a compelling new model for the formation of super-Earths and mini-Neptunes -- planets that are 1 to 4 times the size of Earth and among the most common in our galaxy. Using advanced simulations, the researchers propose that these planets emerge from distinct rings of planetesimals, providing fresh insight into planetary evolution beyond our solar system.",
+      "audio_file": "speech_science_016_shimmer.mp3"
+    },
+    {
+      "id": "health_016",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "A recent study suggests that limiting screen time and promoting physical activity from childhood may help safeguard mental health in adolescence. The findings are particularly significant given that mental health problems affect up to 30% of young people and pose a growing societal challenge.",
+      "audio_file": "speech_health_016_shimmer.mp3"
+    },
+    {
+      "id": "physics_tech_016",
+      "voice": "nova",
+      "gender": "female",
+      "text": "In a breakthrough that could transform bioelectronic sensing, an interdisciplinary team of researchers has developed a new method to dramatically enhance the sensitivity of enzymatic and microbial fuel cells using organic electrochemical transistors (OECTs).",
+      "audio_file": "speech_physics_tech_016_nova.mp3"
+    },
+    {
+      "id": "society_education_016",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "After a cyber attack or natural disaster, a backup network of decentralized devices -- like residential solar panels, batteries, electric vehicles, heat pumps, and water heaters -- could restore electricity or relieve stress on the grid, engineers find.",
+      "audio_file": "speech_society_education_016_onyx.mp3"
+    },
+    {
+      "id": "environment_016",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "The whitefin swellshark has been assessed by the International Union for Conservation of Nature (IUCN) as Critically Endangered for a number of years due to declines largely attributed to fishing practices. New research suggests it will be forced to move and adapt under the future ocean conditions presently forecast as a result of climate change, but that finding a new home may pose challenges.",
+      "audio_file": "speech_environment_016_alloy.mp3"
+    },
+    {
+      "id": "science_017",
+      "voice": "fable",
+      "gender": "female",
+      "text": "Researchers have identified genetic changes in blood stem cells from frequent blood donors that support the production of new, non-cancerous cells. Understanding the differences in the mutations that accumulate in our blood stem cells as we age is important to understand how and why blood cancers develop and hopefully how to intervene before the onset of clinical symptoms.",
+      "audio_file": "speech_science_017_fable.mp3"
+    },
+    {
+      "id": "health_017",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "A single molecular switch is essential for blood stem cells to enter an activated, regenerative state in which they produce new blood cells, according to a preclinical study. The discovery could lead to more effective bone marrow transplants and gene therapies.",
+      "audio_file": "speech_health_017_alloy.mp3"
+    },
+    {
+      "id": "physics_tech_017",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Scientists have discovered how to turn common minerals into materials that spontaneously remove and store carbon dioxide from the atmosphere. In the lab, the materials pull CO2 from the air thousands of times faster than occurs with natural rock weathering.",
+      "audio_file": "speech_physics_tech_017_echo.mp3"
+    },
+    {
+      "id": "society_education_017",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "Contrary to the long-held belief that the mid-career crisis plagues everyone, new research suggests that job satisfaction follows a U-shaped trajectory only for managerial and professional workers. This provocative finding challenges societal perceptions surrounding midlife and calls for a revaluation of workplace support for individuals in their 40s and 50s.",
+      "audio_file": "speech_society_education_017_onyx.mp3"
+    },
+    {
+      "id": "environment_017",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "The oldest collection of mass-produced prehistoric bone tools reveal that human ancestors were likely capable of more advanced abstract reasoning one million years earlier than thought, finds a new study.",
+      "audio_file": "speech_environment_017_shimmer.mp3"
+    },
+    {
+      "id": "science_018",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "Researchers have revealed neural circuits in the brainstem that are crucially involved in implementing decisions by controlling three fundamental behavioral states or strategies: perseverance, exploration and disengagement. The circuits revealed in this study in mice may help to further understand a number of neuropsychiatric conditions including obsessive-compulsive disorder (OCD), autism and major depressive disorder.",
+      "audio_file": "speech_science_018_shimmer.mp3"
+    },
+    {
+      "id": "health_018",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "A landmark study reveals that bacterial vaginosis (BV), a condition affecting nearly a third of women worldwide and causing infertility, premature births and newborn deaths, is in fact an STI, paving the way for a revolution in how it is treated.",
+      "audio_file": "speech_health_018_onyx.mp3"
+    },
+    {
+      "id": "physics_tech_018",
+      "voice": "echo",
+      "gender": "male",
+      "text": "On Wednesday 26 February, a thermal imaging camera blasted off to the Moon as part of NASA's Lunar Trailblazer mission. This aims to map sources of water on the Moon to shed light on the lunar water cycle and to guide future robotic and human missions.",
+      "audio_file": "speech_physics_tech_018_echo.mp3"
+    },
+    {
+      "id": "society_education_018",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "Labor market policies shape firms' innovation dynamics. A new study shows for the first time that higher minimum wages for low-skill jobs drive firms to develop automation technologies. Rising wages for high-skill labor, in contrast, can hamper this effect.",
+      "audio_file": "speech_society_education_018_shimmer.mp3"
+    },
+    {
+      "id": "environment_018",
+      "voice": "fable",
+      "gender": "female",
+      "text": "A research team has successfully developed a super-photostable organic dye after two years of dedicated research demonstrating perseverance akin to that of Marie Curie, who painstakingly extracted just 0.1 grams of radium from eight tons of ore to earn her Nobel Prize.",
+      "audio_file": "speech_environment_018_fable.mp3"
+    },
+    {
+      "id": "science_019",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "The megalodon has long been imagined as an enormous great white shark, but new research suggests that perception is all wrong. The study finds the prehistoric hunter had a much longer body -- closer in shape to a lemon shark or even a large whale.",
+      "audio_file": "speech_science_019_shimmer.mp3"
+    },
+    {
+      "id": "health_019",
+      "voice": "echo",
+      "gender": "male",
+      "text": "People with Crohn's disease and related joint inflammation linked to immune system dysfunction have distinct gut bacteria or microbiota, with the bacterium Mediterraneibacter gnavus being a potential biomarker, according to new study.",
+      "audio_file": "speech_health_019_echo.mp3"
+    },
+    {
+      "id": "physics_tech_019",
+      "voice": "alloy",
+      "gender": "female",
+      "text": "A study introduces a novel thermodynamic concept called the 'centotectic' and investigates the stability of liquids in extreme conditions -- critical information for determining the habitability of icy moons like Europa.",
+      "audio_file": "speech_physics_tech_019_alloy.mp3"
+    },
+    {
+      "id": "society_education_019",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Companies around the world are underestimating their total greenhouse gas footprints because of inconsistent accounting standards for methane emissions, finds a new study.",
+      "audio_file": "speech_society_education_019_nova.mp3"
+    },
+    {
+      "id": "environment_019",
+      "voice": "echo",
+      "gender": "male",
+      "text": "A new study suggests that Neanderthals experienced a dramatic loss of genetic variation during the course of their evolution, foreshadowing their eventual extinction. Examination of semicircular canals of ear shows Neanderthals experienced 'bottleneck' event where physical and genetic variation was lost.",
+      "audio_file": "speech_environment_019_echo.mp3"
+    },
+    {
+      "id": "science_020",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Researchers have discovered the world's oldest known meteorite impact crater, which could significantly redefine our understanding of the origins of life and how our planet was shaped. The team found evidence of a major meteorite impact 3.5 billion years ago.",
+      "audio_file": "speech_science_020_nova.mp3"
+    },
+    {
+      "id": "health_020",
+      "voice": "echo",
+      "gender": "male",
+      "text": "Creation of a comprehensive genetic representation for more than 2.5 billion people across the Middle East and South Asia could make a major contribution towards advancing precision medicine.",
+      "audio_file": "speech_health_020_echo.mp3"
+    },
+    {
+      "id": "physics_tech_020",
+      "voice": "nova",
+      "gender": "female",
+      "text": "Scientists are designing a satellite and instruments capable of detecting space debris as small as 1 centimeter, less than one-half inch. Debris that small, which cannot currently be detected from the ground, can damage satellites and other spacecraft in low-Earth orbit.",
+      "audio_file": "speech_physics_tech_020_nova.mp3"
+    },
+    {
+      "id": "society_education_020",
+      "voice": "onyx",
+      "gender": "male",
+      "text": "A recent study by management scholars underscores the importance of organizations' dynamic capabilities for greener business practices. Analyzing data from 139 manufacturing companies, the research reveals that financial and technological expertise combined with adaptability to regulations and evolving consumer demands, are key to advancing the green transition.",
+      "audio_file": "speech_society_education_020_onyx.mp3"
+    },
+    {
+      "id": "environment_020",
+      "voice": "shimmer",
+      "gender": "male",
+      "text": "The nailed heads ritual did not correspond to the same symbolic expression among the Iberian communities of the northeast of the Iberian Peninsula, but rather a practice that differed in each settlement. In some, external individuals were used as symbols of power and intimidation, while other settlements could have given priority to the veneration of members of the local community.",
+      "audio_file": "speech_environment_020_shimmer.mp3"
+    }
+  ]
 }

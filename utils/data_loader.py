@@ -49,6 +49,21 @@ def load_medasr(do_infer=False):
     print(len(medasr))
     return medasr
 
+def load_medasr(do_infer=False):
+    if do_infer:
+        with open("/Users/zwan/ASR-Eval/closed-set/target_wav_data/generation_metadata.json", "r") as f:
+            meta_data = json.load(f)
+            meta_data = meta_data["generations"]
+        for tmp in meta_data:
+            tmp["gold"] = tmp["text"]
+    else:
+        with open("/Users/zwan/ASR-Eval/closed-set/target_wav_data/generation_metadata.json", "r") as f:
+            meta_data = json.load(f)
+            meta_data = meta_data["generations"]
+        for tmp in meta_data:
+            tmp["gold"] = tmp["text"]
+    return meta_data
+
 def load_data(dataset, do_infer=False):
     if dataset == "voxpopuli":
         return load_voxpopuli(do_infer)
@@ -58,5 +73,7 @@ def load_data(dataset, do_infer=False):
         return load_earning22(do_infer)
     elif dataset == "medasr":
         return load_medasr(do_infer)
+    elif dataset == "closed":
+        return load_closed(do_infer)
     else:
         raise ValueError("Invalid dataset name")    
