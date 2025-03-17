@@ -121,7 +121,7 @@ def get_qwen2_respond(model, audio_path, prompt, max_lenth):
     generate_ids = generate_ids[:, inputs.input_ids.size(1):]
 
     response = processor.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
-    print(response)
+    # print(resp)
     return response
 
 
@@ -142,7 +142,7 @@ def get_desta2_respond(model, audio_path, prompt, max_lenth):
     )
 
     response = model.tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-    print(response)
+    # print(response)
 
     return response
 
@@ -184,9 +184,10 @@ if __name__ == "__main__":
         qa_outputs = json.load(f)
 
     # load audio data
-    # sample = load_data(dataset, True)
-    output_dir = f"./canary_infer/{dataset}"
-    os.makedirs(output_dir, exist_ok=True)
+    sample = load_data(dataset, True)
+
+    # output_dir = f"./canary_infer/{dataset}"
+    # os.makedirs(output_dir, exist_ok=True)
 
     
     # subset = len(qa_outputs)
@@ -198,8 +199,11 @@ if __name__ == "__main__":
         # audio = sample[i]["audio"]  # 获取音频数据
         # audio_array = audio["array"]  # 获取音频数组
         # sample_rate = audio["sampling_rate"]  # 获取采样率
-        output_path = os.path.join(output_dir, f"sample_{i}.wav")
-        audio_path.append(output_path)
+
+        # output_path = os.path.join(output_dir, f"sample_{i}.wav")
+        # audio_path.append(output_path)
+
+        audio_path.append(sample[i]["audio_path"])
         # sf.write(output_path, audio_array, sample_rate)
 
     # assert False

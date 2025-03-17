@@ -221,14 +221,13 @@ def get_espnet_outputs(sample, num_data):
 
 if __name__ == "__main__":
 
-    dataset = "medasr"
-    model_name = "espnet"
-    subset = 500
+    dataset = "closed"
+    model_name = sys.argv[1]
+    subset = 100
 
     whisper_outputs = []
     data = load_data(dataset, True)
     print(len(data))
-    assert False
     if model_name == "whisper-large-v2":
         whisper_v2_nbest_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 20, 5)
         whisper_v2_1best_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 1, 1)

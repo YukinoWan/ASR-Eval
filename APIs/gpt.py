@@ -1,6 +1,6 @@
 from openai import OpenAI
 def generate_gpt_response(model, input_text):
-    client = OpenAI(api_key="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")
+    client = OpenAI(api_key="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")
     completion = client.chat.completions.create(
         model=model,
         messages=[

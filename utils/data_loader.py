@@ -49,19 +49,23 @@ def load_medasr(do_infer=False):
     print(len(medasr))
     return medasr
 
-def load_medasr(do_infer=False):
+def load_closed(do_infer=False):
     if do_infer:
-        with open("/Users/zwan/ASR-Eval/closed-set/target_wav_data/generation_metadata.json", "r") as f:
+        with open("./closed-set/target_wav_data/generation_metadata.json", "r") as f:
             meta_data = json.load(f)
             meta_data = meta_data["generations"]
         for tmp in meta_data:
             tmp["gold"] = tmp["text"]
+            tmp["audio_path"] = "./closed-set/target_wav_data/" + tmp["audio_file"]
+            tmp["audio"] = tmp["audio_path"]
     else:
-        with open("/Users/zwan/ASR-Eval/closed-set/target_wav_data/generation_metadata.json", "r") as f:
+        with open("./closed-set/target_wav_data/generation_metadata.json", "r") as f:
             meta_data = json.load(f)
             meta_data = meta_data["generations"]
         for tmp in meta_data:
             tmp["gold"] = tmp["text"]
+            tmp["audio_path"] = "./closed-set/target_wav_data/" + tmp["audio_file"]
+            tmp["audio"] = tmp["audio_path"]
     return meta_data
 
 def load_data(dataset, do_infer=False):

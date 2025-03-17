@@ -34,7 +34,7 @@ def get_qa_prompt(text):
 
 def generate_qa(text, model_type, model_name):
     prompt = get_qa_prompt(text)
-    print("Prompt:\n", prompt)
+    # print("Prompt:\n", prompt)
     # assert False
     if model_type == "gpt":
         content = generate_gpt_response(model_name, prompt)
@@ -42,7 +42,7 @@ def generate_qa(text, model_type, model_name):
     elif model_type == "gemini":
         content = generate_gemini_response(model_name, prompt)
         content = gemini_qa_to_dict(content)
-    print("Generation: ", content)
+    # print("Generation: ", content)
 
     return content
 
