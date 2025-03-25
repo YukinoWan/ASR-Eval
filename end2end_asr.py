@@ -13,6 +13,7 @@ from io import BytesIO
 from urllib.request import urlopen
 import librosa
 from transformers import AutoProcessor, Qwen2AudioForConditionalGeneration
+import argparse
 
 
 
@@ -121,6 +122,7 @@ def get_qwen2_respond(model, audio_path, prompt, max_lenth):
     generate_ids = generate_ids[:, inputs.input_ids.size(1):]
 
     response = processor.batch_decode(generate_ids, skip_special_tokens=True, clean_up_tokenization_spaces=False)[0]
+    # response = response.split(":")[1].strip("\"").strip("'")
     # print(resp)
     return response
 
@@ -165,9 +167,13 @@ def eval_answer(correct, answers):
 
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dataset", type=str, default="earning22")
+    parser.add_argument("--asr_model", type=str, default="qwen2-audio")
+    args = parser.parse_args()
 
-    dataset = sys.argv[1]
-    asr_model = sys.argv[2]
+    dataset = args.dataset
+    asr_model = args.asr_model
 
     if asr_model == "desta2":
         # os.environ["CUDA_VISIBLE_DEVICES"] = "2"
@@ -179,19 +185,13 @@ if __name__ == "__main__":
 
 
     #load qa data
-    qa_data_path = "./QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
+    qa_data_path = "./QA_data/subset/{}-gpt-4o-qa.json".format(dataset)
     with open(qa_data_path, "r") as f:
         qa_outputs = json.load(f)
 
     # load audio data
     sample = load_data(dataset, True)
 
-    # output_dir = f"./canary_infer/{dataset}"
-    # os.makedirs(output_dir, exist_ok=True)
-
-    
-    # subset = len(qa_outputs)
-    # print(sample[0])
     subset =len(qa_outputs)
     # subset = 1
     audio_path = []
@@ -206,7 +206,6 @@ if __name__ == "__main__":
         audio_path.append(sample[i]["audio_path"])
         # sf.write(output_path, audio_array, sample_rate)
 
-    # assert False
 
     hard_answer_stat = []
     mid_answer_stat = []
@@ -244,5 +243,5 @@ if __name__ == "__main__":
     with open("./ASR_results/subset/{}-{}.json".format(dataset, asr_model), "w") as f:
         json.dump(asr_list, f, indent=1)
 
-    with open("QA_eval/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, asr_model), "w") as f:
+    with open("QA_results/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, asr_model), "w") as f:
         json.dump(qa_outputs, f, indent=1)

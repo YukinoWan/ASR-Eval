@@ -24,7 +24,8 @@ def eval_answer(correct, answers):
 
 
 if __name__ == "__main__":
-    datasets = ["earning22", "voxpopuli", "tedlium", "medasr"]
+    datasets = ["earning22", "voxpopuli", "medasr"]
+    datasets = ["closed"]
     asr_model1 = sys.argv[1]
     asr_input1 = sys.argv[2]
     llm = sys.argv[3]

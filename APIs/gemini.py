@@ -2,7 +2,7 @@ import google.generativeai as genai
 
 
 def generate_gemini_response(model, input_text):
-    GEMINI_API_KEY = "AIzaSyBsGUSheO0sa5bDqvvDJOE9d8hZhecpbNg"
+    GEMINI_API_KEY = ""
     genai.configure(api_key=GEMINI_API_KEY)
     model = genai.GenerativeModel(model)
     response = model.generate_content(
@@ -15,7 +15,7 @@ def generate_gemini_response(model, input_text):
     return response.text
 
 def generate_gemini_audio_response(model, audio_path, input_text):
-    GEMINI_API_KEY = "AIzaSyBsGUSheO0sa5bDqvvDJOE9d8hZhecpbNg"
+    GEMINI_API_KEY = ""
     genai.configure(api_key=GEMINI_API_KEY)
     myfile = genai.upload_file(audio_path)
     model = genai.GenerativeModel(model)

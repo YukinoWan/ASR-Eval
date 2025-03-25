@@ -10,6 +10,7 @@ from tqdm import tqdm
 import os
 from utils.data_loader import load_data
 from vllm import LLM, SamplingParams
+import argparse
 
 
 def get_answer_prompt(question, context):
@@ -96,29 +97,25 @@ def genenerate_n_answer_vllm(question, context, llm, tokenizer, n):
         prompts = ['<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n' + prompt + '<|im_end|>\n<|im_start|>assistant\n']
         sampling_params = SamplingParams(n=5, temperature=0.4, max_tokens=512, stop=["<|im_end|>", "<|im_start|>",])
 
-    # for i in range(n):
-
     
     outputs = llm.generate(prompts, sampling_params)
     contents = [outputs[0].outputs[i].text for i in range(n)]
-        # print(outputs[0].outputs[0].text)
-        # print(outputs[0].outputs[1].text)
-        # print(outputs[0].outputs[2].text)
-        # print(outputs[0].outputs[3].text)
-        # print(outputs[0].outputs[4].text)
-        # assert False
+
     return contents
     
 
 if __name__ == "__main__":
 
-    dataset = sys.argv[1]
-    asr_model = sys.argv[2]
-    asr_input = sys.argv[3]
-    answer_model = sys.argv[4]
-    model_name = sys.argv[5]
-    qa_data_path = "./QA_results/subset/{}-gpt-4o-qa.json".format(dataset)
-    context_data_path = "./llm_respond_results/subset/llm_eval_{}_{}.json".format(dataset, asr_model)
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dataset", type=str, default="earning22")
+    parser.add_argument("--asr_model", type=str, default="whisper_v3_1best")
+    parser.add_argument("--asr_input", type=str, default="gold")
+    parser.add_argument("--answer_model", type=str, default="gpt-4o")
+    parser.add_argument("--model_name", type=str, default="gpt-4o")
+    args = parser.parse_args()
+
+    qa_data_path = "./QA_data/subset/{}-gpt-4o-qa.json".format(args.dataset)
+    context_data_path = "./ASR_results/subset/{}-{}.json".format(args.dataset, args.asr_model)
 
     hard_answer_stat = []
     mid_answer_stat = []
@@ -128,8 +125,8 @@ if __name__ == "__main__":
     with open(qa_data_path, "r") as f:
         qa_outputs = json.load(f)
 
-    if "gpt" not in answer_model and "gemini" not in answer_model:
-        llm, tokenizer = get_model(model_name)
+    if "gpt" not in args.answer_model and "gemini" not in args.answer_model:
+        llm, tokenizer = get_model(args.model_name)
 
     subset = len(qa_outputs)
     # subset = 5
@@ -138,27 +135,27 @@ if __name__ == "__main__":
     for i in tqdm(range(subset)):
         for j in range(len(qa_outputs[i]["qa"])):
             question = qa_outputs[i]["qa"][j]
-            if "gold" not in asr_input:
-                context = context_outputs[i][asr_input][0]
+            if "gold" not in args.asr_input:
+                context = context_outputs[i][args.asr_input][0]
             else:
-                context = context_outputs[i][asr_input]
-            qa_outputs[i][asr_model] = [context]
-            if "gpt" not in answer_model and "gemini" not in answer_model:
+                context = context_outputs[i][args.asr_input]
+            qa_outputs[i][args.asr_model] = [context]
+            if "gpt" not in args.answer_model and "gemini" not in args.answer_model:
                 answer = genenerate_n_answer_vllm(question, context, llm, tokenizer, 5)
             else:
-                answer = generate_n_answer(question, context, answer_model, model_name, 5)
-            question["{}_{}_answer".format(asr_model, model_name)] = answer
-            question["{}_{}_hard_accuracy".format(asr_model, model_name)] = eval_answer(question["correct answer"], answer)["hard"]
-            question["{}_{}_mid_accuracy".format(asr_model, model_name)] = eval_answer(question["correct answer"], answer)["mid"]
-            question["{}_{}_easy_accuracy".format(asr_model, model_name)] = eval_answer(question["correct answer"], answer)["easy"]
+                answer = generate_n_answer(question, context, args.answer_model, args.model_name, 5)
+            question["{}_{}_answer".format(args.asr_model, args.model_name)] = answer
+            question["{}_{}_hard_accuracy".format(args.asr_model, args.model_name)] = eval_answer(question["correct answer"], answer)["hard"]
+            question["{}_{}_mid_accuracy".format(args.asr_model, args.model_name)] = eval_answer(question["correct answer"], answer)["mid"]
+            question["{}_{}_easy_accuracy".format(args.asr_model, args.model_name)] = eval_answer(question["correct answer"], answer)["easy"]
 
-            hard_answer_stat.append(question["{}_{}_hard_accuracy".format(asr_model, model_name)])
-            mid_answer_stat.append(question["{}_{}_mid_accuracy".format(asr_model, model_name)])
-            easy_answer_stat.append(question["{}_{}_easy_accuracy".format(asr_model, model_name)])
+            hard_answer_stat.append(question["{}_{}_hard_accuracy".format(args.asr_model, args.model_name)])
+            mid_answer_stat.append(question["{}_{}_mid_accuracy".format(args.asr_model, args.model_name)])
+            easy_answer_stat.append(question["{}_{}_easy_accuracy".format(args.asr_model, args.model_name)])
 
     print("Hard Accuracy: ", sum(hard_answer_stat) / len(hard_answer_stat))
     print("Mid Accuracy: ", sum(mid_answer_stat) / len(mid_answer_stat))
     print("Easy Accuracy: ", sum(easy_answer_stat) / len(easy_answer_stat))
 
-    with open("QA_eval/subset/task-{}-gpt-4o-qa-asr-{}-answer-{}.json".format(dataset, asr_model, answer_model), "w") as f:
+    with open("QA_Results/subset/task-{}-asr-{}-answer-{}.json".format(args.dataset, args.asr_model, args.answer_model), "w") as f:
         json.dump(qa_outputs, f, indent=1)

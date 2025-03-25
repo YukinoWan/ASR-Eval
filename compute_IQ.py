@@ -133,14 +133,15 @@ def select_avg(a, b, c):
 if __name__ == "__main__":
     # models = ["canary_gpt-4o", "canary_qwen2-7b", "desta2_desta2", "qwen2-audio", "whisper_v2_nbest_gpt4o_gpt-4o", "whisper_v2_nbest_gpt4o_qwen2-7b", "whisper-large-v2_gpt-4o", "whisper-large-v2_qwen2-7b", "whisper-large-v3_gpt-4o","whisper-large-v3_qwen2-7b", "gemini-1.5-flash_gemini-1.5-flash", "gemini-1.5-pro_gemini-1.5-pro", "espnet_qwen2-7b", "salmonn_salmonn"]
     models = ["canary_qwen2-7b", "desta2_desta2", "qwen2-audio", "whisper_v2_nbest_gpt4o_qwen2-7b", "whisper-large-v2_qwen2-7b","whisper-large-v3_qwen2-7b", "gemini-1.5-flash_gemini-1.5-flash", "gemini-1.5-pro_gemini-1.5-pro", "espnet_qwen2-7b", "salmonn_salmonn"]
+    models = ["canary_qwen2-7b", "desta2_desta2", "qwen2-audio_qwen2-audio", "whisper_v2_nbest_gpt4o_qwen2-7b", "whisper-large-v2_qwen2-7b","whisper-large-v3_qwen2-7b", "gemini-1.5-flash_gemini-1.5-flash", "gemini-1.5-pro_gemini-1.5-pro", "espnet_qwen2-7b"]
 
-    datasets = ["earning22", "voxpopuli", "medasr"]
-    # datasets = ["medasr"]
+    # datasets = ["earning22", "voxpopuli", "medasr"]
+    datasets = ["closed"]
     # 假设我们有 3 组模型 Size（小、中、大），以及 3 个维度（WER, Similarity, QA Accuracy）
     WER = []
     SIM = []
     QA = []
-    compute_variance_weights_dimensions = False
+    compute_variance_weights_dimensions = True
     for model in models:
         data = json.load(open(f"./analysis/subset/{model}.json", "r", encoding="utf-8"))
         WER.append([-d["WER"] for d in data if d["dataset"] in datasets])
@@ -164,9 +165,9 @@ if __name__ == "__main__":
     # 假设模型 Size（0: 小, 1: 中, 2: 大）
     # model_sizes = np.array([1, 0, 0, 1, 1, 1])  # 6 个模型分别属于 3 组 Size
 
-    model_sizes_WER = np.array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1])  # WER 维度
-    model_sizes_SIM = np.array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1])  # SIM 维度
-    model_sizes_QA  = np.array([2, 2, 2, 2, 2, 2, 2, 2, 2, 2])  # QA 维度
+    model_sizes_WER = np.array([1, 1, 1, 1, 1, 1, 1, 1, 1])  # WER 维度
+    model_sizes_SIM = np.array([1, 1, 1, 1, 1, 1, 1, 1, 1])  # SIM 维度
+    model_sizes_QA  = np.array([2, 2, 2, 2, 2, 2, 2, 2, 2])  # QA 维度
 
 
     # 计算各维度的区分度（方差权重）

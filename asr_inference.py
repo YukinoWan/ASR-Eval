@@ -187,15 +187,17 @@ def get_canary_outputs(sample, num_data, num_beam, num_return_sequences):
     decode_cfg.beam.beam_size = 1
     canary_model.change_decoding_strategy(decode_cfg)
 
-    data = sample["audio"][:subset]
+    data = [sample[x]["audio_path"] for x in range(num_data)]
+    print(data)
     results = canary_model.transcribe(
         paths2audio_files=data,
-        atch_size=16,  # batch size to run the inference with
+        audio=data,
+        batch_size=16,  # batch size to run the inference with
     )
     return results
 
 def get_espnet_outputs(sample, num_data):
-    sample = [f"/home/zhen/ASR-Eval/canary_infer/{dataset}/sample_{i}.wav" for i in range(num_data)]
+    # sample = [f"/home/zhen/ASR-Eval/canary_infer/{dataset}/sample_{i}.wav" for i in range(num_data)]
     s2t = Speech2TextGreedySearch.from_pretrained(
         "espnet/owsm_ctc_v3.1_1B",
         device="cuda",
@@ -207,27 +209,34 @@ def get_espnet_outputs(sample, num_data):
     context_len_in_secs = 4   # left and right context when doing buffered inference
     batch_size = 32 
     for i in tqdm(range(num_data)):
-        speech, rate = librosa.load(sample[i], sr=16000)
+        # print(sample[i])
+        speech, rate = librosa.load(sample[i]["audio_path"], sr=16000)
 
         text = s2t.decode_long_batched_buffered(
             speech,
             batch_size=batch_size,
             context_len_in_secs=context_len_in_secs,
         )
-        print(text)
+        # print(text)
         results.append(text)
     return results
 
 
 if __name__ == "__main__":
 
-    dataset = "closed"
-    model_name = sys.argv[1]
-    subset = 100
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--dataset", type=str, default="closed")
+    parser.add_argument("--model_name", type=str, default="whisper-large-v2")
+    args = parser.parse_args()
+
+    dataset = args.dataset
+    model_name = args.model_name
+    
 
     whisper_outputs = []
     data = load_data(dataset, True)
     print(len(data))
+    subset = len(data)
     if model_name == "whisper-large-v2":
         whisper_v2_nbest_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 20, 5)
         whisper_v2_1best_outputs = get_whisper_outputs("openai/whisper-large-v2", data, subset, 1, 1)
@@ -236,7 +245,7 @@ if __name__ == "__main__":
     elif model_name == "canary":
         canary_outputs = get_canary_outputs(data, subset, 1, 1)
     elif model_name == "espnet":
-        espnet_outputs = get_espnet_outputs(dataset, subset)
+        espnet_outputs = get_espnet_outputs(data, subset)
     # print(whisper_1best_outputs)
     # whisper_nbest_outputs = get_whisper_v3_outputs(data, 20, 5)
     # assert len(whisper_1best_outputs) == len(whisper_nbest_outputs)
